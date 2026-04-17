@@ -1,0 +1,11 @@
+# Omni-Kernel Git Ignore
+/target
+/.omni-cache
+/.cargo
+build.log
+*.pyc
+__pycache__/
+# GitBook
+/_book/
+.DS_Store
+*.omni

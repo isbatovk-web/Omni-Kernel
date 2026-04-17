@@ -1,0 +1,3875 @@
+{
+  "omni_atlas_version": "1.0.0",
+  "generated": "2026-04-17T15:58:54.288950",
+  "total_languages": 483,
+  "detailed_languages": [
+    {
+      "name": "Plankalkül",
+      "year": 1943,
+      "creator": "Konrad Zuse",
+      "family": "PROTO",
+      "paradigm": [
+        "imperative",
+        "structured"
+      ],
+      "typing": "static",
+      "status": "historical",
+      "keyword_count": 4,
+      "syntax_pattern_count": 3,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Short Code",
+      "year": 1949,
+      "creator": "John Mauchly",
+      "family": "PROTO",
+      "paradigm": [
+        "imperative"
+      ],
+      "typing": "untyped",
+      "status": "historical",
+      "keyword_count": 2,
+      "syntax_pattern_count": 2,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Autocode",
+      "year": 1952,
+      "creator": "Alick Glennie",
+      "family": "PROTO",
+      "paradigm": [
+        "imperative"
+      ],
+      "typing": "static",
+      "status": "historical",
+      "keyword_count": 8,
+      "syntax_pattern_count": 3,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "FORTRAN",
+      "year": 1957,
+      "creator": "John Backus (IBM)",
+      "family": "FORTRAN",
+      "paradigm": [
+        "imperative",
+        "structured",
+        "procedural"
+      ],
+      "typing": "static, strong",
+      "status": "active",
+      "keyword_count": 46,
+      "syntax_pattern_count": 5,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "LISP",
+      "year": 1958,
+      "creator": "John McCarthy",
+      "family": "LISP",
+      "paradigm": [
+        "functional",
+        "procedural",
+        "reflective",
+        "meta"
+      ],
+      "typing": "dynamic, strong",
+      "status": "active",
+      "keyword_count": 49,
+      "syntax_pattern_count": 6,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "ALGOL 58",
+      "year": 1958,
+      "creator": "ACM/GAMM Committee",
+      "family": "ALGOL",
+      "paradigm": [
+        "imperative",
+        "structured",
+        "procedural"
+      ],
+      "typing": "static",
+      "status": "historical",
+      "keyword_count": 21,
+      "syntax_pattern_count": 3,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "COBOL",
+      "year": 1959,
+      "creator": "Grace Hopper / CODASYL Committee",
+      "family": "COBOL",
+      "paradigm": [
+        "imperative",
+        "procedural",
+        "object-oriented (2002+)"
+      ],
+      "typing": "static, strong",
+      "status": "active",
+      "keyword_count": 40,
+      "syntax_pattern_count": 4,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "ALGOL 60",
+      "year": 1960,
+      "creator": "Backus, Naur, et al.",
+      "family": "ALGOL",
+      "paradigm": [
+        "imperative",
+        "structured",
+        "procedural"
+      ],
+      "typing": "static",
+      "status": "historical",
+      "keyword_count": 22,
+      "syntax_pattern_count": 2,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "APL",
+      "year": 1962,
+      "creator": "Kenneth Iverson",
+      "family": "APL",
+      "paradigm": [
+        "array",
+        "functional",
+        "structured"
+      ],
+      "typing": "dynamic",
+      "status": "active",
+      "keyword_count": 20,
+      "syntax_pattern_count": 5,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Simula",
+      "year": 1962,
+      "creator": "Ole-Johan Dahl, Kristen Nygaard",
+      "family": "ALGOL",
+      "paradigm": [
+        "object-oriented",
+        "imperative",
+        "structured",
+        "simulation"
+      ],
+      "typing": "static, strong",
+      "status": "historical",
+      "keyword_count": 28,
+      "syntax_pattern_count": 3,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "SNOBOL",
+      "year": 1962,
+      "creator": "Ralph Griswold, Ivan Polonsky, David Farber",
+      "family": "SNOBOL",
+      "paradigm": [
+        "imperative",
+        "pattern-matching"
+      ],
+      "typing": "dynamic",
+      "status": "historical",
+      "keyword_count": 20,
+      "syntax_pattern_count": 2,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "CPL",
+      "year": 1963,
+      "creator": "Christopher Strachey, Cambridge/London",
+      "family": "ALGOL",
+      "paradigm": [
+        "imperative",
+        "structured",
+        "functional"
+      ],
+      "typing": "static",
+      "status": "historical",
+      "keyword_count": 7,
+      "syntax_pattern_count": 1,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "BASIC",
+      "year": 1964,
+      "creator": "John Kemeny, Thomas Kurtz",
+      "family": "BASIC",
+      "paradigm": [
+        "imperative",
+        "procedural",
+        "structured (later)"
+      ],
+      "typing": "dynamic (early), static (later variants)",
+      "status": "active (VB.NET, VBA)",
+      "keyword_count": 59,
+      "syntax_pattern_count": 3,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "PL/I",
+      "year": 1964,
+      "creator": "IBM",
+      "family": "PL/I",
+      "paradigm": [
+        "imperative",
+        "structured",
+        "procedural"
+      ],
+      "typing": "static, strong",
+      "status": "legacy active",
+      "keyword_count": 50,
+      "syntax_pattern_count": 3,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Logo",
+      "year": 1967,
+      "creator": "Wally Feurzeig, Seymour Papert",
+      "family": "LISP",
+      "paradigm": [
+        "functional",
+        "imperative",
+        "educational"
+      ],
+      "typing": "dynamic",
+      "status": "active (educational)",
+      "keyword_count": 37,
+      "syntax_pattern_count": 4,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "BCPL",
+      "year": 1967,
+      "creator": "Martin Richards",
+      "family": "ALGOL",
+      "paradigm": [
+        "imperative",
+        "structured",
+        "procedural"
+      ],
+      "typing": "typeless",
+      "status": "historical",
+      "keyword_count": 36,
+      "syntax_pattern_count": 2,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Pascal",
+      "year": 1970,
+      "creator": "Niklaus Wirth",
+      "family": "ALGOL",
+      "paradigm": [
+        "imperative",
+        "structured",
+        "procedural"
+      ],
+      "typing": "static, strong",
+      "status": "active (Free Pascal, Delphi, Lazarus)",
+      "keyword_count": 61,
+      "syntax_pattern_count": 4,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "B",
+      "year": 1969,
+      "creator": "Ken Thompson, Dennis Ritchie",
+      "family": "ALGOL",
+      "paradigm": [
+        "imperative",
+        "procedural"
+      ],
+      "typing": "typeless",
+      "status": "historical",
+      "keyword_count": 9,
+      "syntax_pattern_count": 2,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "C",
+      "year": 1972,
+      "creator": "Dennis Ritchie",
+      "family": "C",
+      "paradigm": [
+        "imperative",
+        "structured",
+        "procedural"
+      ],
+      "typing": "static, weak",
+      "status": "active",
+      "keyword_count": 44,
+      "syntax_pattern_count": 6,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Smalltalk",
+      "year": 1972,
+      "creator": "Alan Kay, Xerox PARC",
+      "family": "SMALLTALK",
+      "paradigm": [
+        "object-oriented",
+        "reflective"
+      ],
+      "typing": "dynamic, strong",
+      "status": "active (Pharo, Squeak, GemStone)",
+      "keyword_count": 10,
+      "syntax_pattern_count": 5,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Prolog",
+      "year": 1972,
+      "creator": "Alain Colmerauer, Robert Kowalski",
+      "family": "LOGIC",
+      "paradigm": [
+        "logic",
+        "declarative"
+      ],
+      "typing": "dynamic",
+      "status": "active (SWI-Prolog, SICStus, GNU Prolog)",
+      "keyword_count": 43,
+      "syntax_pattern_count": 4,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "SQL",
+      "year": 1974,
+      "creator": "Donald Chamberlin, Raymond Boyce (IBM)",
+      "family": "QUERY",
+      "paradigm": [
+        "declarative",
+        "set-based"
+      ],
+      "typing": "static (column types)",
+      "status": "active",
+      "keyword_count": 77,
+      "syntax_pattern_count": 6,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Scheme",
+      "year": 1975,
+      "creator": "Guy Steele, Gerald Sussman",
+      "family": "LISP",
+      "paradigm": [
+        "functional",
+        "imperative",
+        "meta"
+      ],
+      "typing": "dynamic, strong",
+      "status": "active (Racket, Chez Scheme, Guile, Chicken)",
+      "keyword_count": 50,
+      "syntax_pattern_count": 5,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "ML",
+      "year": 1973,
+      "creator": "Robin Milner",
+      "family": "ML",
+      "paradigm": [
+        "functional",
+        "imperative"
+      ],
+      "typing": "static, strong, inferred",
+      "status": "active (Standard ML, MLton, SML/NJ, Poly/ML)",
+      "keyword_count": 44,
+      "syntax_pattern_count": 4,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "C++",
+      "year": 1985,
+      "creator": "Bjarne Stroustrup",
+      "family": "C",
+      "paradigm": [
+        "imperative",
+        "object-oriented",
+        "generic",
+        "functional (C++11+)"
+      ],
+      "typing": "static, strong (with escape hatches)",
+      "status": "active",
+      "keyword_count": 96,
+      "syntax_pattern_count": 5,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Objective-C",
+      "year": 1984,
+      "creator": "Brad Cox, Tom Love",
+      "family": "C",
+      "paradigm": [
+        "object-oriented",
+        "reflective"
+      ],
+      "typing": "static + dynamic",
+      "status": "legacy active (Apple ecosystem)",
+      "keyword_count": 30,
+      "syntax_pattern_count": 2,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Perl",
+      "year": 1987,
+      "creator": "Larry Wall",
+      "family": "SCRIPTING",
+      "paradigm": [
+        "imperative",
+        "functional",
+        "object-oriented",
+        "reflective"
+      ],
+      "typing": "dynamic",
+      "status": "active",
+      "keyword_count": 54,
+      "syntax_pattern_count": 4,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Erlang",
+      "year": 1986,
+      "creator": "Joe Armstrong (Ericsson)",
+      "family": "FUNCTIONAL",
+      "paradigm": [
+        "functional",
+        "concurrent",
+        "distributed"
+      ],
+      "typing": "dynamic, strong",
+      "status": "active",
+      "keyword_count": 44,
+      "syntax_pattern_count": 4,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Python",
+      "year": 1991,
+      "creator": "Guido van Rossum",
+      "family": "SCRIPTING",
+      "paradigm": [
+        "imperative",
+        "object-oriented",
+        "functional",
+        "structured",
+        "reflective"
+      ],
+      "typing": "dynamic, strong (duck typing)",
+      "status": "active",
+      "keyword_count": 38,
+      "syntax_pattern_count": 7,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Haskell",
+      "year": 1990,
+      "creator": "Haskell Committee",
+      "family": "ML",
+      "paradigm": [
+        "purely functional",
+        "lazy"
+      ],
+      "typing": "static, strong, inferred",
+      "status": "active",
+      "keyword_count": 28,
+      "syntax_pattern_count": 6,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Java",
+      "year": 1995,
+      "creator": "James Gosling (Sun Microsystems)",
+      "family": "C",
+      "paradigm": [
+        "object-oriented",
+        "imperative",
+        "generic",
+        "functional (Java 8+)"
+      ],
+      "typing": "static, strong, nominative",
+      "status": "active",
+      "keyword_count": 65,
+      "syntax_pattern_count": 5,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "JavaScript",
+      "year": 1995,
+      "creator": "Brendan Eich (Netscape)",
+      "family": "C",
+      "paradigm": [
+        "imperative",
+        "functional",
+        "object-oriented (prototype)",
+        "event-driven"
+      ],
+      "typing": "dynamic, weak",
+      "status": "active",
+      "keyword_count": 44,
+      "syntax_pattern_count": 6,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Ruby",
+      "year": 1995,
+      "creator": "Yukihiro Matsumoto (Matz)",
+      "family": "SCRIPTING",
+      "paradigm": [
+        "object-oriented",
+        "imperative",
+        "functional",
+        "reflective"
+      ],
+      "typing": "dynamic, strong (duck typing)",
+      "status": "active",
+      "keyword_count": 53,
+      "syntax_pattern_count": 4,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "PHP",
+      "year": 1995,
+      "creator": "Rasmus Lerdorf",
+      "family": "SCRIPTING",
+      "paradigm": [
+        "imperative",
+        "object-oriented",
+        "functional",
+        "reflective"
+      ],
+      "typing": "dynamic, weak (gradually typed in 8+)",
+      "status": "active",
+      "keyword_count": 72,
+      "syntax_pattern_count": 3,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Lua",
+      "year": 1993,
+      "creator": "Roberto Ierusalimschy, PUC-Rio",
+      "family": "SCRIPTING",
+      "paradigm": [
+        "imperative",
+        "procedural",
+        "functional",
+        "object-oriented (via metatables)"
+      ],
+      "typing": "dynamic, strong",
+      "status": "active",
+      "keyword_count": 22,
+      "syntax_pattern_count": 4,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "R",
+      "year": 1993,
+      "creator": "Ross Ihaka, Robert Gentleman",
+      "family": "STATISTICAL",
+      "paradigm": [
+        "functional",
+        "object-oriented",
+        "array"
+      ],
+      "typing": "dynamic",
+      "status": "active",
+      "keyword_count": 32,
+      "syntax_pattern_count": 3,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Rust",
+      "year": 2010,
+      "creator": "Graydon Hoare (Mozilla)",
+      "family": "C",
+      "paradigm": [
+        "imperative",
+        "functional",
+        "concurrent",
+        "generic"
+      ],
+      "typing": "static, strong, inferred, affine (ownership)",
+      "status": "active",
+      "keyword_count": 52,
+      "syntax_pattern_count": 7,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Go",
+      "year": 2009,
+      "creator": "Robert Griesemer, Rob Pike, Ken Thompson (Google)",
+      "family": "C",
+      "paradigm": [
+        "imperative",
+        "concurrent",
+        "structured"
+      ],
+      "typing": "static, strong, inferred",
+      "status": "active",
+      "keyword_count": 42,
+      "syntax_pattern_count": 5,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Swift",
+      "year": 2014,
+      "creator": "Chris Lattner (Apple)",
+      "family": "C",
+      "paradigm": [
+        "imperative",
+        "object-oriented",
+        "functional",
+        "protocol-oriented"
+      ],
+      "typing": "static, strong, inferred",
+      "status": "active",
+      "keyword_count": 57,
+      "syntax_pattern_count": 5,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Kotlin",
+      "year": 2011,
+      "creator": "JetBrains",
+      "family": "C",
+      "paradigm": [
+        "object-oriented",
+        "functional",
+        "imperative"
+      ],
+      "typing": "static, strong, inferred",
+      "status": "active",
+      "keyword_count": 74,
+      "syntax_pattern_count": 6,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "TypeScript",
+      "year": 2012,
+      "creator": "Anders Hejlsberg (Microsoft)",
+      "family": "C",
+      "paradigm": [
+        "imperative",
+        "object-oriented",
+        "functional",
+        "generic"
+      ],
+      "typing": "static (gradual), strong, structural",
+      "status": "active",
+      "keyword_count": 75,
+      "syntax_pattern_count": 4,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Elixir",
+      "year": 2011,
+      "creator": "Jose Valim",
+      "family": "FUNCTIONAL",
+      "paradigm": [
+        "functional",
+        "concurrent",
+        "distributed"
+      ],
+      "typing": "dynamic, strong",
+      "status": "active",
+      "keyword_count": 42,
+      "syntax_pattern_count": 4,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Scala",
+      "year": 2004,
+      "creator": "Martin Odersky",
+      "family": "ML",
+      "paradigm": [
+        "object-oriented",
+        "functional",
+        "imperative"
+      ],
+      "typing": "static, strong, inferred",
+      "status": "active",
+      "keyword_count": 50,
+      "syntax_pattern_count": 3,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "C#",
+      "year": 2000,
+      "creator": "Anders Hejlsberg (Microsoft)",
+      "family": "C",
+      "paradigm": [
+        "object-oriented",
+        "imperative",
+        "functional",
+        "generic",
+        "event-driven"
+      ],
+      "typing": "static, strong, nominative",
+      "status": "active",
+      "keyword_count": 99,
+      "syntax_pattern_count": 6,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "D",
+      "year": 2001,
+      "creator": "Walter Bright",
+      "family": "C",
+      "paradigm": [
+        "imperative",
+        "object-oriented",
+        "functional",
+        "meta",
+        "concurrent"
+      ],
+      "typing": "static, strong, inferred",
+      "status": "active",
+      "keyword_count": 90,
+      "syntax_pattern_count": 1,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Dart",
+      "year": 2011,
+      "creator": "Lars Bak, Kasper Lund (Google)",
+      "family": "C",
+      "paradigm": [
+        "object-oriented",
+        "imperative",
+        "functional"
+      ],
+      "typing": "static, strong (sound null safety)",
+      "status": "active",
+      "keyword_count": 67,
+      "syntax_pattern_count": 3,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Julia",
+      "year": 2012,
+      "creator": "Jeff Bezanson, Alan Edelman, Stefan Karpinski, Viral Shah",
+      "family": "SCIENTIFIC",
+      "paradigm": [
+        "imperative",
+        "functional",
+        "multiple dispatch",
+        "meta"
+      ],
+      "typing": "dynamic (optionally typed), strong",
+      "status": "active",
+      "keyword_count": 35,
+      "syntax_pattern_count": 4,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Zig",
+      "year": 2016,
+      "creator": "Andrew Kelley",
+      "family": "C",
+      "paradigm": [
+        "imperative",
+        "structured",
+        "generic"
+      ],
+      "typing": "static, strong",
+      "status": "active",
+      "keyword_count": 51,
+      "syntax_pattern_count": 3,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Nim",
+      "year": 2008,
+      "creator": "Andreas Rumpf",
+      "family": "PYTHON_LIKE",
+      "paradigm": [
+        "imperative",
+        "functional",
+        "object-oriented",
+        "meta"
+      ],
+      "typing": "static, strong, inferred",
+      "status": "active",
+      "keyword_count": 66,
+      "syntax_pattern_count": 3,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Crystal",
+      "year": 2014,
+      "creator": "Ary Borenszweig, Juan Wajnerman (Manas Technology)",
+      "family": "SCRIPTING",
+      "paradigm": [
+        "object-oriented",
+        "imperative",
+        "functional"
+      ],
+      "typing": "static, strong, inferred",
+      "status": "active",
+      "keyword_count": 61,
+      "syntax_pattern_count": 2,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "V",
+      "year": 2019,
+      "creator": "Alexander Medvednikov",
+      "family": "C",
+      "paradigm": [
+        "imperative",
+        "functional",
+        "concurrent"
+      ],
+      "typing": "static, strong",
+      "status": "active",
+      "keyword_count": 43,
+      "syntax_pattern_count": 2,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Mojo",
+      "year": 2023,
+      "creator": "Chris Lattner (Modular)",
+      "family": "PYTHON_LIKE",
+      "paradigm": [
+        "imperative",
+        "object-oriented",
+        "functional",
+        "systems"
+      ],
+      "typing": "static + dynamic, strong",
+      "status": "active (early access)",
+      "keyword_count": 40,
+      "syntax_pattern_count": 2,
+      "mastery_level": "COMPLETE"
+    },
+    {
+      "name": "Carbon",
+      "year": 2022,
+      "creator": "Chandler Carruth (Google)",
+      "family": "C",
+      "paradigm": [
+        "imperative",
+        "object-oriented",
+        "generic"
+      ],
+      "typing": "static, strong",
+      "status": "experimental",
+      "keyword_count": 49,
+      "syntax_pattern_count": 2,
+      "mastery_level": "COMPLETE"
+    }
+  ],
+  "indexed_languages": [
+    {
+      "name": "Speedcoding",
+      "year": 1953,
+      "creator": "John Backus",
+      "description": "early interpreter for IBM 701",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "FLOW-MATIC",
+      "year": 1955,
+      "creator": "Grace Hopper",
+      "description": "first English-like language, influenced COBOL",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "COMTRAN",
+      "year": 1957,
+      "creator": "Bob Bemer (IBM)",
+      "description": "Commercial Translator",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "MATH-MATIC",
+      "year": 1957,
+      "creator": "Remington Rand",
+      "description": "early algebraic compiler",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "IPL",
+      "year": 1956,
+      "creator": "Allen Newell, Cliff Shaw, Herbert Simon",
+      "description": "Information Processing Language, first AI language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "JOVIAL",
+      "year": 1960,
+      "creator": "Jules Schwartz",
+      "description": "Jules' Own Version of ALGOL, military systems",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "GPSS",
+      "year": 1961,
+      "creator": "Geoffrey Gordon (IBM)",
+      "description": "General Purpose Simulation System",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "JOSS",
+      "year": 1963,
+      "creator": "Cliff Shaw (RAND)",
+      "description": "JOHNNIAC Open Shop System, interactive computing",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "MUMPS",
+      "year": 1966,
+      "creator": "Neil Pappalardo",
+      "description": "Massachusetts General Hospital Utility, healthcare",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ISWIM",
+      "year": 1966,
+      "creator": "Peter Landin",
+      "description": "If You See What I Mean, influenced ML/Haskell",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "TELCOMP",
+      "year": 1966,
+      "creator": "BBN",
+      "description": "time-sharing language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Coral 66",
+      "year": 1966,
+      "creator": "Royal Radar Establishment",
+      "description": "real-time military systems",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "IMP",
+      "year": 1965,
+      "creator": "Edinburgh",
+      "description": "improved ALGOL for Edinburgh IMP computer",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "MAD",
+      "year": 1959,
+      "creator": "Bruce Arden et al.",
+      "description": "Michigan Algorithm Decoder",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Neliac",
+      "year": 1955,
+      "creator": "US Navy",
+      "description": "Navy Electronics Laboratory International ALGOL Compiler",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "TRAC",
+      "year": 1964,
+      "creator": "Calvin Mooers",
+      "description": "Text Reckoning And Compiling",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "COMIT",
+      "year": 1957,
+      "creator": "Victor Yngve (MIT)",
+      "description": "first string processing language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Formac",
+      "year": 1964,
+      "creator": "Jean Sammet (IBM)",
+      "description": "FORmula MAnipulation Compiler",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "DYNAMO",
+      "year": 1958,
+      "creator": "Jay Forrester, Phyllis Fox (MIT)",
+      "description": "simulation language for system dynamics",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SETL",
+      "year": 1969,
+      "creator": "Jack Schwartz",
+      "description": "SET Language, mathematical set operations",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Forth",
+      "year": 1970,
+      "creator": "Charles H. Moore",
+      "description": "stack-based, interactive, embedded systems",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Smalltalk-72",
+      "year": 1972,
+      "creator": "Alan Kay",
+      "description": "early Smalltalk version at Xerox PARC",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "CLU",
+      "year": 1975,
+      "creator": "Barbara Liskov (MIT)",
+      "description": "clusters, iterators, exception handling pioneer",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Modula",
+      "year": 1975,
+      "creator": "Niklaus Wirth",
+      "description": "module system, successor to Pascal",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Icon",
+      "year": 1977,
+      "creator": "Ralph Griswold",
+      "description": "successor to SNOBOL, goal-directed evaluation",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Modula-2",
+      "year": 1978,
+      "creator": "Niklaus Wirth",
+      "description": "improved Modula with coroutines",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "AWK",
+      "year": 1977,
+      "creator": "Aho, Weinberger, Kernighan",
+      "description": "text processing, named after creators",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "RATFOR",
+      "year": 1976,
+      "creator": "Brian Kernighan",
+      "description": "Rational Fortran preprocessor",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "GRASS",
+      "year": 1974,
+      "creator": "Tom DeFanti",
+      "description": "graphics programming language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SAC",
+      "year": 1976,
+      "creator": "various",
+      "description": "Single Assignment C, array programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "REDUCE",
+      "year": 1968,
+      "creator": "Anthony Hearn",
+      "description": "computer algebra system",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "PILOT",
+      "year": 1969,
+      "creator": "John Starkweather",
+      "description": "programmed instruction learning",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "BLISS",
+      "year": 1970,
+      "creator": "Wulf, Russell, Habermann",
+      "description": "systems programming for DEC PDP-10",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SAIL",
+      "year": 1969,
+      "creator": "Dan Swinehart, Bob Sproull",
+      "description": "Stanford AI Language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Edinburgh IMP",
+      "year": 1966,
+      "creator": "Edinburgh",
+      "description": "ALGOL-like systems language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Mesa",
+      "year": 1976,
+      "creator": "Xerox PARC",
+      "description": "influenced Modula-2 and Java",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Euclid",
+      "year": 1977,
+      "creator": "Butler Lampson et al.",
+      "description": "verifiable systems programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Lucid",
+      "year": 1976,
+      "creator": "Edward Ashcroft, William Wadge",
+      "description": "dataflow programming language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SASL",
+      "year": 1976,
+      "creator": "David Turner",
+      "description": "St Andrews Static Language, lazy functional",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "FP",
+      "year": 1977,
+      "creator": "John Backus",
+      "description": "functional programming, Turing Award lecture",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "S",
+      "year": 1976,
+      "creator": "John Chambers (Bell Labs)",
+      "description": "statistical programming, predecessor to R",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "PostScript",
+      "year": 1982,
+      "creator": "John Warnock, Charles Geschke (Adobe)",
+      "description": "page description language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Occam",
+      "year": 1983,
+      "creator": "David May (INMOS)",
+      "description": "concurrent programming for Transputers",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Miranda",
+      "year": 1985,
+      "creator": "David Turner",
+      "description": "lazy pure functional, influenced Haskell",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Eiffel",
+      "year": 1986,
+      "creator": "Bertrand Meyer",
+      "description": "design by contract OOP",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Self",
+      "year": 1987,
+      "creator": "David Ungar, Randall Smith",
+      "description": "prototype-based OOP, influenced JavaScript",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ABAP",
+      "year": 1983,
+      "creator": "SAP",
+      "description": "Advanced Business Application Programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "RPG",
+      "year": 1959,
+      "creator": "IBM",
+      "description": "Report Program Generator, business",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "dBase",
+      "year": 1979,
+      "creator": "Wayne Ratliff",
+      "description": "database management language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Clipper",
+      "year": 1985,
+      "creator": "Nantucket Corp",
+      "description": "dBase compiler",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "FoxPro",
+      "year": 1984,
+      "creator": "Fox Software",
+      "description": "dBase-compatible database language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Turbo Pascal",
+      "year": 1983,
+      "creator": "Anders Hejlsberg (Borland)",
+      "description": "lightning-fast Pascal compiler",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "HyperTalk",
+      "year": 1987,
+      "creator": "Dan Winkler (Apple)",
+      "description": "HyperCard scripting, natural-language-like",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SR",
+      "year": 1988,
+      "creator": "Gregory Andrews, Ronald Olsson",
+      "description": "Synchronizing Resources",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Oberon",
+      "year": 1987,
+      "creator": "Niklaus Wirth",
+      "description": "successor to Modula-2",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Oberon-2",
+      "year": 1991,
+      "creator": "Niklaus Wirth, Hanspeter Mössenböck",
+      "description": "Oberon with OOP extensions",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Modula-3",
+      "year": 1989,
+      "creator": "DEC/Olivetti",
+      "description": "safe systems language from Modula family",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SPARK",
+      "year": 1988,
+      "creator": "Bernard Carré",
+      "description": "Ada subset for formal verification",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Clean",
+      "year": 1987,
+      "creator": "Rinus Plasmeijer",
+      "description": "purely functional with uniqueness types",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Oz",
+      "year": 1991,
+      "creator": "Gert Smolka",
+      "description": "multiparadigm: logic + functional + OOP + concurrent",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Mercury",
+      "year": 1995,
+      "creator": "University of Melbourne",
+      "description": "pure logic/functional programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Gofer",
+      "year": 1991,
+      "creator": "Mark Jones",
+      "description": "Haskell-like educational language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Turing",
+      "year": 1982,
+      "creator": "Ric Holt, James Cordy",
+      "description": "educational language from University of Toronto",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ABC",
+      "year": 1987,
+      "creator": "Leo Geurts, Lambert Meertens, Steven Pemberton",
+      "description": "predecessor to Python",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "BETA",
+      "year": 1986,
+      "creator": "Birger Møller-Pedersen et al.",
+      "description": "successor to Simula, pattern-based OOP",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Leda",
+      "year": 1993,
+      "creator": "Timothy Budd",
+      "description": "multiparadigm educational language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "REXX",
+      "year": 1979,
+      "creator": "Mike Cowlishaw (IBM)",
+      "description": "Restructured Extended Executor, scripting",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Informix-4GL",
+      "year": 1985,
+      "creator": "Informix",
+      "description": "4th generation database language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Natural",
+      "year": 1979,
+      "creator": "Software AG",
+      "description": "4GL for ADABAS database",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Progress 4GL",
+      "year": 1984,
+      "creator": "Progress Software",
+      "description": "business application development",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "PowerBuilder",
+      "year": 1991,
+      "creator": "Powersoft",
+      "description": "rapid application development",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "LabVIEW",
+      "year": 1986,
+      "creator": "National Instruments",
+      "description": "visual graphical programming for engineers",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Mathematica/Wolfram",
+      "year": 1988,
+      "creator": "Stephen Wolfram",
+      "description": "computational language, symbolic math",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "MATLAB",
+      "year": 1984,
+      "creator": "Cleve Moler",
+      "description": "MATrix LABoratory, engineering/science",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Maple",
+      "year": 1982,
+      "creator": "University of Waterloo",
+      "description": "symbolic computation",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SAS",
+      "year": 1976,
+      "creator": "SAS Institute",
+      "description": "Statistical Analysis System",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SPSS",
+      "year": 1968,
+      "creator": "Norman Nie, C. Hadlai Hull",
+      "description": "Statistical Package for the Social Sciences",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Stata",
+      "year": 1985,
+      "creator": "StataCorp",
+      "description": "statistics and data management",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "IDL",
+      "year": 1977,
+      "creator": "David Stern",
+      "description": "Interactive Data Language, scientific visualization",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Tcl",
+      "year": 1988,
+      "creator": "John Ousterhout",
+      "description": "Tool Command Language, scripting",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Tk",
+      "year": 1991,
+      "creator": "John Ousterhout",
+      "description": "GUI toolkit for Tcl",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "CHILL",
+      "year": 1980,
+      "creator": "CCITT",
+      "description": "telecoms programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SIGNAL",
+      "year": 1989,
+      "creator": "INRIA",
+      "description": "synchronous reactive programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Lustre",
+      "year": 1984,
+      "creator": "Caspi, Halbwachs",
+      "description": "synchronous dataflow for critical systems",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Esterel",
+      "year": 1983,
+      "creator": "Gérard Berry",
+      "description": "synchronous reactive language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Verilog",
+      "year": 1984,
+      "creator": "Phil Moorby",
+      "description": "hardware description language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "VHDL",
+      "year": 1987,
+      "creator": "US DoD",
+      "description": "VHSIC Hardware Description Language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SystemVerilog",
+      "year": 2002,
+      "creator": "Accellera",
+      "description": "unified hardware design and verification",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Java",
+      "year": 1995,
+      "creator": "James Gosling (Sun Microsystems)",
+      "description": "write once run anywhere, JVM",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "OCaml",
+      "year": 1996,
+      "creator": "Xavier Leroy (INRIA)",
+      "description": "Objective Caml, ML with objects",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Racket",
+      "year": 1995,
+      "creator": "PLT Group (Matthew Flatt)",
+      "description": "programmable programming language, Scheme descendant",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Rebol",
+      "year": 1997,
+      "creator": "Carl Sassenrath",
+      "description": "messaging language, influenced Red",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Pico",
+      "year": 1997,
+      "creator": "Theo D'Hondt",
+      "description": "educational scripting",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Pike",
+      "year": 1994,
+      "creator": "Fredrik Hübinette",
+      "description": "C-like scripting, from LPC",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Curl",
+      "year": 1998,
+      "creator": "MIT",
+      "description": "web content language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Lasso",
+      "year": 1995,
+      "creator": "Blue World",
+      "description": "web development language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ColdFusion (CFML)",
+      "year": 1995,
+      "creator": "Allaire",
+      "description": "web development markup",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "NetRexx",
+      "year": 1996,
+      "creator": "Mike Cowlishaw",
+      "description": "Rexx for JVM",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "AMPL",
+      "year": 1985,
+      "creator": "Robert Fourer, David Gay, Brian Kernighan",
+      "description": "mathematical programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "OPL",
+      "year": 1984,
+      "creator": "Psion",
+      "description": "Organiser Programming Language, mobile devices",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Seed7",
+      "year": 2005,
+      "creator": "Thomas Mertes",
+      "description": "extensible programming language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "J",
+      "year": 1990,
+      "creator": "Kenneth Iverson, Roger Hui",
+      "description": "APL successor, ASCII-based array language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "K",
+      "year": 1993,
+      "creator": "Arthur Whitney",
+      "description": "array processing for finance, inspired by APL/J",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Q",
+      "year": 2003,
+      "creator": "Arthur Whitney (Kx Systems)",
+      "description": "query language for kdb+ database",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Io",
+      "year": 2002,
+      "creator": "Steve Dekorte",
+      "description": "pure prototype-based OOP",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Squirrel",
+      "year": 2003,
+      "creator": "Alberto Demichelis",
+      "description": "Lua-like scripting for games",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Boo",
+      "year": 2003,
+      "creator": "Rodrigo B. de Oliveira",
+      "description": "Python-like for .NET",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Nemerle",
+      "year": 2003,
+      "creator": "University of Wroclaw",
+      "description": "functional/OOP for .NET with macros",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Fantom",
+      "year": 2005,
+      "creator": "Brian Frank, Andy Frank",
+      "description": "JVM/CLR/.NET portable OOP",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Vala",
+      "year": 2006,
+      "creator": "Jürg Billeter, Raffaele Sandrini",
+      "description": "C#-like for GNOME/GLib",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Genie",
+      "year": 2008,
+      "creator": "Jamie McCracken",
+      "description": "Python-like syntax compiled via Vala",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Cobra",
+      "year": 2006,
+      "creator": "Chuck Esterbrook",
+      "description": "Python-like with static typing",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Chapel",
+      "year": 2009,
+      "creator": "Cray Inc.",
+      "description": "parallel programming for HPC",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "X10",
+      "year": 2004,
+      "creator": "IBM Research",
+      "description": "parallel programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Fortress",
+      "year": 2006,
+      "creator": "Guy Steele (Sun)",
+      "description": "parallel computing, discontinued",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Cilk",
+      "year": 1994,
+      "creator": "MIT",
+      "description": "C extension for multithreaded parallel computing",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "OpenCL C",
+      "year": 2009,
+      "creator": "Khronos Group",
+      "description": "heterogeneous computing (CPU + GPU)",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "CUDA (C extension)",
+      "year": 2007,
+      "creator": "NVIDIA",
+      "description": "GPU parallel computing",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Metal Shading Language",
+      "year": 2014,
+      "creator": "Apple",
+      "description": "GPU shading for Apple platforms",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "GLSL",
+      "year": 2004,
+      "creator": "OpenGL ARB",
+      "description": "OpenGL Shading Language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "HLSL",
+      "year": 2002,
+      "creator": "Microsoft",
+      "description": "High-Level Shading Language for DirectX",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SPIR-V",
+      "year": 2015,
+      "creator": "Khronos Group",
+      "description": "intermediate language for GPU shaders",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Cg",
+      "year": 2002,
+      "creator": "NVIDIA",
+      "description": "C for Graphics",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Processing",
+      "year": 2001,
+      "creator": "Casey Reas, Ben Fry",
+      "description": "visual arts programming, Java-based",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "p5.js",
+      "year": 2014,
+      "creator": "Lauren Lee McCarthy",
+      "description": "Processing for JavaScript",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Max/MSP",
+      "year": 1988,
+      "creator": "Miller Puckette",
+      "description": "visual programming for music/multimedia",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Pure Data",
+      "year": 1996,
+      "creator": "Miller Puckette",
+      "description": "open-source visual programming for multimedia",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SuperCollider",
+      "year": 1996,
+      "creator": "James McCartney",
+      "description": "audio synthesis programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ChucK",
+      "year": 2003,
+      "creator": "Ge Wang, Perry Cook",
+      "description": "strongly-timed music programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Csound",
+      "year": 1986,
+      "creator": "Barry Vercoe",
+      "description": "audio programming language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Sonic Pi",
+      "year": 2012,
+      "creator": "Sam Aaron",
+      "description": "live coding music in education",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "TidalCycles",
+      "year": 2009,
+      "creator": "Alex McLean",
+      "description": "live coding music patterns",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Faust",
+      "year": 2002,
+      "creator": "Yann Orlarey et al.",
+      "description": "functional audio stream processing",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "OpenSCAD",
+      "year": 2010,
+      "creator": "Marius Kintel",
+      "description": "3D solid modeling scripting",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "POV-Ray SDL",
+      "year": 1991,
+      "creator": "POV-Ray Team",
+      "description": "ray tracing scene description",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "RenderMan RSL",
+      "year": 1988,
+      "creator": "Pixar",
+      "description": "photorealistic rendering shading",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ActionScript",
+      "year": 2000,
+      "creator": "Macromedia/Adobe",
+      "description": "Flash programming, ECMAScript-based",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "E",
+      "year": 1997,
+      "creator": "Mark Miller",
+      "description": "secure distributed programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Oz/Mozart",
+      "year": 1991,
+      "creator": "Gert Smolka",
+      "description": "multi-paradigm for AI and distributed",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Alice ML",
+      "year": 2000,
+      "creator": "Saarland University",
+      "description": "ML with futures and lazy evaluation",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ATS",
+      "year": 2003,
+      "creator": "Hongwei Xi",
+      "description": "Applied Type System, theorem proving in types",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Agda",
+      "year": 2007,
+      "creator": "Ulf Norell",
+      "description": "dependently typed proof assistant/language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Idris",
+      "year": 2007,
+      "creator": "Edwin Brady",
+      "description": "dependently typed general-purpose language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Coq/Gallina",
+      "year": 1989,
+      "creator": "INRIA",
+      "description": "proof assistant with extraction to OCaml/Haskell",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Isabelle",
+      "year": 1986,
+      "creator": "Lawrence Paulson",
+      "description": "generic proof assistant",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Lean",
+      "year": 2013,
+      "creator": "Leonardo de Moura (Microsoft)",
+      "description": "theorem prover and programming language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "F*",
+      "year": 2011,
+      "creator": "Microsoft Research/INRIA",
+      "description": "proof-oriented programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Dafny",
+      "year": 2009,
+      "creator": "Rustan Leino (Microsoft)",
+      "description": "verification-aware programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Whiley",
+      "year": 2009,
+      "creator": "David Pearce",
+      "description": "language with built-in verification",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "TLA+",
+      "year": 1999,
+      "creator": "Leslie Lamport",
+      "description": "specification language for concurrent systems",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Alloy",
+      "year": 2000,
+      "creator": "Daniel Jackson (MIT)",
+      "description": "lightweight formal specification",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Promela",
+      "year": 1980,
+      "creator": "Gerard Holzmann",
+      "description": "SPIN model checker language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Z notation",
+      "year": 1977,
+      "creator": "Jean-Raymond Abrial",
+      "description": "formal specification using set theory",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "B-Method",
+      "year": 1996,
+      "creator": "Jean-Raymond Abrial",
+      "description": "formal method for software development",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Event-B",
+      "year": 2005,
+      "creator": "Jean-Raymond Abrial",
+      "description": "formal method for system modeling",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "VDM-SL",
+      "year": 1996,
+      "creator": "various",
+      "description": "Vienna Development Method Specification Language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ASN.1",
+      "year": 1984,
+      "creator": "ITU-T/ISO",
+      "description": "data structure description for telecom",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "TTCN-3",
+      "year": 2000,
+      "creator": "ETSI",
+      "description": "Testing and Test Control Notation",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Cucumber/Gherkin",
+      "year": 2008,
+      "creator": "Aslak Hellesøy",
+      "description": "behavior-driven development",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Robot Framework",
+      "year": 2005,
+      "creator": "Nokia Networks",
+      "description": "keyword-driven test automation",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Selenium WebDriver",
+      "year": 2004,
+      "creator": "Jason Huggins",
+      "description": "web browser automation",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Brainfuck",
+      "year": 1993,
+      "creator": "Urban Müller",
+      "description": "minimalist 8-instruction Turing-complete language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Befunge",
+      "year": 1993,
+      "creator": "Chris Pressey",
+      "description": "2D grid-based programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Whitespace",
+      "year": 2003,
+      "creator": "Edwin Brady, Chris Morris",
+      "description": "only spaces, tabs, linefeeds",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Shakespeare",
+      "year": 2001,
+      "creator": "Karl Hasselström, Jon Åslund",
+      "description": "code looks like Shakespeare plays",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Piet",
+      "year": 2001,
+      "creator": "David Morgan-Mar",
+      "description": "programs are abstract art (bitmap images)",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "LOLCODE",
+      "year": 2007,
+      "creator": "Adam Lindsay",
+      "description": "lolcat-speak programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Malbolge",
+      "year": 1998,
+      "creator": "Ben Olmstead",
+      "description": "designed to be impossible to program",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "INTERCAL",
+      "year": 1972,
+      "creator": "Don Woods, James Lyon",
+      "description": "parody language with PLEASE keyword",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "FALSE",
+      "year": 1993,
+      "creator": "Wouter van Oortmerssen",
+      "description": "stack-based obfuscated",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Unlambda",
+      "year": 2001,
+      "creator": "David Madore",
+      "description": "minimal functional, only S, K, I combinators",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "GolfScript",
+      "year": 2007,
+      "creator": "Darren Smith",
+      "description": "code golf optimization",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "><> (Fish)",
+      "year": 2009,
+      "creator": "various",
+      "description": "2D stack-based, Befunge-inspired",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ArnoldC",
+      "year": 2013,
+      "creator": "Lauri Hartikka",
+      "description": "Arnold Schwarzenegger movie quotes",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Rockstar",
+      "year": 2018,
+      "creator": "Dylan Beattie",
+      "description": "programs look like rock song lyrics",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Chef",
+      "year": 2002,
+      "creator": "David Morgan-Mar",
+      "description": "programs look like cooking recipes",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Chicken",
+      "year": 2002,
+      "creator": "Torbjörn Söderstedt",
+      "description": "only word is 'chicken'",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Ook!",
+      "year": 2001,
+      "creator": "David Morgan-Mar",
+      "description": "Brainfuck variant using 'Ook'",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "JSFuck",
+      "year": 2010,
+      "creator": "Martin Kleppe",
+      "description": "JavaScript using only []()!+",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "HQ9+",
+      "year": 2001,
+      "creator": "Cliff Biffle",
+      "description": "Hello World, Quine, 99 Bottles, Counter",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Grass",
+      "year": 2007,
+      "creator": "Hikaru Ikuta",
+      "description": "only w, W, and v characters",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Thue",
+      "year": 2000,
+      "creator": "John Colagioia",
+      "description": "string rewriting system",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "LaTeX",
+      "year": 1984,
+      "creator": "Leslie Lamport",
+      "description": "document typesetting",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "TeX",
+      "year": 1978,
+      "creator": "Donald Knuth",
+      "description": "typesetting system",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Markdown",
+      "year": 2004,
+      "creator": "John Gruber",
+      "description": "lightweight markup",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "reStructuredText",
+      "year": 2002,
+      "creator": "David Goodger",
+      "description": "documentation markup",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "AsciiDoc",
+      "year": 2002,
+      "creator": "Stuart Rackham",
+      "description": "text document format",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "YAML",
+      "year": 2001,
+      "creator": "Clark Evans",
+      "description": "data serialization",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "JSON",
+      "year": 2001,
+      "creator": "Douglas Crockford",
+      "description": "data interchange format",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "TOML",
+      "year": 2013,
+      "creator": "Tom Preston-Werner",
+      "description": "configuration file format",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "XML",
+      "year": 1996,
+      "creator": "W3C",
+      "description": "Extensible Markup Language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "HTML",
+      "year": 1993,
+      "creator": "Tim Berners-Lee",
+      "description": "HyperText Markup Language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "CSS",
+      "year": 1996,
+      "creator": "Håkon Wium Lie, Bert Bos",
+      "description": "Cascading Style Sheets",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SCSS/Sass",
+      "year": 2006,
+      "creator": "Hampton Catlin, Natalie Weizenbaum",
+      "description": "CSS preprocessor",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Less",
+      "year": 2009,
+      "creator": "Alexis Sellier",
+      "description": "CSS preprocessor",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Stylus",
+      "year": 2010,
+      "creator": "TJ Holowaychuk",
+      "description": "expressive CSS preprocessor",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SVG",
+      "year": 2001,
+      "creator": "W3C",
+      "description": "Scalable Vector Graphics",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "XPath",
+      "year": 1999,
+      "creator": "W3C",
+      "description": "XML path query language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "XSLT",
+      "year": 1999,
+      "creator": "W3C",
+      "description": "XML transformation language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "XQuery",
+      "year": 2007,
+      "creator": "W3C",
+      "description": "XML query language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "JSONPath",
+      "year": 2007,
+      "creator": "Stefan Goessner",
+      "description": "JSON query expressions",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "jq",
+      "year": 2012,
+      "creator": "Stephen Dolan",
+      "description": "JSON processing language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "GraphQL",
+      "year": 2015,
+      "creator": "Facebook",
+      "description": "API query language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Protocol Buffers",
+      "year": 2008,
+      "creator": "Google",
+      "description": "data serialization",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Thrift",
+      "year": 2007,
+      "creator": "Facebook",
+      "description": "cross-language service framework",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Cap'n Proto",
+      "year": 2013,
+      "creator": "Kenton Varda",
+      "description": "fast data serialization",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "FlatBuffers",
+      "year": 2014,
+      "creator": "Google",
+      "description": "zero-copy serialization",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "MessagePack",
+      "year": 2008,
+      "creator": "Sadayuki Furuhashi",
+      "description": "binary serialization",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Avro",
+      "year": 2009,
+      "creator": "Apache/Doug Cutting",
+      "description": "data serialization for Hadoop",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "sh (Bourne Shell)",
+      "year": 1977,
+      "creator": "Stephen Bourne",
+      "description": "original Unix shell",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "csh",
+      "year": 1978,
+      "creator": "Bill Joy",
+      "description": "C-like Unix shell",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ksh",
+      "year": 1983,
+      "creator": "David Korn",
+      "description": "Korn Shell",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Bash",
+      "year": 1989,
+      "creator": "Brian Fox",
+      "description": "Bourne Again Shell, standard Linux shell",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Zsh",
+      "year": 1990,
+      "creator": "Paul Falstad",
+      "description": "extended shell with plugins, Oh My Zsh",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Fish",
+      "year": 2005,
+      "creator": "Axel Liljencrantz",
+      "description": "friendly interactive shell",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "PowerShell",
+      "year": 2006,
+      "creator": "Jeffrey Snover (Microsoft)",
+      "description": "object-oriented shell for Windows/cross-platform",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Nushell",
+      "year": 2019,
+      "creator": "Jonathan Turner et al.",
+      "description": "structured data shell",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "sed",
+      "year": 1974,
+      "creator": "Lee McMahon",
+      "description": "stream editor",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Make",
+      "year": 1976,
+      "creator": "Stuart Feldman",
+      "description": "build automation",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "CMake",
+      "year": 2000,
+      "creator": "Kitware",
+      "description": "cross-platform build system generator",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Meson",
+      "year": 2013,
+      "creator": "Jussi Pakkanen",
+      "description": "fast build system",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Ninja",
+      "year": 2012,
+      "creator": "Evan Martin",
+      "description": "small, speed-focused build system",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Bazel",
+      "year": 2015,
+      "creator": "Google",
+      "description": "scalable build and test",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Gradle (Groovy/Kotlin DSL)",
+      "year": 2007,
+      "creator": "Hans Dockter",
+      "description": "build automation",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Maven POM",
+      "year": 2004,
+      "creator": "Apache",
+      "description": "project object model for Java",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Ant",
+      "year": 2000,
+      "creator": "James Duncan Davidson",
+      "description": "Java build tool",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Rake",
+      "year": 2003,
+      "creator": "Jim Weirich",
+      "description": "Ruby-based build tool",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "npm scripts",
+      "year": 2010,
+      "creator": "Isaac Schlueter",
+      "description": "Node.js task runner",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "PL/SQL",
+      "year": 1988,
+      "creator": "Oracle",
+      "description": "procedural SQL for Oracle Database",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "T-SQL",
+      "year": 1987,
+      "creator": "Sybase/Microsoft",
+      "description": "Transact-SQL for SQL Server",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "PL/pgSQL",
+      "year": 1998,
+      "creator": "PostgreSQL",
+      "description": "procedural SQL for PostgreSQL",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "MySQL stored procedures",
+      "year": 2004,
+      "creator": "MySQL AB",
+      "description": "procedural SQL for MySQL",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "CQL",
+      "year": 2011,
+      "creator": "Apache Cassandra",
+      "description": "Cassandra Query Language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "N1QL",
+      "year": 2015,
+      "creator": "Couchbase",
+      "description": "SQL for JSON in Couchbase",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Cypher",
+      "year": 2011,
+      "creator": "Neo4j",
+      "description": "graph database query language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Gremlin",
+      "year": 2009,
+      "creator": "Apache TinkerPop",
+      "description": "graph traversal language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SPARQL",
+      "year": 2008,
+      "creator": "W3C",
+      "description": "RDF graph query language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Datalog",
+      "year": 1977,
+      "creator": "various",
+      "description": "declarative logic query language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "OQL",
+      "year": 1993,
+      "creator": "ODMG",
+      "description": "Object Query Language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "MDX",
+      "year": 1997,
+      "creator": "Microsoft",
+      "description": "MultiDimensional eXpressions for OLAP",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "DAX",
+      "year": 2009,
+      "creator": "Microsoft",
+      "description": "Data Analysis Expressions for Power BI",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "M (Power Query)",
+      "year": 2013,
+      "creator": "Microsoft",
+      "description": "data mashup language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "HiveQL",
+      "year": 2010,
+      "creator": "Apache",
+      "description": "SQL-like for Hadoop/Hive",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Pig Latin",
+      "year": 2008,
+      "creator": "Apache/Yahoo",
+      "description": "data flow language for Hadoop",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Splunk SPL",
+      "year": 2004,
+      "creator": "Splunk",
+      "description": "Search Processing Language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "KQL",
+      "year": 2014,
+      "creator": "Microsoft",
+      "description": "Kusto Query Language for Azure",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "InfluxQL",
+      "year": 2013,
+      "creator": "InfluxData",
+      "description": "time-series database query",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Flux",
+      "year": 2018,
+      "creator": "InfluxData",
+      "description": "functional data scripting for time series",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "PromQL",
+      "year": 2012,
+      "creator": "Prometheus",
+      "description": "monitoring query language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Terraform HCL",
+      "year": 2014,
+      "creator": "HashiCorp",
+      "description": "infrastructure as code",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Ansible YAML",
+      "year": 2012,
+      "creator": "Michael DeHaan",
+      "description": "IT automation",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Puppet DSL",
+      "year": 2005,
+      "creator": "Luke Kanies",
+      "description": "infrastructure configuration",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Chef Ruby DSL",
+      "year": 2009,
+      "creator": "Adam Jacob",
+      "description": "infrastructure configuration",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SaltStack",
+      "year": 2011,
+      "creator": "Thomas Hatch",
+      "description": "infrastructure management",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Nix",
+      "year": 2003,
+      "creator": "Eelco Dolstra",
+      "description": "purely functional package manager language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Dhall",
+      "year": 2016,
+      "creator": "Gabriel Gonzalez",
+      "description": "programmable configuration",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "CUE",
+      "year": 2019,
+      "creator": "Marcel van Lohuizen (Google)",
+      "description": "configuration unification",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Jsonnet",
+      "year": 2014,
+      "creator": "Google",
+      "description": "data templating language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Starlark",
+      "year": 2018,
+      "creator": "Google",
+      "description": "Python-like for Bazel build configs",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Dockerfile",
+      "year": 2013,
+      "creator": "Docker Inc.",
+      "description": "container build instructions",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Vagrantfile",
+      "year": 2010,
+      "creator": "Mitchell Hashimoto",
+      "description": "VM provisioning",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Helm templates",
+      "year": 2015,
+      "creator": "Deis/Microsoft",
+      "description": "Kubernetes package templating",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Kustomize",
+      "year": 2018,
+      "creator": "Kubernetes SIG",
+      "description": "Kubernetes configuration customization",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Solidity",
+      "year": 2014,
+      "creator": "Gavin Wood",
+      "description": "Ethereum smart contracts",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Vyper",
+      "year": 2017,
+      "creator": "Ethereum community",
+      "description": "Pythonic smart contracts",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Move",
+      "year": 2019,
+      "creator": "Facebook/Diem",
+      "description": "resource-oriented blockchain language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Michelson",
+      "year": 2018,
+      "creator": "Tezos",
+      "description": "stack-based smart contract language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Clarity",
+      "year": 2020,
+      "creator": "Blockstack/Stacks",
+      "description": "decidable smart contracts",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Plutus",
+      "year": 2021,
+      "creator": "IOHK/Cardano",
+      "description": "Haskell-based smart contracts",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Cadence",
+      "year": 2020,
+      "creator": "Dapper Labs/Flow",
+      "description": "resource-oriented smart contracts",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Ink!",
+      "year": 2019,
+      "creator": "Parity/Polkadot",
+      "description": "Rust-based smart contracts",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "TEAL",
+      "year": 2019,
+      "creator": "Algorand",
+      "description": "Transaction Execution Approval Language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Ride",
+      "year": 2018,
+      "creator": "Waves",
+      "description": "non-Turing-complete smart contracts",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Scilla",
+      "year": 2019,
+      "creator": "Zilliqa",
+      "description": "safe smart contract language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Ballerina",
+      "year": 2017,
+      "creator": "WSO2",
+      "description": "cloud-native integration language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Ring",
+      "year": 2016,
+      "creator": "Mahmoud Fayed",
+      "description": "practical general-purpose language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Red",
+      "year": 2011,
+      "creator": "Nenad Rakocevic",
+      "description": "full-stack language inspired by Rebol",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Haxe",
+      "year": 2005,
+      "creator": "Nicolas Cannasse",
+      "description": "cross-platform, compiles to many targets",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Opa",
+      "year": 2011,
+      "creator": "MLstate",
+      "description": "web development language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Elm",
+      "year": 2012,
+      "creator": "Evan Czaplicki",
+      "description": "functional language for web frontends, no runtime errors",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "PureScript",
+      "year": 2013,
+      "creator": "Phil Freeman",
+      "description": "Haskell-like for JavaScript",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ReasonML",
+      "year": 2016,
+      "creator": "Jordan Walke (Facebook)",
+      "description": "OCaml syntax for JavaScript",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Rescript",
+      "year": 2020,
+      "creator": "ReScript team",
+      "description": "strongly typed JavaScript compiler",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Svelte",
+      "year": 2016,
+      "creator": "Rich Harris",
+      "description": "compiled frontend framework/language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Imba",
+      "year": 2015,
+      "creator": "Sindre Aarsaether",
+      "description": "full-stack language for web, compiles to JS",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Mint",
+      "year": 2018,
+      "creator": "Szikszai Gusztáv",
+      "description": "language for single-page web apps",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Marko",
+      "year": 2014,
+      "creator": "eBay",
+      "description": "UI component language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Octave",
+      "year": 1988,
+      "creator": "John Eaton",
+      "description": "MATLAB-compatible open source",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Scilab",
+      "year": 1990,
+      "creator": "INRIA",
+      "description": "numerical computing",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Maxima",
+      "year": 1982,
+      "creator": "William Schelter",
+      "description": "computer algebra, Macsyma descendant",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "GAP",
+      "year": 1986,
+      "creator": "GAP Group",
+      "description": "Groups, Algorithms, Programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Magma",
+      "year": 1993,
+      "creator": "University of Sydney",
+      "description": "computational algebra",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Singular",
+      "year": 1984,
+      "creator": "University of Kaiserslautern",
+      "description": "commutative algebra",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Macaulay2",
+      "year": 1992,
+      "creator": "Daniel Grayson, Michael Stillman",
+      "description": "algebraic geometry",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SageMath",
+      "year": 2005,
+      "creator": "William Stein",
+      "description": "mathematics software system",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Modelica",
+      "year": 1997,
+      "creator": "Hilding Elmqvist",
+      "description": "equation-based modeling",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "GAMS",
+      "year": 1976,
+      "creator": "World Bank",
+      "description": "mathematical optimization",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "MiniZinc",
+      "year": 2007,
+      "creator": "various",
+      "description": "constraint modeling",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Picat",
+      "year": 2013,
+      "creator": "Neng-Fa Zhou",
+      "description": "logic/constraint/action programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "GDScript",
+      "year": 2014,
+      "creator": "Juan Linietsky",
+      "description": "Godot engine scripting, Python-like",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "UnrealScript",
+      "year": 1998,
+      "creator": "Epic Games",
+      "description": "Unreal Engine scripting (deprecated)",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Blueprints Visual Scripting",
+      "year": 2014,
+      "creator": "Epic Games",
+      "description": "visual programming for Unreal",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "GML (GameMaker Language)",
+      "year": 1999,
+      "creator": "Mark Overmars",
+      "description": "GameMaker scripting",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Inform 7",
+      "year": 2006,
+      "creator": "Graham Nelson",
+      "description": "natural language interactive fiction",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Ink",
+      "year": 2016,
+      "creator": "Inkle Studios",
+      "description": "interactive narrative scripting",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Twine/Harlowe",
+      "year": 2009,
+      "creator": "Chris Klimas",
+      "description": "interactive fiction/game tool",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Ren'Py",
+      "year": 2004,
+      "creator": "Tom Rothamel",
+      "description": "visual novel engine scripting",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Scratch",
+      "year": 2007,
+      "creator": "MIT Media Lab",
+      "description": "visual block-based programming for children",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Snap!",
+      "year": 2011,
+      "creator": "UC Berkeley",
+      "description": "Scratch-inspired with first-class procedures",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Blockly",
+      "year": 2012,
+      "creator": "Google",
+      "description": "visual programming library",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "MakeCode",
+      "year": 2017,
+      "creator": "Microsoft",
+      "description": "block and text coding for education",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "App Inventor",
+      "year": 2010,
+      "creator": "MIT/Google",
+      "description": "visual Android app builder",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Stencyl",
+      "year": 2011,
+      "creator": "Jon Chung",
+      "description": "visual game development",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Gleam",
+      "year": 2019,
+      "creator": "Louis Pilfold",
+      "description": "type-safe language on BEAM VM",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Roc",
+      "year": 2019,
+      "creator": "Richard Feldman",
+      "description": "fast, friendly functional language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Unison",
+      "year": 2019,
+      "creator": "Paul Chiusano, Rúnar Bjarnason",
+      "description": "content-addressed language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Grain",
+      "year": 2019,
+      "creator": "Oscar Spencer, Philip Blair",
+      "description": "functional language for WebAssembly",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "AssemblyScript",
+      "year": 2017,
+      "creator": "Daniel Wirtz",
+      "description": "TypeScript to WebAssembly compiler",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Jai",
+      "year": 2014,
+      "creator": "Jonathan Blow",
+      "description": "game programming language, unreleased",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Odin",
+      "year": 2016,
+      "creator": "Ginger Bill",
+      "description": "C alternative for systems programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Vale",
+      "year": 2019,
+      "creator": "Evan Ovadia",
+      "description": "fast, safe language with generational references",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Ante",
+      "year": 2020,
+      "creator": "Jake Fecher",
+      "description": "low-level functional language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Koka",
+      "year": 2012,
+      "creator": "Daan Leijen (Microsoft)",
+      "description": "effect-typed functional language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Eff",
+      "year": 2012,
+      "creator": "Andrej Bauer, Matija Pretnar",
+      "description": "algebraic effect handlers",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Frank",
+      "year": 2017,
+      "creator": "Conor McBride et al.",
+      "description": "programming with effects",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Effekt",
+      "year": 2020,
+      "creator": "Philipp Schuster et al.",
+      "description": "effect-oriented language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Carp",
+      "year": 2016,
+      "creator": "Erik Svedäng",
+      "description": "statically typed Lisp without GC",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Janet",
+      "year": 2018,
+      "creator": "Calvin Rose",
+      "description": "Lisp/Clojure-like embeddable language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Fennel",
+      "year": 2016,
+      "creator": "Phil Hagelberg",
+      "description": "Lisp that compiles to Lua",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Hy",
+      "year": 2013,
+      "creator": "Paul Tagliamonte",
+      "description": "Lisp dialect for Python",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Clojure",
+      "year": 2007,
+      "creator": "Rich Hickey",
+      "description": "modern Lisp on JVM, immutable data",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ClojureScript",
+      "year": 2011,
+      "creator": "Rich Hickey",
+      "description": "Clojure compiled to JavaScript",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Babashka",
+      "year": 2019,
+      "creator": "Michiel Borkent",
+      "description": "fast Clojure scripting",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Joker",
+      "year": 2016,
+      "creator": "Roman Bataev",
+      "description": "Clojure interpreter in Go",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Common Lisp",
+      "year": 1984,
+      "creator": "ANSI Committee",
+      "description": "standardized Lisp, CLOS, condition system",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Emacs Lisp",
+      "year": 1985,
+      "creator": "Richard Stallman",
+      "description": "Emacs editor extension language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "AutoLISP",
+      "year": 1986,
+      "creator": "Autodesk",
+      "description": "AutoCAD customization language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "newLISP",
+      "year": 2001,
+      "creator": "Lutz Mueller",
+      "description": "lightweight Lisp scripting",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "PicoLisp",
+      "year": 1988,
+      "creator": "Alexander Burger",
+      "description": "minimalist Lisp implementation",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Shen",
+      "year": 2011,
+      "creator": "Mark Tarver",
+      "description": "Lisp with pattern matching and type system",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "LFE",
+      "year": 2008,
+      "creator": "Robert Virding",
+      "description": "Lisp Flavoured Erlang",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Factor",
+      "year": 2003,
+      "creator": "Slava Pestov",
+      "description": "modern concatenative/stack-based",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Cat",
+      "year": 2006,
+      "creator": "Christopher Diggins",
+      "description": "typed stack-based language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Joy",
+      "year": 2001,
+      "creator": "Manfred von Thun",
+      "description": "purely functional concatenative",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Kitten",
+      "year": 2011,
+      "creator": "Jon Purdy",
+      "description": "typed concatenative programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Popr",
+      "year": 2012,
+      "creator": "Dustin DeWeese",
+      "description": "functional stack-based",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "RPL",
+      "year": 1984,
+      "creator": "HP",
+      "description": "Reverse Polish Lisp for HP calculators",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Greenfoot",
+      "year": 2006,
+      "creator": "Michael Kölling",
+      "description": "Java-based educational environment",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Alice",
+      "year": 2004,
+      "creator": "Carnegie Mellon University",
+      "description": "3D programming for beginners",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "BlueJ",
+      "year": 1999,
+      "creator": "Michael Kölling, John Rosenberg",
+      "description": "Java IDE for education",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Karel",
+      "year": 1981,
+      "creator": "Richard Pattis",
+      "description": "educational robot programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Kodu",
+      "year": 2009,
+      "creator": "Microsoft Research",
+      "description": "visual game programming for kids",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Quorum",
+      "year": 2012,
+      "creator": "Andreas Stefik",
+      "description": "evidence-based language design",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Pyret",
+      "year": 2015,
+      "creator": "Shriram Krishnamurthi et al.",
+      "description": "educational programming language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "1C:Enterprise",
+      "year": 1996,
+      "creator": "1C Company (Russia)",
+      "description": "business application platform",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Rapira",
+      "year": 1980,
+      "creator": "Soviet Union",
+      "description": "educational language from USSR",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Robik",
+      "year": 1975,
+      "creator": "Soviet Union",
+      "description": "children's programming language from USSR",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "PascalABC.NET",
+      "year": 2002,
+      "creator": "Southern Federal University (Russia)",
+      "description": "modern Pascal for education",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Chinese Python (文言)",
+      "year": 2019,
+      "creator": "Lingdong Huang",
+      "description": "classical Chinese programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Qalb",
+      "year": 2012,
+      "creator": "Ramsey Nasser",
+      "description": "Arabic programming language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Hindley",
+      "year": 2014,
+      "creator": "various",
+      "description": "Hindi programming language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Fjölnir",
+      "year": 1988,
+      "creator": "Snorri Agnarsson",
+      "description": "Icelandic programming language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Raptor",
+      "year": 2004,
+      "creator": "Carlisle, Wilson et al.",
+      "description": "flowchart-based visual programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Tynker",
+      "year": 2012,
+      "creator": "Tynker Inc.",
+      "description": "educational coding platform for kids",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Hopscotch",
+      "year": 2013,
+      "creator": "Hopscotch Technologies",
+      "description": "iPad programming for children",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Swift Playgrounds",
+      "year": 2016,
+      "creator": "Apple",
+      "description": "learn Swift on iPad",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Hedy",
+      "year": 2020,
+      "creator": "Felienne Hermans",
+      "description": "gradual programming language for education",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "x86 Assembly",
+      "year": 1978,
+      "creator": "Intel",
+      "description": "x86 processor assembly language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ARM Assembly",
+      "year": 1985,
+      "creator": "ARM Holdings",
+      "description": "ARM processor assembly language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "MIPS Assembly",
+      "year": 1985,
+      "creator": "MIPS Technologies",
+      "description": "MIPS processor assembly language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "RISC-V Assembly",
+      "year": 2010,
+      "creator": "UC Berkeley",
+      "description": "open-source ISA assembly",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "6502 Assembly",
+      "year": 1975,
+      "creator": "MOS Technology",
+      "description": "Apple II, NES, C64 processor",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Z80 Assembly",
+      "year": 1976,
+      "creator": "Zilog",
+      "description": "ZX Spectrum, Game Boy processor",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "68000 Assembly",
+      "year": 1979,
+      "creator": "Motorola",
+      "description": "Amiga, early Mac, Sega Genesis",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "WebAssembly (WAT)",
+      "year": 2017,
+      "creator": "W3C",
+      "description": "portable binary format for web",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "LLVM IR",
+      "year": 2003,
+      "creator": "Chris Lattner",
+      "description": "LLVM intermediate representation",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SPIR-V",
+      "year": 2015,
+      "creator": "Khronos",
+      "description": "GPU intermediate representation",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "PTX",
+      "year": 2007,
+      "creator": "NVIDIA",
+      "description": "Parallel Thread Execution for CUDA",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "GAS (GNU Assembler)",
+      "year": 1987,
+      "creator": "GNU Project",
+      "description": "assembler for GCC",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "NASM",
+      "year": 1996,
+      "creator": "Simon Tatham, Julian Hall",
+      "description": "Netwide Assembler for x86",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "FASM",
+      "year": 1999,
+      "creator": "Tomasz Grysztar",
+      "description": "flat assembler for x86",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "YASM",
+      "year": 2001,
+      "creator": "Peter Johnson",
+      "description": "rewrite of NASM",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Apache Beam",
+      "year": 2016,
+      "creator": "Google/Apache",
+      "description": "unified batch and streaming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "dbt",
+      "year": 2016,
+      "creator": "Fishtown Analytics",
+      "description": "data transformation in SQL",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Airflow DAGs",
+      "year": 2014,
+      "creator": "Airbnb/Apache",
+      "description": "workflow orchestration in Python",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Luigi",
+      "year": 2012,
+      "creator": "Spotify",
+      "description": "Python-based workflow management",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Prefect",
+      "year": 2018,
+      "creator": "Prefect Technologies",
+      "description": "workflow orchestration",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Dagster",
+      "year": 2019,
+      "creator": "Elementl",
+      "description": "data orchestration",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Nextflow",
+      "year": 2013,
+      "creator": "Paolo Di Tommaso",
+      "description": "bioinformatics workflow",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Snakemake",
+      "year": 2012,
+      "creator": "Johannes Köster",
+      "description": "Python-based bioinformatics workflow",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "WDL",
+      "year": 2015,
+      "creator": "Broad Institute",
+      "description": "Workflow Description Language for genomics",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "CWL",
+      "year": 2014,
+      "creator": "Common Workflow Language project",
+      "description": "portable workflow descriptions",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Stan",
+      "year": 2012,
+      "creator": "Andrew Gelman et al.",
+      "description": "Bayesian statistical modeling",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "BUGS/JAGS",
+      "year": 1989,
+      "creator": "MRC Cambridge",
+      "description": "Bayesian inference using Gibbs sampling",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Pyro",
+      "year": 2017,
+      "creator": "Uber AI",
+      "description": "probabilistic programming in Python",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "TensorFlow Graph DSL",
+      "year": 2015,
+      "creator": "Google Brain",
+      "description": "computational graph definition",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "ONNX",
+      "year": 2017,
+      "creator": "Facebook/Microsoft",
+      "description": "Open Neural Network Exchange",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Triton",
+      "year": 2021,
+      "creator": "OpenAI",
+      "description": "GPU kernel programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Halide",
+      "year": 2012,
+      "creator": "MIT/Adobe",
+      "description": "image processing DSL",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "XLA HLO",
+      "year": 2017,
+      "creator": "Google",
+      "description": "High Level Operations for accelerators",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Pkl",
+      "year": 2024,
+      "creator": "Apple",
+      "description": "configuration as code",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Bend",
+      "year": 2024,
+      "creator": "Higher Order Company",
+      "description": "massively parallel functional",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Jakt",
+      "year": 2022,
+      "creator": "Andreas Kling",
+      "description": "memory-safe C++ successor for SerenityOS",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Hylo",
+      "year": 2022,
+      "creator": "Val team",
+      "description": "systems programming with value semantics",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Wing",
+      "year": 2022,
+      "creator": "Monada",
+      "description": "cloud-oriented programming language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Dark",
+      "year": 2018,
+      "creator": "Paul Biggar",
+      "description": "deployless backend language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Bosque",
+      "year": 2019,
+      "creator": "Mark Marron (Microsoft)",
+      "description": "regularized programming language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "P",
+      "year": 2013,
+      "creator": "Microsoft Research",
+      "description": "safe asynchronous event-driven programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Verona",
+      "year": 2019,
+      "creator": "Microsoft Research",
+      "description": "infrastructure language with ownership",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Pony",
+      "year": 2014,
+      "creator": "Sylvan Clebsch",
+      "description": "actor-model with reference capabilities",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Wren",
+      "year": 2013,
+      "creator": "Bob Nystrom",
+      "description": "small class-based scripting language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Arturo",
+      "year": 2019,
+      "creator": "Yanis Zafirópulos",
+      "description": "simple portable programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Lobster",
+      "year": 2014,
+      "creator": "Wouter van Oortmerssen",
+      "description": "game programming language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Beef",
+      "year": 2019,
+      "creator": "Brian Myers",
+      "description": "performance-oriented compiled language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "C3",
+      "year": 2019,
+      "creator": "Christoffer Lernö",
+      "description": "evolution of C",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Hare",
+      "year": 2022,
+      "creator": "Drew DeVault",
+      "description": "systems programming for Linux",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Austral",
+      "year": 2023,
+      "creator": "Fernando Borretti",
+      "description": "linear types for systems programming",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Raku",
+      "year": 2015,
+      "creator": "Larry Wall",
+      "description": "Perl 6 renamed, multi-paradigm",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Groovy",
+      "year": 2003,
+      "creator": "James Strachan",
+      "description": "dynamic JVM language, Gradle's language",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "CoffeeScript",
+      "year": 2009,
+      "creator": "Jeremy Ashkenas",
+      "description": "JavaScript with cleaner syntax",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "LiveScript",
+      "year": 2011,
+      "creator": "George Zahariev",
+      "description": "CoffeeScript-inspired functional",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Hack",
+      "year": 2014,
+      "creator": "Facebook",
+      "description": "gradually typed PHP",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Reason",
+      "year": 2016,
+      "creator": "Jordan Walke (Facebook)",
+      "description": "OCaml for React developers",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "F#",
+      "year": 2005,
+      "creator": "Don Syme (Microsoft)",
+      "description": "ML-family functional on .NET",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Erlang",
+      "year": 1986,
+      "creator": "Joe Armstrong",
+      "description": "fault-tolerant concurrent systems",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Wolfram Language",
+      "year": 2013,
+      "creator": "Stephen Wolfram",
+      "description": "computational intelligence",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Stata",
+      "year": 1985,
+      "creator": "StataCorp",
+      "description": "statistics and econometrics",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SAS",
+      "year": 1976,
+      "creator": "SAS Institute",
+      "description": "statistical analysis",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "SPSS Syntax",
+      "year": 1968,
+      "creator": "SPSS Inc.",
+      "description": "statistical commands",
+      "mastery_level": "INDEXED"
+    },
+    {
+      "name": "Wasm",
+      "year": 2017,
+      "creator": "W3C",
+      "description": "portable binary instruction format",
+      "mastery_level": "INDEXED"
+    }
+  ]
+}

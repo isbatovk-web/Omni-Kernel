@@ -1,0 +1,12 @@
+[package]
+name = "calc-module"
+version = "0.1.0"
+edition = "2021"
+description = "Example high-performance calculation module for Omni-Kernel (compiles to WASM)"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+# In Phase 2, this will use wit-bindgen for automatic WIT bindings:
+# wit-bindgen = "0.22"

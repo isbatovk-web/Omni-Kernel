@@ -1,0 +1,2072 @@
+# OMNIPEDIA VOLUME 10: MEGA HARVESTED DATABASE
+# Crawled + Generated: 2026-04-17T14:02:31.893285
+# Unique entries in this volume: 1963
+
+---
+
+## SECTION A: VERIFIED REAL LANGUAGES (Scraped from scriptol.com)
+
+- **A#** | ID: `b58e28cf4a` | Status: VERIFIED_REAL
+- **A+** | ID: `13fe2498bc` | Status: VERIFIED_REAL
+- **ABAP** | ID: `5407402a60` | Status: VERIFIED_REAL
+- **ABC** | ID: `902fbdd2b1` | Status: VERIFIED_REAL
+- **ALGOL** | ID: `33a62c7a2a` | Status: VERIFIED_REAL
+- **ALGOL 60** | ID: `4e22607c63` | Status: VERIFIED_REAL
+- **ALGOL 68** | ID: `9d6fca6e9d` | Status: VERIFIED_REAL
+- **ALGOL W** | ID: `af21f9a380` | Status: VERIFIED_REAL
+- **AMPL** | ID: `2402967b54` | Status: VERIFIED_REAL
+- **ANI** | ID: `4ff35e5203` | Status: VERIFIED_REAL
+- **APL** | ID: `cd5451fbbc` | Status: VERIFIED_REAL
+- **APT** | ID: `bf103b791b` | Status: VERIFIED_REAL
+- **ARS++** | ID: `04522aabf8` | Status: VERIFIED_REAL
+- **ATLAS** | ID: `96fd73b0c2` | Status: VERIFIED_REAL
+- **AWK** | ID: `00dbc48aa9` | Status: VERIFIED_REAL
+- **Action!** | ID: `ffc09a1b72` | Status: VERIFIED_REAL
+- **ActionScript** | ID: `e7770ac960` | Status: VERIFIED_REAL
+- **Actor** | ID: `1cc8461967` | Status: VERIFIED_REAL
+- **Actum** | ID: `bcd3a5fe83` | Status: VERIFIED_REAL
+- **Ada** | ID: `1a382809b7` | Status: VERIFIED_REAL
+- **Afnix** | ID: `c154509446` | Status: VERIFIED_REAL
+- **Agena** | ID: `925559889d` | Status: VERIFIED_REAL
+- **Aldor** | ID: `fadcec8510` | Status: VERIFIED_REAL
+- **Algae** | ID: `ac9b271d5f` | Status: VERIFIED_REAL
+- **Algo** | ID: `082a0a6fec` | Status: VERIFIED_REAL
+- **Alma-0** | ID: `831be3ede4` | Status: VERIFIED_REAL
+- **Alphard** | ID: `10300ea54c` | Status: VERIFIED_REAL
+- **Altran** | ID: `b666151ce3` | Status: VERIFIED_REAL
+- **AmigaE** | ID: `c6ded5ea27` | Status: VERIFIED_REAL
+- **Anubis** | ID: `449b4d758a` | Status: VERIFIED_REAL
+- **ApeScript** | ID: `8ef1892fcf` | Status: VERIFIED_REAL
+- **AppleScript** | ID: `ff341eaa67` | Status: VERIFIED_REAL
+- **Arduino** | ID: `ee5bced252` | Status: VERIFIED_REAL
+- **Argos** | ID: `13b9bac97a` | Status: VERIFIED_REAL
+- **Asm.js** | ID: `b2ff3a8ca9` | Status: VERIFIED_REAL
+- **AspectJ** | ID: `c2560c34ab` | Status: VERIFIED_REAL
+- **AutoIt** | ID: `63ee59f39a` | Status: VERIFIED_REAL
+- **Autocode** | ID: `1cfc2b8e94` | Status: VERIFIED_REAL
+- **Avail** | ID: `6ea6ec59ee` | Status: VERIFIED_REAL
+- **Averest** | ID: `c31721f144` | Status: VERIFIED_REAL
+- **Axiom** | ID: `2c5d94dd60` | Status: VERIFIED_REAL
+- **B** | ID: `9d5ed678fe` | Status: VERIFIED_REAL
+- **BAL** | ID: `6049a05f7a` | Status: VERIFIED_REAL
+- **BASIC** | ID: `e4ac03f6c9` | Status: VERIFIED_REAL
+- **BCPL** | ID: `ea1b39534e` | Status: VERIFIED_REAL
+- **BETA** | ID: `36b84f8e3f` | Status: VERIFIED_REAL
+- **BLISS** | ID: `2c919ae370` | Status: VERIFIED_REAL
+- **BPEL** | ID: `bf2c7a1fef` | Status: VERIFIED_REAL
+- **Bash** | ID: `7024ff0860` | Status: VERIFIED_REAL
+- **BeanShell** | ID: `72a1c6e20c` | Status: VERIFIED_REAL
+- **Bigwig** | ID: `4b4eefb652` | Status: VERIFIED_REAL
+- **Bistro** | ID: `1f152ff501` | Status: VERIFIED_REAL
+- **Blockly** | ID: `f73609f1e3` | Status: VERIFIED_REAL
+- **Boo** | ID: `2e4d1b829d` | Status: VERIFIED_REAL
+- **Bosque** | ID: `b25cd05d23` | Status: VERIFIED_REAL
+- **Bourne shell** | ID: `be15d975c3` | Status: VERIFIED_REAL
+- **Bournegol** | ID: `75f8cfc02e` | Status: VERIFIED_REAL
+- **C** | ID: `0d61f8370c` | Status: VERIFIED_REAL
+- **C Shell** | ID: `9bfc78d4c6` | Status: VERIFIED_REAL
+- **C#** | ID: `d7efa19fbe` | Status: VERIFIED_REAL
+- **C++** | ID: `f6f87c9fdc` | Status: VERIFIED_REAL
+- **C--** | ID: `25f86ee683` | Status: VERIFIED_REAL
+- **CFML** | ID: `c2af2111ff` | Status: VERIFIED_REAL
+- **CFScript** | ID: `40bcb07c26` | Status: VERIFIED_REAL
+- **CHILL** | ID: `6d74c48552` | Status: VERIFIED_REAL
+- **CHR** | ID: `f842e3bace` | Status: VERIFIED_REAL
+- **CIL** | ID: `e955908a64` | Status: VERIFIED_REAL
+- **CLIPS** | ID: `6825d983b6` | Status: VERIFIED_REAL
+- **CLOS** | ID: `840509f6a8` | Status: VERIFIED_REAL
+- **CLU** | ID: `b4984fed63` | Status: VERIFIED_REAL
+- **COBOL** | ID: `14eb4c2a0f` | Status: VERIFIED_REAL
+- **COMAL** | ID: `7e5c950c6b` | Status: VERIFIED_REAL
+- **COMIT** | ID: `0e4ed21007` | Status: VERIFIED_REAL
+- **COWSEL** | ID: `67dae23e91` | Status: VERIFIED_REAL
+- **CPL** | ID: `3e403e879f` | Status: VERIFIED_REAL
+- **Cache ObjectScript** | ID: `ce32b73ef2` | Status: VERIFIED_REAL
+- **Caml** | ID: `7547ce3a27` | Status: VERIFIED_REAL
+- **Cayenne** | ID: `2186db2ef1` | Status: VERIFIED_REAL
+- **Cecil** | ID: `20f5da2d12` | Status: VERIFIED_REAL
+- **Cedar** | ID: `f263181084` | Status: VERIFIED_REAL
+- **Ceylon** | ID: `3ab61f8a77` | Status: VERIFIED_REAL
+- **Cg** | ID: `8ae552d52f` | Status: VERIFIED_REAL
+- **Chapel** | ID: `65be7338a3` | Status: VERIFIED_REAL
+- **Charity** | ID: `de0dc1d39b` | Status: VERIFIED_REAL
+- **ChucK** | ID: `bbade82202` | Status: VERIFIED_REAL
+- **Cilk** | ID: `af2bdd29c3` | Status: VERIFIED_REAL
+- **Clarion** | ID: `a01a7650ac` | Status: VERIFIED_REAL
+- **Clay** | ID: `ed5eace1bd` | Status: VERIFIED_REAL
+- **Clean** | ID: `37d12e2cfb` | Status: VERIFIED_REAL
+- **Clipper** | ID: `5835f27e06` | Status: VERIFIED_REAL
+- **Clojure** | ID: `3ce4a9c404` | Status: VERIFIED_REAL
+- **Code** | ID: `ca0dbad92a` | Status: VERIFIED_REAL
+- **CoffeeScript** | ID: `e6d24fcc13` | Status: VERIFIED_REAL
+- **ColdFusion** | ID: `cbd672c9aa` | Status: VERIFIED_REAL
+- **Common Lisp** | ID: `81522d469e` | Status: VERIFIED_REAL
+- **Component Pascal** | ID: `9d47d923b2` | Status: VERIFIED_REAL
+- **Cool** | ID: `22ba039c77` | Status: VERIFIED_REAL
+- **Coral66** | ID: `48b026f062` | Status: VERIFIED_REAL
+- **Crack** | ID: `6cbffac928` | Status: VERIFIED_REAL
+- **Crystal** | ID: `a48296ad11` | Status: VERIFIED_REAL
+- **Curl** | ID: `66b29b9f2b` | Status: VERIFIED_REAL
+- **Curry** | ID: `5933baf90d` | Status: VERIFIED_REAL
+- **Cyclone** | ID: `b923235c01` | Status: VERIFIED_REAL
+- **Cypher** | ID: `31edd1e835` | Status: VERIFIED_REAL
+- **D** | ID: `f623e75af3` | Status: VERIFIED_REAL
+- **DCL** | ID: `00c3783a78` | Status: VERIFIED_REAL
+- **DMX** | ID: `c2b3879e1b` | Status: VERIFIED_REAL
+- **DRAKON** | ID: `5d8f4350c6` | Status: VERIFIED_REAL
+- **DarkBASIC** | ID: `62e375ccb9` | Status: VERIFIED_REAL
+- **Dart** | ID: `35900d9872` | Status: VERIFIED_REAL
+- **Databus** | ID: `1fd111dff8` | Status: VERIFIED_REAL
+- **Datalog** | ID: `b336c4bf5b` | Status: VERIFIED_REAL
+- **Deca** | ID: `f9c204b709` | Status: VERIFIED_REAL
+- **Delphi** | ID: `4c4a218db8` | Status: VERIFIED_REAL
+- **DiBOL** | ID: `c95f5259e7` | Status: VERIFIED_REAL
+- **DisCo** | ID: `c28eb1d77a` | Status: VERIFIED_REAL
+- **Dotty** | ID: `30e2dcc17e` | Status: VERIFIED_REAL
+- **Dylan** | ID: `7acea768fa` | Status: VERIFIED_REAL
+- **E** | ID: `3a3ea00cfc` | Status: VERIFIED_REAL
+- **ECMAScript** | ID: `7601454931` | Status: VERIFIED_REAL
+- **EGL** | ID: `b1e1fe0cc9` | Status: VERIFIED_REAL
+- **Ease** | ID: `aa6a339a66` | Status: VERIFIED_REAL
+- **Edinburgh IMP** | ID: `55c7963c59` | Status: VERIFIED_REAL
+- **Eiffel** | ID: `58d8c478a7` | Status: VERIFIED_REAL
+- **Elan** | ID: `0ded5e3c7e` | Status: VERIFIED_REAL
+- **Elixir** | ID: `a12eb062ec` | Status: VERIFIED_REAL
+- **Elm** | ID: `3ea724b1b0` | Status: VERIFIED_REAL
+- **Emacs Lisp** | ID: `398882cf72` | Status: VERIFIED_REAL
+- **EmotionML** | ID: `575729883a` | Status: VERIFIED_REAL
+- **Epigram** | ID: `8b0776ca3e` | Status: VERIFIED_REAL
+- **Erlang** | ID: `f7e853158b` | Status: VERIFIED_REAL
+- **Escapade** | ID: `1e2eca0c0e` | Status: VERIFIED_REAL
+- **Esterel** | ID: `c79bc8a1db` | Status: VERIFIED_REAL
+- **Euclid** | ID: `4877d64070` | Status: VERIFIED_REAL
+- **Euler** | ID: `0a75320364` | Status: VERIFIED_REAL
+- **Euphoria** | ID: `e02b34fa62` | Status: VERIFIED_REAL
+- **F** | ID: `8006189430` | Status: VERIFIED_REAL
+- **F#** | ID: `629b160731` | Status: VERIFIED_REAL
+- **F3** | ID: `4b6bf4b531` | Status: VERIFIED_REAL
+- **FOCUS** | ID: `d417d2f9c3` | Status: VERIFIED_REAL
+- **FOIL** | ID: `0aafa8021d` | Status: VERIFIED_REAL
+- **FP** | ID: `4ebada6a2a` | Status: VERIFIED_REAL
+- **Fabric** | ID: `0ac79129f2` | Status: VERIFIED_REAL
+- **Factor** | ID: `3c3ba61579` | Status: VERIFIED_REAL
+- **Fantom** | ID: `4cf5dfa0c0` | Status: VERIFIED_REAL
+- **Felix** | ID: `2c3baf26f7` | Status: VERIFIED_REAL
+- **Flow-Matic** | ID: `550d0acb22` | Status: VERIFIED_REAL
+- **Focal** | ID: `c7765b0a34` | Status: VERIFIED_REAL
+- **Forth** | ID: `ec4a46efbd` | Status: VERIFIED_REAL
+- **Fortran** | ID: `843e353f7a` | Status: VERIFIED_REAL
+- **Fortress** | ID: `3cfbf3022c` | Status: VERIFIED_REAL
+- **G** | ID: `dfcf28d073` | Status: VERIFIED_REAL
+- **GAMS** | ID: `3b7b6b8265` | Status: VERIFIED_REAL
+- **GPSS** | ID: `7dff495713` | Status: VERIFIED_REAL
+- **Go** | ID: `5f075ae3e1` | Status: VERIFIED_REAL
+- **Godel** | ID: `7c77586449` | Status: VERIFIED_REAL
+- **Gosu** | ID: `86d4feb4da` | Status: VERIFIED_REAL
+- **Grain** | ID: `f45f481029` | Status: VERIFIED_REAL
+- **Grap** | ID: `c44055a6a3` | Status: VERIFIED_REAL
+- **GraphQL** | ID: `524de3d2ad` | Status: VERIFIED_REAL
+- **Groovy** | ID: `2d19c57fdd` | Status: VERIFIED_REAL
+- **HAL/S** | ID: `a236dea58a` | Status: VERIFIED_REAL
+- **HAScript** | ID: `f58fe759dc` | Status: VERIFIED_REAL
+- **HLA** | ID: `e2113ff08d` | Status: VERIFIED_REAL
+- **HTML** | ID: `4c4ad5fca2` | Status: VERIFIED_REAL
+- **Hack** | ID: `d59347cf63` | Status: VERIFIED_REAL
+- **Halide** | ID: `0c32ffe255` | Status: VERIFIED_REAL
+- **Haskell** | ID: `a59b783ba9` | Status: VERIFIED_REAL
+- **Haxe** | ID: `c244412a00` | Status: VERIFIED_REAL
+- **Heron** | ID: `2dde8f4a54` | Status: VERIFIED_REAL
+- **Hobbes** | ID: `48a47a95e1` | Status: VERIFIED_REAL
+- **Hugo** | ID: `1b3840b0b7` | Status: VERIFIED_REAL
+- **HyperTalk** | ID: `b5329af1aa` | Status: VERIFIED_REAL
+- **IAL** | ID: `78b9708a2b` | Status: VERIFIED_REAL
+- **ICI** | ID: `aa183f7a53` | Status: VERIFIED_REAL
+- **IDL** | ID: `7f22811baa` | Status: VERIFIED_REAL
+- **IMP** | ID: `6ebec19cf0` | Status: VERIFIED_REAL
+- **INTERCAL** | ID: `c7593ab788` | Status: VERIFIED_REAL
+- **IPL** | ID: `e666b88fbe` | Status: VERIFIED_REAL
+- **ISWIM** | ID: `07a158e01d` | Status: VERIFIED_REAL
+- **Icon** | ID: `817434295a` | Status: VERIFIED_REAL
+- **Inform** | ID: `67a936f5bc` | Status: VERIFIED_REAL
+- **Io** | ID: `42a02b42ec` | Status: VERIFIED_REAL
+- **J** | ID: `ff44570aca` | Status: VERIFIED_REAL
+- **JADE** | ID: `39a277385d` | Status: VERIFIED_REAL
+- **JCL** | ID: `6f634e157c` | Status: VERIFIED_REAL
+- **JOSS** | ID: `991e1135c6` | Status: VERIFIED_REAL
+- **JOVIAL** | ID: `f08d03bbef` | Status: VERIFIED_REAL
+- **JSON** | ID: `0ecd11c1d7` | Status: VERIFIED_REAL
+- **JScript** | ID: `dd1ee9114d` | Status: VERIFIED_REAL
+- **Jal** | ID: `a136c34172` | Status: VERIFIED_REAL
+- **Janet** | ID: `b3b2a91535` | Status: VERIFIED_REAL
+- **Janus (Caltech)** | ID: `f5bbb9c1e9` | Status: VERIFIED_REAL
+- **Janus (concurrent)** | ID: `c4710d9381` | Status: VERIFIED_REAL
+- **Java** | ID: `d52387880e` | Status: VERIFIED_REAL
+- **JavaFX Script** | ID: `8e4fd8158e` | Status: VERIFIED_REAL
+- **JavaScript** | ID: `686155af75` | Status: VERIFIED_REAL
+- **Jif** | ID: `b0dc45778c` | Status: VERIFIED_REAL
+- **Join Java** | ID: `ea8ce6f769` | Status: VERIFIED_REAL
+- **Joule** | ID: `3898f79510` | Status: VERIFIED_REAL
+- **Joy** | ID: `26307ecc02` | Status: VERIFIED_REAL
+- **Julia** | ID: `2344521e38` | Status: VERIFIED_REAL
+- **K** | ID: `a5f3c6a11b` | Status: VERIFIED_REAL
+- **Kaleidoscope** | ID: `b2d2b8924a` | Status: VERIFIED_REAL
+- **Korn shell** | ID: `9f1423a51d` | Status: VERIFIED_REAL
+- **Kotlin** | ID: `539a3a5859` | Status: VERIFIED_REAL
+- **LINC 4DL** | ID: `5975c540c6` | Status: VERIFIED_REAL
+- **LINQ** | ID: `979e08fd89` | Status: VERIFIED_REAL
+- **LLJS** | ID: `c94291fbbf` | Status: VERIFIED_REAL
+- **LLVM bitcode** | ID: `f79cf642de` | Status: VERIFIED_REAL
+- **LYaPAS** | ID: `50f3185582` | Status: VERIFIED_REAL
+- **LabView** | ID: `ce4fb0b638` | Status: VERIFIED_REAL
+- **Ladder Logic** | ID: `98143abf8f` | Status: VERIFIED_REAL
+- **Lagoona** | ID: `b947bd6c0e` | Status: VERIFIED_REAL
+- **Lava** | ID: `1d18fe2cdd` | Status: VERIFIED_REAL
+- **Leda** | ID: `de9163b09a` | Status: VERIFIED_REAL
+- **Lfyre** | ID: `e6005ccb42` | Status: VERIFIED_REAL
+- **Limbo** | ID: `bec47d00a4` | Status: VERIFIED_REAL
+- **Lingo** | ID: `e2005483e3` | Status: VERIFIED_REAL
+- **Lisaac** | ID: `5964ae39fc` | Status: VERIFIED_REAL
+- **Lisp** | ID: `d4f5a33e45` | Status: VERIFIED_REAL
+- **Lobster** | ID: `5fd20774a6` | Status: VERIFIED_REAL
+- **Loci** | ID: `211a44e5c9` | Status: VERIFIED_REAL
+- **Logo** | ID: `8c2857a9ad` | Status: VERIFIED_REAL
+- **Lua** | ID: `0ae9478a1d` | Status: VERIFIED_REAL
+- **Lucid** | ID: `bd23b25ce2` | Status: VERIFIED_REAL
+- **Lustre** | ID: `af33584349` | Status: VERIFIED_REAL
+- **M (MUMPS)** | ID: `7b11d437aa` | Status: VERIFIED_REAL
+- **M (Microsoft)** | ID: `0957a3f282` | Status: VERIFIED_REAL
+- **M#** | ID: `e133b4f0f8` | Status: VERIFIED_REAL
+- **MAD** | ID: `93720e823d` | Status: VERIFIED_REAL
+- **MATLAB** | ID: `8f6823abd3` | Status: VERIFIED_REAL
+- **MDX** | ID: `cd49eecab2` | Status: VERIFIED_REAL
+- **MIMIC** | ID: `b65dabf6da` | Status: VERIFIED_REAL
+- **MIXAL** | ID: `e077196bfd` | Status: VERIFIED_REAL
+- **ML** | ID: `d01fd9b01e` | Status: VERIFIED_REAL
+- **MUMPS** | ID: `5b5b599bb9` | Status: VERIFIED_REAL
+- **MarkovJunior** | ID: `9b0c7014ca` | Status: VERIFIED_REAL
+- **Mary** | ID: `e39e74fb4e` | Status: VERIFIED_REAL
+- **Mathematica** | ID: `ce5dcee0db` | Status: VERIFIED_REAL
+- **Mercury** | ID: `34dae487e3` | Status: VERIFIED_REAL
+- **Mesa** | ID: `2260b669d1` | Status: VERIFIED_REAL
+- **MetaL** | ID: `419bd9e4cc` | Status: VERIFIED_REAL
+- **Mirah** | ID: `19f54fa11f` | Status: VERIFIED_REAL
+- **Miranda** | ID: `f8d3d52f62` | Status: VERIFIED_REAL
+- **Miva Script** | ID: `7a85a71398` | Status: VERIFIED_REAL
+- **Moby** | ID: `8524b00703` | Status: VERIFIED_REAL
+- **Modula** | ID: `f4fb2aff0c` | Status: VERIFIED_REAL
+- **Modula-2** | ID: `18ab7c6a89` | Status: VERIFIED_REAL
+- **Modula-3** | ID: `743b657721` | Status: VERIFIED_REAL
+- **Mondrian** | ID: `db7ef43550` | Status: VERIFIED_REAL
+- **Mortran** | ID: `cc22eab11e` | Status: VERIFIED_REAL
+- **Moto** | ID: `842d826e29` | Status: VERIFIED_REAL
+- **NESL** | ID: `d7d50e02ed` | Status: VERIFIED_REAL
+- **NGL** | ID: `fce8de0ea9` | Status: VERIFIED_REAL
+- **Napier88** | ID: `c0791d9f52` | Status: VERIFIED_REAL
+- **Neko** | ID: `565c407a8f` | Status: VERIFIED_REAL
+- **Nemerle** | ID: `559af7b0d9` | Status: VERIFIED_REAL
+- **NetRexx** | ID: `ca59ecf12e` | Status: VERIFIED_REAL
+- **Newspeak** | ID: `7274c530c6` | Status: VERIFIED_REAL
+- **Newsqueak** | ID: `04e2da5f02` | Status: VERIFIED_REAL
+- **Nial** | ID: `8b8e2442b3` | Status: VERIFIED_REAL
+- **Nice** | ID: `914d0a4ebc` | Status: VERIFIED_REAL
+- **Nickle** | ID: `1f3675391e` | Status: VERIFIED_REAL
+- **Nim** | ID: `e51aa668fe` | Status: VERIFIED_REAL
+- **Nit** | ID: `b72b44c99e` | Status: VERIFIED_REAL
+- **Noop** | ID: `35721c181e` | Status: VERIFIED_REAL
+- **Nu** | ID: `d9b7d9073e` | Status: VERIFIED_REAL
+- **OCaml** | ID: `1d16892941` | Status: VERIFIED_REAL
+- **OPL** | ID: `112551a97b` | Status: VERIFIED_REAL
+- **OPS5** | ID: `13af4e7d47` | Status: VERIFIED_REAL
+- **OQL** | ID: `33d2fd200b` | Status: VERIFIED_REAL
+- **Oberon** | ID: `f9d0e88ed2` | Status: VERIFIED_REAL
+- **Objective Modula 2** | ID: `a677cac1cd` | Status: VERIFIED_REAL
+- **Objective-C** | ID: `a5084c5b36` | Status: VERIFIED_REAL
+- **Obliq** | ID: `a1434b49cd` | Status: VERIFIED_REAL
+- **Occam** | ID: `c007bc5289` | Status: VERIFIED_REAL
+- **Octave** | ID: `1a30c5d3f6` | Status: VERIFIED_REAL
+- **Opa** | ID: `d506be2f01` | Status: VERIFIED_REAL
+- **Opal** | ID: `a4dcac88ae` | Status: VERIFIED_REAL
+- **OpenEdge ABL** | ID: `8f97175c16` | Status: VERIFIED_REAL
+- **Orc** | ID: `34b0ceb41c` | Status: VERIFIED_REAL
+- **Oz** | ID: `0adaeee8e8` | Status: VERIFIED_REAL
+- **P-TAC** | ID: `ed2e0ee790` | Status: VERIFIED_REAL
+- **PBASIC** | ID: `c95e445f8a` | Status: VERIFIED_REAL
+- **PHP** | ID: `2fec392304` | Status: VERIFIED_REAL
+- **PILOT** | ID: `ece6117f0b` | Status: VERIFIED_REAL
+- **PL-11** | ID: `9755600207` | Status: VERIFIED_REAL
+- **PL/0** | ID: `86fc193d51` | Status: VERIFIED_REAL
+- **PL/B** | ID: `ac09e44c4a` | Status: VERIFIED_REAL
+- **PL/C** | ID: `7394b6e97e` | Status: VERIFIED_REAL
+- **PL/I** | ID: `05641b11b3` | Status: VERIFIED_REAL
+- **PL/M** | ID: `7c041017ef` | Status: VERIFIED_REAL
+- **POP-2** | ID: `2ba83dd1f1` | Status: VERIFIED_REAL
+- **POV-Ray** | ID: `6e8d1e0cd2` | Status: VERIFIED_REAL
+- **Pascal** | ID: `ca693a8ccf` | Status: VERIFIED_REAL
+- **Perl** | ID: `0114ad06d7` | Status: VERIFIED_REAL
+- **Pico** | ID: `cba3b736b0` | Status: VERIFIED_REAL
+- **Picture** | ID: `8ae5811be1` | Status: VERIFIED_REAL
+- **Pike** | ID: `759a7bf765` | Status: VERIFIED_REAL
+- **Pkl** | ID: `d9c4693021` | Status: VERIFIED_REAL
+- **Plankalkul** | ID: `4be017ce81` | Status: VERIFIED_REAL
+- **Planner** | ID: `85be6ace42` | Status: VERIFIED_REAL
+- **PostScript** | ID: `b6f9d0f64a` | Status: VERIFIED_REAL
+- **Processing** | ID: `643562a9ae` | Status: VERIFIED_REAL
+- **Prograph** | ID: `bb27b3deb0` | Status: VERIFIED_REAL
+- **Prolog** | ID: `fbd3554ec6` | Status: VERIFIED_REAL
+- **Proteus** | ID: `ed576db3f9` | Status: VERIFIED_REAL
+- **Protocol Buffers** | ID: `385596a109` | Status: VERIFIED_REAL
+- **Pure** | ID: `d30973809f` | Status: VERIFIED_REAL
+- **PureScript** | ID: `c7873b5ec5` | Status: VERIFIED_REAL
+- **Python** | ID: `a7f5f35426` | Status: VERIFIED_REAL
+- **Q** | ID: `f09564c9ca` | Status: VERIFIED_REAL
+- **QML** | ID: `c477abfb7f` | Status: VERIFIED_REAL
+- **QPL** | ID: `0def6a7360` | Status: VERIFIED_REAL
+- **QuakeC** | ID: `4f67e8da0d` | Status: VERIFIED_REAL
+- **Quorum** | ID: `29dc0505c3` | Status: VERIFIED_REAL
+- **R** | ID: `e1e1d3d405` | Status: VERIFIED_REAL
+- **R++** | ID: `606674db4e` | Status: VERIFIED_REAL
+- **RDF** | ID: `07ad13f9a6` | Status: VERIFIED_REAL
+- **RLaB** | ID: `2dfa6675c0` | Status: VERIFIED_REAL
+- **RPG** | ID: `6fc6f8fa1a` | Status: VERIFIED_REAL
+- **RPL** | ID: `92b4b7f8e1` | Status: VERIFIED_REAL
+- **RSL** | ID: `0e16427038` | Status: VERIFIED_REAL
+- **Racket** | ID: `e562d6dad5` | Status: VERIFIED_REAL
+- **Ratfiv** | ID: `1b31f7d788` | Status: VERIFIED_REAL
+- **Ratfor** | ID: `548c8ce811` | Status: VERIFIED_REAL
+- **Rebol** | ID: `9b07499fc6` | Status: VERIFIED_REAL
+- **Red** | ID: `ee38e4d5dd` | Status: VERIFIED_REAL
+- **Refal** | ID: `835c177187` | Status: VERIFIED_REAL
+- **Rexx** | ID: `a55d6d1cfb` | Status: VERIFIED_REAL
+- **Ruby** | ID: `9916d1fc59` | Status: VERIFIED_REAL
+- **Rust** | ID: `f5e265d607` | Status: VERIFIED_REAL
+- **S** | ID: `5dbc98dcc9` | Status: VERIFIED_REAL
+- **S-Algol** | ID: `e145bea053` | Status: VERIFIED_REAL
+- **S/SL** | ID: `1f4ab0b184` | Status: VERIFIED_REAL
+- **SAM76** | ID: `6229046508` | Status: VERIFIED_REAL
+- **SAS** | ID: `2db46c628c` | Status: VERIFIED_REAL
+- **SASL** | ID: `b15a902a55` | Status: VERIFIED_REAL
+- **SETL** | ID: `2374d72faf` | Status: VERIFIED_REAL
+- **SGML** | ID: `6071c04788` | Status: VERIFIED_REAL
+- **SISAL** | ID: `68498d659b` | Status: VERIFIED_REAL
+- **SLIP** | ID: `967f286a09` | Status: VERIFIED_REAL
+- **SNOBOL** | ID: `bdc9cc7b3c` | Status: VERIFIED_REAL
+- **SOAP (asm)** | ID: `689d38985a` | Status: VERIFIED_REAL
+- **SP/k** | ID: `7625c723d6` | Status: VERIFIED_REAL
+- **SPARK** | ID: `7547ffe741` | Status: VERIFIED_REAL
+- **SPARQL** | ID: `50b121312f` | Status: VERIFIED_REAL
+- **SPL (Shakespeare)** | ID: `ddeb6cf085` | Status: VERIFIED_REAL
+- **SQL** | ID: `9778840a01` | Status: VERIFIED_REAL
+- **SR** | ID: `8cb2010d27` | Status: VERIFIED_REAL
+- **SVG** | ID: `cd15a75c26` | Status: VERIFIED_REAL
+- **Sail** | ID: `8e186b0bac` | Status: VERIFIED_REAL
+- **Sather** | ID: `8d208674a5` | Status: VERIFIED_REAL
+- **Sawzall** | ID: `c7fffe2ed4` | Status: VERIFIED_REAL
+- **Scala** | ID: `3012dcff14` | Status: VERIFIED_REAL
+- **Scheme** | ID: `827452688e` | Status: VERIFIED_REAL
+- **Scratch** | ID: `a53f4cee63` | Status: VERIFIED_REAL
+- **Scriptol** | ID: `c3cad191d3` | Status: VERIFIED_REAL
+- **Sed** | ID: `feaf74410e` | Status: VERIFIED_REAL
+- **Seed7** | ID: `430455b732` | Status: VERIFIED_REAL
+- **Self** | ID: `ad6e7652b1` | Status: VERIFIED_REAL
+- **Short Code** | ID: `5d5763765d` | Status: VERIFIED_REAL
+- **Simit** | ID: `2652669539` | Status: VERIFIED_REAL
+- **Simula** | ID: `6b69f5cb20` | Status: VERIFIED_REAL
+- **Smalltalk** | ID: `a3efe69f2b` | Status: VERIFIED_REAL
+- **Snowball** | ID: `c0429b6a65` | Status: VERIFIED_REAL
+- **Squeak** | ID: `29fff2cee9` | Status: VERIFIED_REAL
+- **Squirrel** | ID: `44314e1e6a` | Status: VERIFIED_REAL
+- **Standard ML** | ID: `434f87c98d` | Status: VERIFIED_REAL
+- **Subtext** | ID: `caba28429f` | Status: VERIFIED_REAL
+- **SuperCollider** | ID: `33dc9daf15` | Status: VERIFIED_REAL
+- **SuperX++** | ID: `046d4281c2` | Status: VERIFIED_REAL
+- **Swift** | ID: `ae832e9b5b` | Status: VERIFIED_REAL
+- **Synergy/DBL** | ID: `c59ef6ae4a` | Status: VERIFIED_REAL
+- **T** | ID: `b9ece18c95` | Status: VERIFIED_REAL
+- **TACL** | ID: `665af45145` | Status: VERIFIED_REAL
+- **TACPOL** | ID: `8303bc712b` | Status: VERIFIED_REAL
+- **TADS** | ID: `de0bb33b69` | Status: VERIFIED_REAL
+- **TAL** | ID: `342ddebb4a` | Status: VERIFIED_REAL
+- **TELCOMP** | ID: `9bf9f4d2db` | Status: VERIFIED_REAL
+- **TI-BASIC** | ID: `88aa8c7414` | Status: VERIFIED_REAL
+- **TOM** | ID: `e1f3ecc316` | Status: VERIFIED_REAL
+- **TRAC** | ID: `8a871da1bc` | Status: VERIFIED_REAL
+- **TTCN-3** | ID: `76b1677a2f` | Status: VERIFIED_REAL
+- **TUTOR** | ID: `ff406afd49` | Status: VERIFIED_REAL
+- **TXL** | ID: `8779db34a8` | Status: VERIFIED_REAL
+- **Tcl** | ID: `21c9118ea5` | Status: VERIFIED_REAL
+- **TeX** | ID: `cfe6301ce5` | Status: VERIFIED_REAL
+- **Tempo** | ID: `d65dabf567` | Status: VERIFIED_REAL
+- **Titanium** | ID: `6c1aad782b` | Status: VERIFIED_REAL
+- **Toit** | ID: `e086306000` | Status: VERIFIED_REAL
+- **Turing** | ID: `bbe51039d0` | Status: VERIFIED_REAL
+- **TypeScript** | ID: `558b544cf6` | Status: VERIFIED_REAL
+- **UML** | ID: `083e182451` | Status: VERIFIED_REAL
+- **UNCOL** | ID: `5259686e92` | Status: VERIFIED_REAL
+- **Ubercode** | ID: `71977e5545` | Status: VERIFIED_REAL
+- **Unicon** | ID: `5c8a5d96ff` | Status: VERIFIED_REAL
+- **UnrealScript** | ID: `e9b877051a` | Status: VERIFIED_REAL
+- **UrbiScript** | ID: `bebbedd3d2` | Status: VERIFIED_REAL
+- **VBScript** | ID: `530be07068` | Status: VERIFIED_REAL
+- **VDS** | ID: `03dda40524` | Status: VERIFIED_REAL
+- **VHDL** | ID: `01ebe05cf3` | Status: VERIFIED_REAL
+- **VTL** | ID: `f993b79ff6` | Status: VERIFIED_REAL
+- **Verilog** | ID: `e3dd11642e` | Status: VERIFIED_REAL
+- **Visual Basic** | ID: `9e4ea5faf5` | Status: VERIFIED_REAL
+- **Visual Basic.NET** | ID: `55a1b74c4d` | Status: VERIFIED_REAL
+- **WLanguage** | ID: `ec1112779f` | Status: VERIFIED_REAL
+- **Water** | ID: `27634ff800` | Status: VERIFIED_REAL
+- **Whitespace** | ID: `ce9a733c2a` | Status: VERIFIED_REAL
+- **Winbatch** | ID: `75bf6b2b18` | Status: VERIFIED_REAL
+- **Wiring** | ID: `441b65c8a6` | Status: VERIFIED_REAL
+- **Wolfram** | ID: `ab5e97ed23` | Status: VERIFIED_REAL
+- **Wyvern** | ID: `36337f6d3f` | Status: VERIFIED_REAL
+- **X10** | ID: `b0103ecfc6` | Status: VERIFIED_REAL
+- **XAML** | ID: `8cbfd56579` | Status: VERIFIED_REAL
+- **XBL** | ID: `86ce0a864d` | Status: VERIFIED_REAL
+- **XForms** | ID: `a17b7e55da` | Status: VERIFIED_REAL
+- **XHTML** | ID: `24622bc5e4` | Status: VERIFIED_REAL
+- **XL** | ID: `a7a4ccc5e1` | Status: VERIFIED_REAL
+- **XML** | ID: `3501bb093d` | Status: VERIFIED_REAL
+- **XOTcl** | ID: `cfe82c2100` | Status: VERIFIED_REAL
+- **XPL** | ID: `fac79406e2` | Status: VERIFIED_REAL
+- **XQuery** | ID: `433d87b9a9` | Status: VERIFIED_REAL
+- **XUL** | ID: `0f40bfc9b1` | Status: VERIFIED_REAL
+- **Xtend** | ID: `d941b1b8c9` | Status: VERIFIED_REAL
+- **YAFL** | ID: `ecd6f15a58` | Status: VERIFIED_REAL
+- **Yorick** | ID: `910c8ff74a` | Status: VERIFIED_REAL
+- **Z Notation** | ID: `3882eb2a6b` | Status: VERIFIED_REAL
+- **ZOPL** | ID: `cff497da94` | Status: VERIFIED_REAL
+- **ZPL** | ID: `773d6e671a` | Status: VERIFIED_REAL
+- **Zig** | ID: `f1e1f97d13` | Status: VERIFIED_REAL
+- **elastiC** | ID: `1c51f166e1` | Status: VERIFIED_REAL
+- **o:XML** | ID: `75bbc5c3fb` | Status: VERIFIED_REAL
+- **ooc** | ID: `64e114f6a7` | Status: VERIFIED_REAL
+- **rc** | ID: `ff78648be5` | Status: VERIFIED_REAL
+
+## SECTION: AI/ML framework/DSL (105 entries)
+
+- **Airflow** | ID: `d1662521e6` | Category: AI/ML framework/DSL
+- **Anthropic API** | ID: `4e24867275` | Category: AI/ML framework/DSL
+- **Apache Arrow** | ID: `650f108a99` | Category: AI/ML framework/DSL
+- **Apache Hudi** | ID: `29c97433e1` | Category: AI/ML framework/DSL
+- **Apache Iceberg** | ID: `04dc684d48` | Category: AI/ML framework/DSL
+- **Apache Parquet** | ID: `bf971e4f3c` | Category: AI/ML framework/DSL
+- **AutoGen** | ID: `e8b508623e` | Category: AI/ML framework/DSL
+- **CUDA C/C++** | ID: `3733bc3219` | Category: AI/ML framework/DSL
+- **CUDA Python** | ID: `5a99d29491` | Category: AI/ML framework/DSL
+- **Caffe protobuf** | ID: `1975be7970` | Category: AI/ML framework/DSL
+- **CatBoost** | ID: `d7967d2d7b` | Category: AI/ML framework/DSL
+- **Cohere API** | ID: `494908ec88` | Category: AI/ML framework/DSL
+- **Comet ML** | ID: `d0c16ae156` | Category: AI/ML framework/DSL
+- **CrewAI** | ID: `c5ee2b8bad` | Category: AI/ML framework/DSL
+- **CuPy** | ID: `8efb3259b0` | Category: AI/ML framework/DSL
+- **DSPy** | ID: `d300851fe7` | Category: AI/ML framework/DSL
+- **DVC (Data Version Control)** | ID: `c8a92490a7` | Category: AI/ML framework/DSL
+- **Dagster** | ID: `f41626d073` | Category: AI/ML framework/DSL
+- **Dask** | ID: `df5eb1591e` | Category: AI/ML framework/DSL
+- **DeepFace** | ID: `b68da0371a` | Category: AI/ML framework/DSL
+- **Delta Lake** | ID: `e51fc2a250` | Category: AI/ML framework/DSL
+- **Detectron2** | ID: `3f39b8c95a` | Category: AI/ML framework/DSL
+- **DuckDB Python** | ID: `1bed47785c` | Category: AI/ML framework/DSL
+- **Equinox** | ID: `e130d92f6f` | Category: AI/ML framework/DSL
+- **Fireworks AI API** | ID: `6aa91943fc` | Category: AI/ML framework/DSL
+- **Flax** | ID: `c731a0c8df` | Category: AI/ML framework/DSL
+- **GGUF/GGML format** | ID: `8dbf62a90c` | Category: AI/ML framework/DSL
+- **Gensim** | ID: `7013def92a` | Category: AI/ML framework/DSL
+- **Google Gemini API** | ID: `36f22fb06d` | Category: AI/ML framework/DSL
+- **Great Expectations** | ID: `357846e928` | Category: AI/ML framework/DSL
+- **Groq API** | ID: `78de18b861` | Category: AI/ML framework/DSL
+- **Guidance (Microsoft)** | ID: `6c5cda76c7` | Category: AI/ML framework/DSL
+- **Haiku (DeepMind)** | ID: `d33230f476` | Category: AI/ML framework/DSL
+- **Hugging Face Datasets** | ID: `eb9d258647` | Category: AI/ML framework/DSL
+- **Hugging Face PEFT** | ID: `67d507c537` | Category: AI/ML framework/DSL
+- **Hugging Face TRL** | ID: `877eb177b4` | Category: AI/ML framework/DSL
+- **Hugging Face Tokenizers** | ID: `45491bee17` | Category: AI/ML framework/DSL
+- **Hugging Face Transformers** | ID: `03ceb6ae39` | Category: AI/ML framework/DSL
+- **IREE** | ID: `df48843b91` | Category: AI/ML framework/DSL
+- **InsightFace** | ID: `614efbc2da` | Category: AI/ML framework/DSL
+- **JAX Python** | ID: `795d6e40d7` | Category: AI/ML framework/DSL
+- **Keras 2.x** | ID: `72acd1f0f3` | Category: AI/ML framework/DSL
+- **Keras 3.x** | ID: `5b43d715cc` | Category: AI/ML framework/DSL
+- **Label Studio** | ID: `9f9290dc01` | Category: AI/ML framework/DSL
+- **LangChain** | ID: `8de59538e5` | Category: AI/ML framework/DSL
+- **LightGBM** | ID: `161af87450` | Category: AI/ML framework/DSL
+- **LlamaIndex** | ID: `89dd061bf2` | Category: AI/ML framework/DSL
+- **MLIR (Multi-Level IR)** | ID: `359d3289cd` | Category: AI/ML framework/DSL
+- **MLflow** | ID: `c8d3451e73` | Category: AI/ML framework/DSL
+- **MXNet Python** | ID: `6c5216a87e` | Category: AI/ML framework/DSL
+- **MediaPipe** | ID: `43e77da65c` | Category: AI/ML framework/DSL
+- **Metaflow (Netflix)** | ID: `5981650053` | Category: AI/ML framework/DSL
+- **Mistral API** | ID: `019e1385ba` | Category: AI/ML framework/DSL
+- **Modin** | ID: `693389498c` | Category: AI/ML framework/DSL
+- **NLTK** | ID: `4dd6d10bf6` | Category: AI/ML framework/DSL
+- **Neptune.ai** | ID: `d4156fe470` | Category: AI/ML framework/DSL
+- **Numba CUDA** | ID: `6650fe8d47` | Category: AI/ML framework/DSL
+- **ONNX** | ID: `a3d7de606b` | Category: AI/ML framework/DSL
+- **ONNX Runtime** | ID: `9c92fe9035` | Category: AI/ML framework/DSL
+- **Ollama** | ID: `c23e8db458` | Category: AI/ML framework/DSL
+- **OpenAI API** | ID: `7b3f00e860` | Category: AI/ML framework/DSL
+- **OpenCV Python** | ID: `c256d65821` | Category: AI/ML framework/DSL
+- **Optax** | ID: `29dcc264e0` | Category: AI/ML framework/DSL
+- **Outlines (structured gen)** | ID: `771c2f8839` | Category: AI/ML framework/DSL
+- **PIL/Pillow** | ID: `b3796a1813` | Category: AI/ML framework/DSL
+- **Pachyderm** | ID: `97d79a1ef0` | Category: AI/ML framework/DSL
+- **Polars** | ID: `09aae1d48e` | Category: AI/ML framework/DSL
+- **Prefect** | ID: `dbbe1ffdf6` | Category: AI/ML framework/DSL
+- **Prodigy (spaCy)** | ID: `1e667f1807` | Category: AI/ML framework/DSL
+- **PyTorch Lightning** | ID: `6b1aab782b` | Category: AI/ML framework/DSL
+- **PyTorch Python API** | ID: `db1667ac4a` | Category: AI/ML framework/DSL
+- **Ray (distributed)** | ID: `d2e4ca1e4d` | Category: AI/ML framework/DSL
+- **SafeTensors format** | ID: `7d9e33061f` | Category: AI/ML framework/DSL
+- **Semantic Kernel** | ID: `c1ae2c6adc` | Category: AI/ML framework/DSL
+- **SimpleITK** | ID: `e7a40fa5f6` | Category: AI/ML framework/DSL
+- **Stable Diffusion (diffusers)** | ID: `dfa9df9120` | Category: AI/ML framework/DSL
+- **StableHLO** | ID: `017169da2d` | Category: AI/ML framework/DSL
+- **TF Lite** | ID: `42931baafb` | Category: AI/ML framework/DSL
+- **TF Serving config** | ID: `1110b5b08c` | Category: AI/ML framework/DSL
+- **TF.js** | ID: `8c4f8c5d72` | Category: AI/ML framework/DSL
+- **TGI (HuggingFace)** | ID: `3400f1210d` | Category: AI/ML framework/DSL
+- **TVM Relay IR** | ID: `5302a40669` | Category: AI/ML framework/DSL
+- **TVM TIR** | ID: `2b2ec52ed9` | Category: AI/ML framework/DSL
+- **TensorFlow Python API** | ID: `e465161db2` | Category: AI/ML framework/DSL
+- **TensorRT** | ID: `61918500e2` | Category: AI/ML framework/DSL
+- **TextBlob** | ID: `76e3c26aea` | Category: AI/ML framework/DSL
+- **Together AI API** | ID: `9ce6e44be3` | Category: AI/ML framework/DSL
+- **Torch-MLIR** | ID: `30487da1c6` | Category: AI/ML framework/DSL
+- **TorchScript** | ID: `eb16984456` | Category: AI/ML framework/DSL
+- **Triton (OpenAI GPU)** | ID: `0ca1d3055a` | Category: AI/ML framework/DSL
+- **Weights & Biases** | ID: `0f07876a28` | Category: AI/ML framework/DSL
+- **XGBoost** | ID: `6429290392` | Category: AI/ML framework/DSL
+- **XLA HLO** | ID: `a38d4308d2` | Category: AI/ML framework/DSL
+- **YOLOv5/v8 (Ultralytics)** | ID: `54175c04ce` | Category: AI/ML framework/DSL
+- **cuBLAS** | ID: `d92ef06e95` | Category: AI/ML framework/DSL
+- **cuDNN** | ID: `9bfd6cd63a` | Category: AI/ML framework/DSL
+- **cuFFT** | ID: `cd403f2e72` | Category: AI/ML framework/DSL
+- **cuRAND** | ID: `e05d51a401` | Category: AI/ML framework/DSL
+- **cuSPARSE** | ID: `a14ab946bf` | Category: AI/ML framework/DSL
+- **dbt** | ID: `b6ccd40d22` | Category: AI/ML framework/DSL
+- **llama.cpp** | ID: `940e066881` | Category: AI/ML framework/DSL
+- **scikit-image** | ID: `e26bd738c1` | Category: AI/ML framework/DSL
+- **scikit-learn** | ID: `3483ff058d` | Category: AI/ML framework/DSL
+- **spaCy** | ID: `22fb6b7a2a` | Category: AI/ML framework/DSL
+- **vLLM** | ID: `4362ccfd0d` | Category: AI/ML framework/DSL
+
+## SECTION: Assembly/machine code (54 entries)
+
+- **6502 Assembly** | ID: `b240c56be5` | Category: Assembly/machine code
+- **65C02 Assembly** | ID: `99e7f332d6` | Category: Assembly/machine code
+- **6800 Assembly** | ID: `d34ab8f59e` | Category: Assembly/machine code
+- **68000 Assembly** | ID: `ea9fdae246` | Category: Assembly/machine code
+- **6809 Assembly** | ID: `75d6ce7d98` | Category: Assembly/machine code
+- **8051 Assembly** | ID: `a484b51926` | Category: Assembly/machine code
+- **8080 Assembly** | ID: `90937e0e6c` | Category: Assembly/machine code
+- **8085 Assembly** | ID: `dd3b3eb72a` | Category: Assembly/machine code
+- **ARM Assembly** | ID: `999d879da3` | Category: Assembly/machine code
+- **ARM64/AArch64 Assembly** | ID: `f606783242` | Category: Assembly/machine code
+- **AVR Assembly** | ID: `b3cb8e0dee` | Category: Assembly/machine code
+- **Alpha Assembly** | ID: `035ab53de4` | Category: Assembly/machine code
+- **BCPL Assembly** | ID: `97d1c4957b` | Category: Assembly/machine code
+- **Blackfin Assembly** | ID: `ad3049708b` | Category: Assembly/machine code
+- **CEVA Assembly** | ID: `15f80bfe06` | Category: Assembly/machine code
+- **Connection Machine Assembly** | ID: `62603ac79f` | Category: Assembly/machine code
+- **FASM syntax** | ID: `9090490707` | Category: Assembly/machine code
+- **GAS (GNU Assembler) syntax** | ID: `28642d4d27` | Category: Assembly/machine code
+- **HLA (High Level Assembly)** | ID: `26b7debd26` | Category: Assembly/machine code
+- **IBM System/360 Assembly** | ID: `50824ef676` | Category: Assembly/machine code
+- **IBM System/370 Assembly** | ID: `2552a4730b` | Category: Assembly/machine code
+- **IBM System/390 Assembly** | ID: `f3fb67c472` | Category: Assembly/machine code
+- **Itanium (IA-64) Assembly** | ID: `d9641c89a1` | Category: Assembly/machine code
+- **LLVM IR** | ID: `d9fe1d3d9d` | Category: Assembly/machine code
+- **MASM syntax** | ID: `d10d741d25` | Category: Assembly/machine code
+- **MCORE Assembly** | ID: `fb48ef1352` | Category: Assembly/machine code
+- **MIPS Assembly** | ID: `6bc56dc60b` | Category: Assembly/machine code
+- **MIPS64 Assembly** | ID: `49ad04dc16` | Category: Assembly/machine code
+- **MSP430 Assembly** | ID: `99f834779d` | Category: Assembly/machine code
+- **NASM syntax** | ID: `faecd084f4` | Category: Assembly/machine code
+- **PA-RISC Assembly** | ID: `75b84a72d2` | Category: Assembly/machine code
+- **PDP-10 Assembly** | ID: `21ef069d9b` | Category: Assembly/machine code
+- **PDP-11 Assembly** | ID: `2892b1a961` | Category: Assembly/machine code
+- **PDP-8 Assembly** | ID: `bca3a52170` | Category: Assembly/machine code
+- **PIC Assembly** | ID: `c049bd2412` | Category: Assembly/machine code
+- **PowerPC Assembly** | ID: `ef913f34bf` | Category: Assembly/machine code
+- **RISC-V Assembly** | ID: `a72640a404` | Category: Assembly/machine code
+- **Randall Hyde HLA** | ID: `b1fd94b9b5` | Category: Assembly/machine code
+- **SHARC Assembly** | ID: `5ebda0b1e9` | Category: Assembly/machine code
+- **SPARC Assembly** | ID: `0bc532fa62` | Category: Assembly/machine code
+- **SuperH Assembly** | ID: `8d93c60d63` | Category: Assembly/machine code
+- **TASM syntax** | ID: `39c8620b22` | Category: Assembly/machine code
+- **TMS320 Assembly** | ID: `9cf8182f83` | Category: Assembly/machine code
+- **Tensilica Assembly** | ID: `a5b49eed18` | Category: Assembly/machine code
+- **Transputer Assembly** | ID: `c4d5149663` | Category: Assembly/machine code
+- **VAX Assembly** | ID: `933ef7f40d` | Category: Assembly/machine code
+- **WASM (WebAssembly) Text** | ID: `57531b56ef` | Category: Assembly/machine code
+- **Xtensa Assembly** | ID: `41c6e91817` | Category: Assembly/machine code
+- **YASM syntax** | ID: `c1ce6427cc` | Category: Assembly/machine code
+- **Z80 Assembly** | ID: `266433ca8e` | Category: Assembly/machine code
+- **eBPF Assembly** | ID: `af046d86c8` | Category: Assembly/machine code
+- **x86 Assembly** | ID: `ca963b56a6` | Category: Assembly/machine code
+- **x86-64 Assembly** | ID: `b086cff369` | Category: Assembly/machine code
+- **z/Architecture Assembly** | ID: `e7c1cddb5d` | Category: Assembly/machine code
+
+## SECTION: BASIC family dialect (81 entries)
+
+- **AMOS BASIC** | ID: `ac404d4c2a` | Category: BASIC family dialect
+- **Altair BASIC** | ID: `d2a22983a3` | Category: BASIC family dialect
+- **Applesoft BASIC** | ID: `a629b990e4` | Category: BASIC family dialect
+- **Atari BASIC** | ID: `0e429626af` | Category: BASIC family dialect
+- **B4X (B4A/B4J/B4i)** | ID: `1a34bdfe29` | Category: BASIC family dialect
+- **BASIC-Plus** | ID: `3f6a74e007` | Category: BASIC family dialect
+- **BASIC-Plus-2** | ID: `dab4a69712` | Category: BASIC family dialect
+- **BASIC256** | ID: `c23fd679e0` | Category: BASIC family dialect
+- **BBC BASIC** | ID: `14dcac734e` | Category: BASIC family dialect
+- **BBC BASIC for SDL** | ID: `d2bae54acb` | Category: BASIC family dialect
+- **BBC BASIC for Windows** | ID: `1534082589` | Category: BASIC family dialect
+- **BaCon** | ID: `23cccc80d3` | Category: BASIC family dialect
+- **Blitz BASIC** | ID: `648fd6139d` | Category: BASIC family dialect
+- **Brandy BASIC** | ID: `7f44b8bad6` | Category: BASIC family dialect
+- **Business BASIC** | ID: `e648189f9c` | Category: BASIC family dialect
+- **CBASIC** | ID: `3ad0e3a028` | Category: BASIC family dialect
+- **Chipmunk Basic** | ID: `92ad0e4596` | Category: BASIC family dialect
+- **Color BASIC** | ID: `9f17892c56` | Category: BASIC family dialect
+- **Commodore BASIC** | ID: `81b1c82c6d` | Category: BASIC family dialect
+- **DIBOL BASIC** | ID: `901ff960da` | Category: BASIC family dialect
+- **DarkBASIC Pro** | ID: `a628084ef5` | Category: BASIC family dialect
+- **Dartmouth BASIC** | ID: `9e54e17c4b` | Category: BASIC family dialect
+- **Digital BASIC** | ID: `d4e9cf782f` | Category: BASIC family dialect
+- **EXBASIC** | ID: `996a5ff4ef` | Category: BASIC family dialect
+- **Extended Color BASIC** | ID: `5946d6aa3a` | Category: BASIC family dialect
+- **FreeBASIC** | ID: `2ffdd985da` | Category: BASIC family dialect
+- **FutureBASIC** | ID: `ce0ee63f1a` | Category: BASIC family dialect
+- **GFA BASIC** | ID: `743a7a0f32` | Category: BASIC family dialect
+- **GW-BASIC** | ID: `f74e96634c` | Category: BASIC family dialect
+- **Gambas** | ID: `94d7adc0c7` | Category: BASIC family dialect
+- **HP 2000 BASIC** | ID: `9c993846dc` | Category: BASIC family dialect
+- **HP BASIC** | ID: `5f36e3365b` | Category: BASIC family dialect
+- **HotPaw BASIC** | ID: `95aa69ed01` | Category: BASIC family dialect
+- **IBM BASIC** | ID: `dc0bd15796` | Category: BASIC family dialect
+- **Integer BASIC** | ID: `b3ceb1328a` | Category: BASIC family dialect
+- **Just BASIC** | ID: `32c09fa90c` | Category: BASIC family dialect
+- **Li'l B** | ID: `6399956c72` | Category: BASIC family dialect
+- **Liberty BASIC** | ID: `c9dd45bc20` | Category: BASIC family dialect
+- **Locomotive BASIC** | ID: `d0b8472104` | Category: BASIC family dialect
+- **MSX BASIC** | ID: `203b756b72` | Category: BASIC family dialect
+- **Mallard BASIC** | ID: `9d360403d1` | Category: BASIC family dialect
+- **Matrix Brandy** | ID: `98bcbe163e` | Category: BASIC family dialect
+- **Mbasic** | ID: `cd5c717c5e` | Category: BASIC family dialect
+- **Microsoft BASIC** | ID: `616a32adbd` | Category: BASIC family dialect
+- **NS Basic** | ID: `4a61e4d8fc` | Category: BASIC family dialect
+- **North Star BASIC** | ID: `d6937b1707` | Category: BASIC family dialect
+- **ORIC BASIC** | ID: `f05dbf9157` | Category: BASIC family dialect
+- **OS-9 BASIC** | ID: `0ca3e179a0` | Category: BASIC family dialect
+- **Palo Alto Tiny BASIC** | ID: `da14628ffa` | Category: BASIC family dialect
+- **Power BASIC** | ID: `19308d5130` | Category: BASIC family dialect
+- **ProvideX** | ID: `088734edfd` | Category: BASIC family dialect
+- **PureBasic** | ID: `ed50deb5bb` | Category: BASIC family dialect
+- **QB64** | ID: `0f5eb55037` | Category: BASIC family dialect
+- **QBasic** | ID: `f75f8fd187` | Category: BASIC family dialect
+- **QuickBASIC** | ID: `1d45c3f731` | Category: BASIC family dialect
+- **RFO Basic** | ID: `4318fe25f9` | Category: BASIC family dialect
+- **RealBasic** | ID: `dad825a04d` | Category: BASIC family dialect
+- **Rocky Mountain BASIC** | ID: `6865a9cd60` | Category: BASIC family dialect
+- **Run BASIC** | ID: `418e66cb5f` | Category: BASIC family dialect
+- **STOS BASIC** | ID: `4a4dcf23db` | Category: BASIC family dialect
+- **Sharp BASIC** | ID: `861832c16e` | Category: BASIC family dialect
+- **Sinclair BASIC** | ID: `45cc098597` | Category: BASIC family dialect
+- **SmallBASIC** | ID: `a25cc89c1f` | Category: BASIC family dialect
+- **SpecBAS** | ID: `0d95644079` | Category: BASIC family dialect
+- **TI BASIC** | ID: `9a0ad3c593` | Category: BASIC family dialect
+- **TI Extended BASIC** | ID: `d1a0225252` | Category: BASIC family dialect
+- **Tiny BASIC** | ID: `101971060a` | Category: BASIC family dialect
+- **True BASIC** | ID: `37ea9c4b82` | Category: BASIC family dialect
+- **Turbo Basic** | ID: `2862f35eb3` | Category: BASIC family dialect
+- **UBASIC** | ID: `8f961beb4b` | Category: BASIC family dialect
+- **VB.NET** | ID: `bd5c8a1afe` | Category: BASIC family dialect
+- **Visual Basic 1.0** | ID: `e1296f3af5` | Category: BASIC family dialect
+- **Visual Basic 2.0** | ID: `9b8208a406` | Category: BASIC family dialect
+- **Visual Basic 3.0** | ID: `5f618c98b5` | Category: BASIC family dialect
+- **Visual Basic 4.0** | ID: `87b9489926` | Category: BASIC family dialect
+- **Visual Basic 5.0** | ID: `39277a2f73` | Category: BASIC family dialect
+- **Visual Basic 6.0** | ID: `5d13b2b3f4` | Category: BASIC family dialect
+- **Xojo** | ID: `5a90ea9048` | Category: BASIC family dialect
+- **Yabasic** | ID: `9724d93de0` | Category: BASIC family dialect
+- **ZX Spectrum BASIC** | ID: `d355bacf51` | Category: BASIC family dialect
+- **thinBasic** | ID: `90844b3571` | Category: BASIC family dialect
+
+## SECTION: Blockchain/Smart Contract (62 entries)
+
+- **Aiken (Cardano)** | ID: `8035b11b57` | Category: Blockchain/Smart Contract
+- **Anchor (Solana Rust)** | ID: `0dc7095302` | Category: Blockchain/Smart Contract
+- **Aptos Move** | ID: `1c4d039c53` | Category: Blockchain/Smart Contract
+- **Archetype (Tezos)** | ID: `591d682f03` | Category: Blockchain/Smart Contract
+- **Aurora (Solidity on NEAR)** | ID: `6a708b95a4` | Category: Blockchain/Smart Contract
+- **Azle (ICP TypeScript)** | ID: `638a3ac9f7` | Category: Blockchain/Smart Contract
+- **Beaker (Algorand)** | ID: `c89b8d673e` | Category: Blockchain/Smart Contract
+- **Cadence (Flow)** | ID: `c73fa2ed36` | Category: Blockchain/Smart Contract
+- **Cairo 0** | ID: `366100f1df` | Category: Blockchain/Smart Contract
+- **Cairo 1** | ID: `cd9cad77f0` | Category: Blockchain/Smart Contract
+- **Chainlink CCIP** | ID: `0fd7110c36` | Category: Blockchain/Smart Contract
+- **Circom** | ID: `3dd240eb7e` | Category: Blockchain/Smart Contract
+- **Clarity (Stacks)** | ID: `5e8226a2f3` | Category: Blockchain/Smart Contract
+- **CosmWasm (Rust)** | ID: `1170457a7f` | Category: Blockchain/Smart Contract
+- **EVM Assembly** | ID: `cfa947dc86` | Category: Blockchain/Smart Contract
+- **FCL (Flow Client Library)** | ID: `da09890113` | Category: Blockchain/Smart Contract
+- **Fe** | ID: `d684f8322b` | Category: Blockchain/Smart Contract
+- **Helios (Cardano)** | ID: `66fba38769` | Category: Blockchain/Smart Contract
+- **Huff** | ID: `93f0cee1bc` | Category: Blockchain/Smart Contract
+- **Ink! 4.x (Polkadot)** | ID: `90a628c2e2` | Category: Blockchain/Smart Contract
+- **Kybra (ICP Python)** | ID: `4fbf08ddf2` | Category: Blockchain/Smart Contract
+- **LIGO (CameLIGO)** | ID: `1670e97342` | Category: Blockchain/Smart Contract
+- **LIGO (JsLIGO)** | ID: `b392eab1c1` | Category: Blockchain/Smart Contract
+- **LIGO (PascaLIGO)** | ID: `6a1ef6a0ec` | Category: Blockchain/Smart Contract
+- **Leo (Aleo)** | ID: `a49a7550c5` | Category: Blockchain/Smart Contract
+- **Marlowe** | ID: `bf200453e1` | Category: Blockchain/Smart Contract
+- **Michelson (Tezos)** | ID: `a303a52565` | Category: Blockchain/Smart Contract
+- **Miden Assembly** | ID: `445d71b490` | Category: Blockchain/Smart Contract
+- **Motoko (ICP)** | ID: `f0fd1b3b52` | Category: Blockchain/Smart Contract
+- **Move (Diem/Libra)** | ID: `79bb042e5b` | Category: Blockchain/Smart Contract
+- **NEAR JS SDK** | ID: `50c49eb34c` | Category: Blockchain/Smart Contract
+- **NEAR Rust SDK** | ID: `55a65789dd` | Category: Blockchain/Smart Contract
+- **Native Solana (Rust BPF)** | ID: `ae9efe5c1c` | Category: Blockchain/Smart Contract
+- **Noir (Aztec ZK)** | ID: `c6cd7bbee0` | Category: Blockchain/Smart Contract
+- **OpShin (Cardano Python)** | ID: `5362fc1994` | Category: Blockchain/Smart Contract
+- **Plutus (Haskell/Cardano)** | ID: `6233ea3682` | Category: Blockchain/Smart Contract
+- **Polygon zkEVM** | ID: `9a3c9d2dde` | Category: Blockchain/Smart Contract
+- **PyTeal** | ID: `5194be5c58` | Category: Blockchain/Smart Contract
+- **Reach (cross-chain)** | ID: `7b64352629` | Category: Blockchain/Smart Contract
+- **Ride (Waves)** | ID: `61a9c4f428` | Category: Blockchain/Smart Contract
+- **Scilla (Zilliqa)** | ID: `7c85664145` | Category: Blockchain/Smart Contract
+- **Seahorse (Solana Python)** | ID: `ca33ec45d5` | Category: Blockchain/Smart Contract
+- **Secret Network (Rust)** | ID: `67973b80c8` | Category: Blockchain/Smart Contract
+- **SmartPy** | ID: `9a1837bb9f` | Category: Blockchain/Smart Contract
+- **Solang (Solana/Substrate)** | ID: `a7ad7dd93b` | Category: Blockchain/Smart Contract
+- **Solidity 0.4.x** | ID: `00be491af1` | Category: Blockchain/Smart Contract
+- **Solidity 0.5.x** | ID: `0a7a458448` | Category: Blockchain/Smart Contract
+- **Solidity 0.6.x** | ID: `d1b2ef21ca` | Category: Blockchain/Smart Contract
+- **Solidity 0.7.x** | ID: `f4214287bd` | Category: Blockchain/Smart Contract
+- **Solidity 0.8.x** | ID: `351099987b` | Category: Blockchain/Smart Contract
+- **Sui Move** | ID: `9c301c8ab6` | Category: Blockchain/Smart Contract
+- **Sylvia (CosmWasm)** | ID: `b58bc05ff2` | Category: Blockchain/Smart Contract
+- **TEAL (Algorand)** | ID: `9dfa4f790e` | Category: Blockchain/Smart Contract
+- **TON Fift** | ID: `79149d7933` | Category: Blockchain/Smart Contract
+- **TON FunC** | ID: `463426b858` | Category: Blockchain/Smart Contract
+- **Tact (TON)** | ID: `a2944fc8bb` | Category: Blockchain/Smart Contract
+- **Vyper 0.2.x** | ID: `e136cac7cd` | Category: Blockchain/Smart Contract
+- **Vyper 0.3.x** | ID: `23b1a2c5d6` | Category: Blockchain/Smart Contract
+- **Yul** | ID: `dce0d8625a` | Category: Blockchain/Smart Contract
+- **Yul+** | ID: `d2a4ca8ed1` | Category: Blockchain/Smart Contract
+- **ask! (Polkadot)** | ID: `91510920c8` | Category: Blockchain/Smart Contract
+- **zkSync Era Solidity** | ID: `13fb237762` | Category: Blockchain/Smart Contract
+
+## SECTION: Database/Query language (134 entries)
+
+- **ABAP SQL** | ID: `ba9fcd0545` | Category: Database/Query language
+- **Apache Beam SQL** | ID: `b533c3d970` | Category: Database/Query language
+- **Apache Calcite SQL** | ID: `330a6eb5d1` | Category: Database/Query language
+- **Apache Drill SQL** | ID: `02d24d5f69` | Category: Database/Query language
+- **Apache Flink SQL** | ID: `443f513dfd` | Category: Database/Query language
+- **Apache Hive HQL** | ID: `484148bf04` | Category: Database/Query language
+- **Apache Impala SQL** | ID: `ae844bf5a4` | Category: Database/Query language
+- **Apache Phoenix SQL** | ID: `6734cab559` | Category: Database/Query language
+- **Apache Pig Latin** | ID: `53e85823e6` | Category: Database/Query language
+- **Apache Spark SQL** | ID: `f983b38420` | Category: Database/Query language
+- **Apex (Salesforce)** | ID: `41148d5962` | Category: Database/Query language
+- **Apollo QL** | ID: `b46e10e85a` | Category: Database/Query language
+- **ArangoDB AQL** | ID: `3ececd3897` | Category: Database/Query language
+- **Athena SQL (Presto)** | ID: `aa27c9a4ac` | Category: Database/Query language
+- **Azure SQL** | ID: `49f6eb8d94` | Category: Database/Query language
+- **BigQuery SQL (GoogleSQL)** | ID: `2d311f80c4` | Category: Database/Query language
+- **Cassandra CQL** | ID: `d5e406ef96` | Category: Database/Query language
+- **Chroma query** | ID: `7b533515ee` | Category: Database/Query language
+- **ClickHouse SQL** | ID: `3307ac386b` | Category: Database/Query language
+- **CockroachDB SQL** | ID: `2c32335367` | Category: Database/Query language
+- **Cosmos DB SQL** | ID: `29361cfc97` | Category: Database/Query language
+- **CrateDB SQL** | ID: `346c5f3f66` | Category: Database/Query language
+- **Cypher (Neo4j)** | ID: `2af9497b97` | Category: Database/Query language
+- **DB2 SQL** | ID: `d2f01bfa4e` | Category: Database/Query language
+- **DQL (Dgraph)** | ID: `0fbcf73063` | Category: Database/Query language
+- **Databricks SQL** | ID: `a5e7734e71` | Category: Database/Query language
+- **Django ORM** | ID: `534263e2b5` | Category: Database/Query language
+- **Drizzle ORM** | ID: `6888a99863` | Category: Database/Query language
+- **DuckDB SQL** | ID: `0646a7a524` | Category: Database/Query language
+- **Easytrieve** | ID: `63f2648880` | Category: Database/Query language
+- **EdgeQL** | ID: `a8e7cc5c7a` | Category: Database/Query language
+- **Elasticsearch DSL/KQL** | ID: `3d3d4a4627` | Category: Database/Query language
+- **Exasol SQL** | ID: `9aaf483e8e` | Category: Database/Query language
+- **FOCUS (IBI)** | ID: `307e6fbae9` | Category: Database/Query language
+- **FQL (Fauna)** | ID: `895ec4719b` | Category: Database/Query language
+- **Grafbase** | ID: `bec068c9f6` | Category: Database/Query language
+- **GraphQL** | ID: `524de3d2ad` | Category: Database/Query language
+- **GraphQL SDL** | ID: `4be7ed9098` | Category: Database/Query language
+- **Greenplum SQL** | ID: `b04fc5af2c` | Category: Database/Query language
+- **Gremlin (TinkerPop)** | ID: `b702b7cec0` | Category: Database/Query language
+- **Hasura Metadata** | ID: `8be0537397` | Category: Database/Query language
+- **Hibernate HQL** | ID: `525f0b8c8a` | Category: Database/Query language
+- **Informix SQL** | ID: `87bf30218d` | Category: Database/Query language
+- **JDOQL** | ID: `8de4a56a78` | Category: Database/Query language
+- **JPQL** | ID: `9711994576` | Category: Database/Query language
+- **JSONPath** | ID: `2c27c2853f` | Category: Database/Query language
+- **Kibana KQL** | ID: `69d3d64936` | Category: Database/Query language
+- **Lucene query syntax** | ID: `8c92b5b7cf` | Category: Database/Query language
+- **MS SQL Server T-SQL** | ID: `d96923debf` | Category: Database/Query language
+- **MariaDB 10.x** | ID: `bd75064a72` | Category: Database/Query language
+- **MariaDB 11.x** | ID: `a17fd84b09` | Category: Database/Query language
+- **Meilisearch filters** | ID: `4f32628196` | Category: Database/Query language
+- **Memcached protocol** | ID: `a016ca291b` | Category: Database/Query language
+- **MonetDB SQL** | ID: `da39da5a08` | Category: Database/Query language
+- **MongoDB MQL** | ID: `a0c414ec1c` | Category: Database/Query language
+- **Mongoose ODM** | ID: `f68c42898d` | Category: Database/Query language
+- **MySQL 5.x** | ID: `3465188f5c` | Category: Database/Query language
+- **MySQL 8.x** | ID: `e0593aee66` | Category: Database/Query language
+- **MySQL Workbench SQL** | ID: `d057824fdc` | Category: Database/Query language
+- **NATURAL (Software AG)** | ID: `68a645dbc4` | Category: Database/Query language
+- **Neon SQL** | ID: `4b40c7089b` | Category: Database/Query language
+- **Netezza SQL** | ID: `1237a3483b` | Category: Database/Query language
+- **NuoDB SQL** | ID: `bf8193358b` | Category: Database/Query language
+- **OWL** | ID: `c2b957d748` | Category: Database/Query language
+- **OpenSearch DSL** | ID: `64eebe684c` | Category: Database/Query language
+- **Oracle PL/SQL** | ID: `639d67b6cd` | Category: Database/Query language
+- **Oracle SQL 19c** | ID: `312dc0f48b` | Category: Database/Query language
+- **Oracle SQL 21c** | ID: `05f72af84a` | Category: Database/Query language
+- **PartiQL** | ID: `92b73a0871` | Category: Database/Query language
+- **Pinecone query** | ID: `982a0686fb` | Category: Database/Query language
+- **PlanetScale SQL** | ID: `3316214b61` | Category: Database/Query language
+- **PostGraphile** | ID: `b7a8ef6528` | Category: Database/Query language
+- **PostgreSQL 10** | ID: `175ac2fbbe` | Category: Database/Query language
+- **PostgreSQL 11** | ID: `98770c8a00` | Category: Database/Query language
+- **PostgreSQL 12** | ID: `12ebacb82c` | Category: Database/Query language
+- **PostgreSQL 13** | ID: `5e50bee830` | Category: Database/Query language
+- **PostgreSQL 14** | ID: `3419ddb2bc` | Category: Database/Query language
+- **PostgreSQL 15** | ID: `ff97094f6c` | Category: Database/Query language
+- **PostgreSQL 16** | ID: `a300b4f9e5` | Category: Database/Query language
+- **PostgreSQL 9.x** | ID: `d9644ac9b0` | Category: Database/Query language
+- **Prisma Query** | ID: `990b5bb6c6` | Category: Database/Query language
+- **Qdrant filters** | ID: `a877699ad3` | Category: Database/Query language
+- **QuestDB SQL** | ID: `25edadbbeb` | Category: Database/Query language
+- **RDF** | ID: `07ad13f9a6` | Category: Database/Query language
+- **Rails ActiveRecord** | ID: `545ee07206` | Category: Database/Query language
+- **Redis commands** | ID: `e4e3927a86` | Category: Database/Query language
+- **Redshift SQL** | ID: `4451ab8187` | Category: Database/Query language
+- **Relay QL** | ID: `f7cbe7f016` | Category: Database/Query language
+- **SAP ASE SQL (Sybase)** | ID: `f27ffb6ff7` | Category: Database/Query language
+- **SAP HANA SQL** | ID: `beb70efda9` | Category: Database/Query language
+- **SHACL** | ID: `351fff7020` | Category: Database/Query language
+- **SOQL** | ID: `2fd7e69a7b` | Category: Database/Query language
+- **SOSL** | ID: `d6332030c0` | Category: Database/Query language
+- **SPARQL** | ID: `50b121312f` | Category: Database/Query language
+- **SQL-86** | ID: `683fa4a629` | Category: Database/Query language
+- **SQL-89** | ID: `ca8978f8d3` | Category: Database/Query language
+- **SQL-92** | ID: `426cca6f00` | Category: Database/Query language
+- **SQL:1999** | ID: `509620b3c0` | Category: Database/Query language
+- **SQL:2003** | ID: `7ddf73fc5e` | Category: Database/Query language
+- **SQL:2006** | ID: `22dc1a3bc1` | Category: Database/Query language
+- **SQL:2008** | ID: `399e2a8091` | Category: Database/Query language
+- **SQL:2011** | ID: `5fe7ab5f8c` | Category: Database/Query language
+- **SQL:2016** | ID: `2e2866afac` | Category: Database/Query language
+- **SQL:2023** | ID: `0033537e5d` | Category: Database/Query language
+- **SQLAlchemy** | ID: `d233b99a3c` | Category: Database/Query language
+- **SQLite 3** | ID: `7f4b5ce1a3` | Category: Database/Query language
+- **SQR** | ID: `18e1c2e0bb` | Category: Database/Query language
+- **ScyllaDB CQL** | ID: `e9478b4e48` | Category: Database/Query language
+- **Sequelize** | ID: `bc6329f726` | Category: Database/Query language
+- **SingleStoreDB SQL** | ID: `05b94c27f1` | Category: Database/Query language
+- **Snowflake SQL** | ID: `754fbf6141` | Category: Database/Query language
+- **Solr query syntax** | ID: `794ab0a749` | Category: Database/Query language
+- **StepZen** | ID: `ec78ee0e4c` | Category: Database/Query language
+- **Supabase SQL** | ID: `f60a9c4b80` | Category: Database/Query language
+- **SurrealQL** | ID: `a7effb0d64` | Category: Database/Query language
+- **Teradata SQL** | ID: `15ab593b94` | Category: Database/Query language
+- **TiDB SQL** | ID: `8cf39de5db` | Category: Database/Query language
+- **TimescaleDB SQL** | ID: `f9103744d7` | Category: Database/Query language
+- **Trino SQL** | ID: `dfcfb2af29` | Category: Database/Query language
+- **TypeORM** | ID: `90fea71a5d` | Category: Database/Query language
+- **Typesense filters** | ID: `9886590529` | Category: Database/Query language
+- **Vertica SQL** | ID: `a727f5cd69` | Category: Database/Query language
+- **Vitess SQL** | ID: `96d2563f3f` | Category: Database/Query language
+- **VoltDB SQL** | ID: `5112e29fea` | Category: Database/Query language
+- **Weaviate GraphQL** | ID: `632e4644dd` | Category: Database/Query language
+- **XPath** | ID: `b6454d4986` | Category: Database/Query language
+- **XQuery 1.0** | ID: `0115db565a` | Category: Database/Query language
+- **XQuery 3.1** | ID: `6592255dac` | Category: Database/Query language
+- **XSLT 1.0** | ID: `e44d70352c` | Category: Database/Query language
+- **XSLT 2.0** | ID: `6d2ed6711f` | Category: Database/Query language
+- **XSLT 3.0** | ID: `043562674e` | Category: Database/Query language
+- **YugabyteDB SQL** | ID: `5f3e2982a6` | Category: Database/Query language
+- **jq** | ID: `d8757fb4e9` | Category: Database/Query language
+- **yq** | ID: `7854b30785` | Category: Database/Query language
+
+## SECTION: DevOps/Build/Config DSL (103 entries)
+
+- **.dockerignore** | ID: `f7c5b40686` | Category: DevOps/Build/Config DSL
+- **.gitattributes** | ID: `fc723d30b0` | Category: DevOps/Build/Config DSL
+- **.gitignore** | ID: `a084b794bc` | Category: DevOps/Build/Config DSL
+- **ARM Templates JSON** | ID: `87cef7b056` | Category: DevOps/Build/Config DSL
+- **AWS CDK C#** | ID: `c150d506a6` | Category: DevOps/Build/Config DSL
+- **AWS CDK Java** | ID: `ddba9b2315` | Category: DevOps/Build/Config DSL
+- **AWS CDK Python** | ID: `bae9373297` | Category: DevOps/Build/Config DSL
+- **AWS CDK TypeScript** | ID: `d68db90460` | Category: DevOps/Build/Config DSL
+- **AWS CodePipeline** | ID: `ebf976dafc` | Category: DevOps/Build/Config DSL
+- **Ansible Jinja2** | ID: `869ef4fae4` | Category: DevOps/Build/Config DSL
+- **Ansible YAML** | ID: `e80148d6ca` | Category: DevOps/Build/Config DSL
+- **Ant build XML** | ID: `ab3ee984f8` | Category: DevOps/Build/Config DSL
+- **Argo Workflows YAML** | ID: `62109f2df3` | Category: DevOps/Build/Config DSL
+- **ArgoCD YAML** | ID: `4b8bffa1ec` | Category: DevOps/Build/Config DSL
+- **Autoprefixer config** | ID: `4717854e88` | Category: DevOps/Build/Config DSL
+- **Azure Bicep** | ID: `fd674ca026` | Category: DevOps/Build/Config DSL
+- **Azure Pipelines YAML** | ID: `400d3dcdd6` | Category: DevOps/Build/Config DSL
+- **BSD Make** | ID: `3b686f8c8d` | Category: DevOps/Build/Config DSL
+- **Babel config** | ID: `31054ae84a` | Category: DevOps/Build/Config DSL
+- **Bazel BUILD (Starlark)** | ID: `c2732429b6` | Category: DevOps/Build/Config DSL
+- **Buck BUCK** | ID: `7007dc0d0e` | Category: DevOps/Build/Config DSL
+- **Buildkite YAML** | ID: `5d52729d94` | Category: DevOps/Build/Config DSL
+- **CMake** | ID: `df49adab93` | Category: DevOps/Build/Config DSL
+- **Chef Ruby DSL** | ID: `3638bab9cb` | Category: DevOps/Build/Config DSL
+- **CircleCI YAML** | ID: `25cdc35b19` | Category: DevOps/Build/Config DSL
+- **CloudFormation JSON** | ID: `46cbfc4629` | Category: DevOps/Build/Config DSL
+- **CloudFormation YAML** | ID: `1707f39131` | Category: DevOps/Build/Config DSL
+- **Commitlint config** | ID: `f4674278b0` | Category: DevOps/Build/Config DSL
+- **Concourse YAML** | ID: `c8fe421c9d` | Category: DevOps/Build/Config DSL
+- **Containerfile (Podman)** | ID: `c49dd84bd3` | Category: DevOps/Build/Config DSL
+- **Crossplane YAML** | ID: `7fb1f6d00b` | Category: DevOps/Build/Config DSL
+- **Dagger CUE/Go** | ID: `aad49e724f` | Category: DevOps/Build/Config DSL
+- **Dependabot config** | ID: `989ccab502` | Category: DevOps/Build/Config DSL
+- **Docker Compose YAML** | ID: `464fe4215a` | Category: DevOps/Build/Config DSL
+- **Dockerfile** | ID: `3254677a79` | Category: DevOps/Build/Config DSL
+- **Drone CI YAML** | ID: `84c1d59e91` | Category: DevOps/Build/Config DSL
+- **ESLint config** | ID: `ca28609267` | Category: DevOps/Build/Config DSL
+- **Earthly Earthfile** | ID: `22f322dfbb` | Category: DevOps/Build/Config DSL
+- **EditorConfig** | ID: `5532ae8552` | Category: DevOps/Build/Config DSL
+- **Flux CD YAML** | ID: `ff3b0f10f8` | Category: DevOps/Build/Config DSL
+- **GN (Generate Ninja)** | ID: `39b229dbd0` | Category: DevOps/Build/Config DSL
+- **GNU Make** | ID: `8136b240e6` | Category: DevOps/Build/Config DSL
+- **Garden.io config** | ID: `e57420b2cc` | Category: DevOps/Build/Config DSL
+- **GitHub Actions YAML** | ID: `68ead8a937` | Category: DevOps/Build/Config DSL
+- **GitLab CI YAML** | ID: `bd8f34c520` | Category: DevOps/Build/Config DSL
+- **Google Cloud Build YAML** | ID: `27bc25201e` | Category: DevOps/Build/Config DSL
+- **Google Cloud Deployment Manager** | ID: `c39b9b0f41` | Category: DevOps/Build/Config DSL
+- **Gradle Groovy DSL** | ID: `03395cdcf0` | Category: DevOps/Build/Config DSL
+- **Gradle Kotlin DSL** | ID: `df37675137` | Category: DevOps/Build/Config DSL
+- **Grunt (JS)** | ID: `d54bee5e3c` | Category: DevOps/Build/Config DSL
+- **Guix Scheme** | ID: `c849aaa665` | Category: DevOps/Build/Config DSL
+- **Gulp (JS)** | ID: `c16e2b35ca` | Category: DevOps/Build/Config DSL
+- **Harness YAML** | ID: `2f03bbcfcb` | Category: DevOps/Build/Config DSL
+- **Helm Chart (Go templates)** | ID: `d5318f1c49` | Category: DevOps/Build/Config DSL
+- **Helmfile YAML** | ID: `a098e011e6` | Category: DevOps/Build/Config DSL
+- **Husky hooks** | ID: `a75bc7ade7` | Category: DevOps/Build/Config DSL
+- **Jenkins Declarative Pipeline** | ID: `0646d99455` | Category: DevOps/Build/Config DSL
+- **Jenkins Pipeline (Groovy)** | ID: `be881f6190` | Category: DevOps/Build/Config DSL
+- **Kubernetes YAML** | ID: `992f3c23a6` | Category: DevOps/Build/Config DSL
+- **Kustomize YAML** | ID: `6e130230b0` | Category: DevOps/Build/Config DSL
+- **MSBuild XML** | ID: `44ee3f578b` | Category: DevOps/Build/Config DSL
+- **Make/Makefile** | ID: `2a8bd0e1d8` | Category: DevOps/Build/Config DSL
+- **Maven POM XML** | ID: `dfb0337867` | Category: DevOps/Build/Config DSL
+- **Meson** | ID: `da40cd13f7` | Category: DevOps/Build/Config DSL
+- **Ninja build** | ID: `c50543f20e` | Category: DevOps/Build/Config DSL
+- **Nix expression** | ID: `bc1e7f2588` | Category: DevOps/Build/Config DSL
+- **OpenTofu HCL** | ID: `4261bf381e` | Category: DevOps/Build/Config DSL
+- **Pants BUILD** | ID: `297e66d1f6` | Category: DevOps/Build/Config DSL
+- **Parcel config** | ID: `3d65c5b28c` | Category: DevOps/Build/Config DSL
+- **PostCSS config** | ID: `1d404bef5a` | Category: DevOps/Build/Config DSL
+- **Prettier config** | ID: `18a633005a` | Category: DevOps/Build/Config DSL
+- **Pulumi C#** | ID: `c1d948acc0` | Category: DevOps/Build/Config DSL
+- **Pulumi Go** | ID: `f1baed474d` | Category: DevOps/Build/Config DSL
+- **Pulumi Python** | ID: `f6139ada89` | Category: DevOps/Build/Config DSL
+- **Pulumi TypeScript** | ID: `a74792cb78` | Category: DevOps/Build/Config DSL
+- **Pulumi YAML** | ID: `cad136f42e` | Category: DevOps/Build/Config DSL
+- **Puppet DSL** | ID: `74e082d641` | Category: DevOps/Build/Config DSL
+- **Rake (Ruby)** | ID: `7bc4349f24` | Category: DevOps/Build/Config DSL
+- **Renovate config** | ID: `898175e4ab` | Category: DevOps/Build/Config DSL
+- **Rollup config** | ID: `b1c7f3b971` | Category: DevOps/Build/Config DSL
+- **Rome/Biome config** | ID: `6c4016e346` | Category: DevOps/Build/Config DSL
+- **SAM template** | ID: `c5136d55a8` | Category: DevOps/Build/Config DSL
+- **SWC config (.swcrc)** | ID: `36d4462b57` | Category: DevOps/Build/Config DSL
+- **SaltStack YAML/Jinja** | ID: `6b84eb5766` | Category: DevOps/Build/Config DSL
+- **Serverless Framework YAML** | ID: `cd2a58f976` | Category: DevOps/Build/Config DSL
+- **Skaffold YAML** | ID: `5f4368cd5f` | Category: DevOps/Build/Config DSL
+- **Snowpack config** | ID: `857b590ea2` | Category: DevOps/Build/Config DSL
+- **Spinnaker Pipeline JSON** | ID: `3b7c329f84` | Category: DevOps/Build/Config DSL
+- **Stylelint config** | ID: `3610b4e381` | Category: DevOps/Build/Config DSL
+- **TSConfig** | ID: `40ceb2d920` | Category: DevOps/Build/Config DSL
+- **Tekton YAML** | ID: `89fddba4fd` | Category: DevOps/Build/Config DSL
+- **Terraform HCL 0.x** | ID: `35703e30de` | Category: DevOps/Build/Config DSL
+- **Terraform HCL 1.x** | ID: `0a1871229b` | Category: DevOps/Build/Config DSL
+- **Tilt (Starlark)** | ID: `71b1c8134d` | Category: DevOps/Build/Config DSL
+- **Travis CI YAML** | ID: `d662a294e0` | Category: DevOps/Build/Config DSL
+- **Turbopack config** | ID: `af5f3e18c9` | Category: DevOps/Build/Config DSL
+- **Vite config** | ID: `5a94a882f9` | Category: DevOps/Build/Config DSL
+- **Waypoint HCL** | ID: `2556cd151a` | Category: DevOps/Build/Config DSL
+- **Webpack config** | ID: `4cb9f31ff3` | Category: DevOps/Build/Config DSL
+- **esbuild config** | ID: `d1650d9a3e` | Category: DevOps/Build/Config DSL
+- **lint-staged config** | ID: `426c557646` | Category: DevOps/Build/Config DSL
+- **nmake** | ID: `8aea7723c1` | Category: DevOps/Build/Config DSL
+- **semantic-release config** | ID: `8850fae5c5` | Category: DevOps/Build/Config DSL
+
+## SECTION: Emerging/Latest (2020s) (61 entries)
+
+- **.NET 9** | ID: `dd72a3f531` | Category: Emerging/Latest (2020s)
+- **Ante** | ID: `966d7c911d` | Category: Emerging/Latest (2020s)
+- **Austral** | ID: `ddd34c4ea2` | Category: Emerging/Latest (2020s)
+- **Beef** | ID: `8f1f76515c` | Category: Emerging/Latest (2020s)
+- **Bend (HVM2, massively parallel)** | ID: `3b9402c44c` | Category: Emerging/Latest (2020s)
+- **Bosque** | ID: `b25cd05d23` | Category: Emerging/Latest (2020s)
+- **Bun 1.x** | ID: `e877f466d3` | Category: Emerging/Latest (2020s)
+- **C# 13** | ID: `eb67f7f674` | Category: Emerging/Latest (2020s)
+- **C3** | ID: `3abe124ecc` | Category: Emerging/Latest (2020s)
+- **Carbon (Google, experimental)** | ID: `b32c9b95b3` | Category: Emerging/Latest (2020s)
+- **Carp** | ID: `216c317548` | Category: Emerging/Latest (2020s)
+- **Crystal 1.x** | ID: `996e0e45bf` | Category: Emerging/Latest (2020s)
+- **Cue** | ID: `b605747aa7` | Category: Emerging/Latest (2020s)
+- **D (latest LDC/DMD)** | ID: `9824bbbcfe` | Category: Emerging/Latest (2020s)
+- **Dark** | ID: `a18366b217` | Category: Emerging/Latest (2020s)
+- **Dart 3.x** | ID: `5d2bfa45e9` | Category: Emerging/Latest (2020s)
+- **Deno 2.x** | ID: `90104e9403` | Category: Emerging/Latest (2020s)
+- **Eff** | ID: `282ba36659` | Category: Emerging/Latest (2020s)
+- **Effekt** | ID: `3da3fec459` | Category: Emerging/Latest (2020s)
+- **F# 9** | ID: `3f2a65bc67` | Category: Emerging/Latest (2020s)
+- **Frank** | ID: `f9dc77cece` | Category: Emerging/Latest (2020s)
+- **Gleam 1.x** | ID: `07a5c8bf3f` | Category: Emerging/Latest (2020s)
+- **Go 1.22** | ID: `9b23b68b3c` | Category: Emerging/Latest (2020s)
+- **Go 1.23** | ID: `6ed597e1ab` | Category: Emerging/Latest (2020s)
+- **Hare** | ID: `f3ef5cb799` | Category: Emerging/Latest (2020s)
+- **Hylo** | ID: `f6438f41cc` | Category: Emerging/Latest (2020s)
+- **Jai (Jonathan Blow)** | ID: `4a3b297555` | Category: Emerging/Latest (2020s)
+- **Jakt (SerenityOS)** | ID: `98f81472ec` | Category: Emerging/Latest (2020s)
+- **Java 22** | ID: `36cc7a011f` | Category: Emerging/Latest (2020s)
+- **Java 23** | ID: `f80c07df13` | Category: Emerging/Latest (2020s)
+- **KCL (Ant Group)** | ID: `e07cfaa732` | Category: Emerging/Latest (2020s)
+- **Koka** | ID: `893f33ee83` | Category: Emerging/Latest (2020s)
+- **Kotlin 2.x** | ID: `1fa708904c` | Category: Emerging/Latest (2020s)
+- **Mojo 0.1** | ID: `63e89db0a1` | Category: Emerging/Latest (2020s)
+- **Mojo 24.x** | ID: `185535a51a` | Category: Emerging/Latest (2020s)
+- **Nickel (Tweag config)** | ID: `b0430cb8ee` | Category: Emerging/Latest (2020s)
+- **Nim 2.x** | ID: `951faf6018` | Category: Emerging/Latest (2020s)
+- **Node.js 20.x** | ID: `f106ed140e` | Category: Emerging/Latest (2020s)
+- **Node.js 22.x** | ID: `a54465f7a9` | Category: Emerging/Latest (2020s)
+- **Odin** | ID: `644311b63b` | Category: Emerging/Latest (2020s)
+- **P (Microsoft async)** | ID: `00243da9b3` | Category: Emerging/Latest (2020s)
+- **Pkl (Apple config)** | ID: `defffdc1ac` | Category: Emerging/Latest (2020s)
+- **Pony** | ID: `538c4cda9f` | Category: Emerging/Latest (2020s)
+- **Python 3.12** | ID: `86afe202d3` | Category: Emerging/Latest (2020s)
+- **Python 3.13** | ID: `1676e02122` | Category: Emerging/Latest (2020s)
+- **Roc** | ID: `8b280b9f59` | Category: Emerging/Latest (2020s)
+- **Rust 2024 edition** | ID: `b7bb4e9dcf` | Category: Emerging/Latest (2020s)
+- **Starlark (Google/Bazel)** | ID: `9156a587f4` | Category: Emerging/Latest (2020s)
+- **Swift 5.10** | ID: `b2adacfab0` | Category: Emerging/Latest (2020s)
+- **Swift 5.9** | ID: `f76b10592b` | Category: Emerging/Latest (2020s)
+- **Swift 6.0** | ID: `2729251965` | Category: Emerging/Latest (2020s)
+- **TypeScript 5.x nightly** | ID: `469be1b316` | Category: Emerging/Latest (2020s)
+- **Unison** | ID: `634a6ceed2` | Category: Emerging/Latest (2020s)
+- **V 0.4** | ID: `580bf46f6d` | Category: Emerging/Latest (2020s)
+- **Vale** | ID: `a7dfb2a9d7` | Category: Emerging/Latest (2020s)
+- **Verona (Microsoft)** | ID: `37dc5c5b90` | Category: Emerging/Latest (2020s)
+- **Vlang weekly builds** | ID: `55cf3bf0c2` | Category: Emerging/Latest (2020s)
+- **Wing (cloud-oriented)** | ID: `febc9e689f` | Category: Emerging/Latest (2020s)
+- **Zig 0.11** | ID: `21c12f5c96` | Category: Emerging/Latest (2020s)
+- **Zig 0.12** | ID: `0164154e9c` | Category: Emerging/Latest (2020s)
+- **Zig 0.13** | ID: `3198f8bff0` | Category: Emerging/Latest (2020s)
+
+## SECTION: Esoteric/Joke language (104 entries)
+
+- **05AB1E** | ID: `cb75f362b7` | Category: Esoteric/Joke language
+- **><> (Fish)** | ID: `25df533657` | Category: Esoteric/Joke language
+- **AgentSheets** | ID: `10f1c78a05` | Category: Esoteric/Joke language
+- **Aheui (Korean)** | ID: `64753a3bba` | Category: Esoteric/Joke language
+- **Alice** | ID: `64489c85dc` | Category: Esoteric/Joke language
+- **ArnoldC** | ID: `9ae67f16d4` | Category: Esoteric/Joke language
+- **Befunge-93** | ID: `2bcbd73376` | Category: Esoteric/Joke language
+- **Befunge-98** | ID: `3296bab0b3` | Category: Esoteric/Joke language
+- **Bhaicode** | ID: `61b33e1659` | Category: Esoteric/Joke language
+- **Binary Lambda Calculus** | ID: `5f96af8d4f` | Category: Esoteric/Joke language
+- **BitBitJump** | ID: `e389e751ad` | Category: Esoteric/Joke language
+- **Bloop and Floop** | ID: `9826c2f83d` | Category: Esoteric/Joke language
+- **Braincopter** | ID: `d4d62ea113` | Category: Esoteric/Joke language
+- **Brainflayer** | ID: `828a48db27` | Category: Esoteric/Joke language
+- **Brainfuck** | ID: `9ecf9e7a9f` | Category: Esoteric/Joke language
+- **Brainfuck variants (pbrain, etc.)** | ID: `7c98b99701` | Category: Esoteric/Joke language
+- **Brainloller** | ID: `2f77572cd4` | Category: Esoteric/Joke language
+- **Brat** | ID: `c2cce37944` | Category: Esoteric/Joke language
+- **C-INTERCAL** | ID: `9e8505a9f9` | Category: Esoteric/Joke language
+- **CJam** | ID: `072949cc6c` | Category: Esoteric/Joke language
+- **COW** | ID: `aba62e390c` | Category: Esoteric/Joke language
+- **Cardinal** | ID: `6d16b8d48f` | Category: Esoteric/Joke language
+- **Chef** | ID: `8fd82b8864` | Category: Esoteric/Joke language
+- **Chicken** | ID: `a9514f8884` | Category: Esoteric/Joke language
+- **Compliment** | ID: `b5e85579d1` | Category: Esoteric/Joke language
+- **Cubix** | ID: `e30dd8df27` | Category: Esoteric/Joke language
+- **DNA#** | ID: `6767ad5643` | Category: Esoteric/Joke language
+- **Deadfish** | ID: `bbe0bbd7f8` | Category: Esoteric/Joke language
+- **Dis** | ID: `fa4a688f64` | Category: Esoteric/Joke language
+- **Doge** | ID: `136de6de72` | Category: Esoteric/Joke language
+- **Dogescript** | ID: `b563db2a89` | Category: Esoteric/Joke language
+- **ELVM** | ID: `96eee54c91` | Category: Esoteric/Joke language
+- **Emojicode** | ID: `6ee3f457e9` | Category: Esoteric/Joke language
+- **Entropy** | ID: `15fc3950b7` | Category: Esoteric/Joke language
+- **FALSE** | ID: `946003f97c` | Category: Esoteric/Joke language
+- **FRACTRAN** | ID: `047daa53d5` | Category: Esoteric/Joke language
+- **FiM++ (Friendship is Magic)** | ID: `7913c82518` | Category: Esoteric/Joke language
+- **FlipJump** | ID: `a848f72d91` | Category: Esoteric/Joke language
+- **Folders** | ID: `60c7502b5c` | Category: Esoteric/Joke language
+- **Fugue** | ID: `72e2727ee8` | Category: Esoteric/Joke language
+- **Game of Life patterns** | ID: `353c2cf6ce` | Category: Esoteric/Joke language
+- **Glypho** | ID: `4aace7adbd` | Category: Esoteric/Joke language
+- **GolfScript** | ID: `031d87d212` | Category: Esoteric/Joke language
+- **Grass (language)** | ID: `75757ade4a` | Category: Esoteric/Joke language
+- **HQ9+** | ID: `70ffcc4f82` | Category: Esoteric/Joke language
+- **Headache** | ID: `f5234ff608` | Category: Esoteric/Joke language
+- **Hexagony** | ID: `5a4e83710b` | Category: Esoteric/Joke language
+- **Husk** | ID: `2e14eaebbd` | Category: Esoteric/Joke language
+- **Iota** | ID: `c24bea07e8` | Category: Esoteric/Joke language
+- **JSFuck** | ID: `84a755b2a1` | Category: Esoteric/Joke language
+- **Jelly** | ID: `eff58c8fb8` | Category: Esoteric/Joke language
+- **Jot** | ID: `a5f43ddf5c` | Category: Esoteric/Joke language
+- **KEMURI** | ID: `7b32646d74` | Category: Esoteric/Joke language
+- **Kipple** | ID: `98bd10fb9c` | Category: Esoteric/Joke language
+- **LOLCODE** | ID: `436e669e2b` | Category: Esoteric/Joke language
+- **Labyrinth** | ID: `aecc77c6bf` | Category: Esoteric/Joke language
+- **Lazy Bird** | ID: `a23123e962` | Category: Esoteric/Joke language
+- **Lazy K** | ID: `35f267b65c` | Category: Esoteric/Joke language
+- **Lenguage** | ID: `a53aa5e15e` | Category: Esoteric/Joke language
+- **Lingua::Romana::Perligata** | ID: `f20889260a` | Category: Esoteric/Joke language
+- **Malbolge** | ID: `b17685a0a9` | Category: Esoteric/Joke language
+- **MarioLANG** | ID: `38df5b13d1` | Category: Esoteric/Joke language
+- **Matricks** | ID: `b20e377c8a` | Category: Esoteric/Joke language
+- **Mouse** | ID: `f2a47c6809` | Category: Esoteric/Joke language
+- **Muriel** | ID: `ff9549ef7e` | Category: Esoteric/Joke language
+- **NetLogo** | ID: `7300a23258` | Category: Esoteric/Joke language
+- **Ook!** | ID: `6d868f0772` | Category: Esoteric/Joke language
+- **Orca Esolang** | ID: `34ba3f902c` | Category: Esoteric/Joke language
+- **PATH** | ID: `5ffb5f0d0d` | Category: Esoteric/Joke language
+- **POGAACK** | ID: `3b763fb389` | Category: Esoteric/Joke language
+- **Piet** | ID: `cfdaa8b7f5` | Category: Esoteric/Joke language
+- **Plankalkul (modern impl)** | ID: `6b31cea54d` | Category: Esoteric/Joke language
+- **Prelude** | ID: `f253920845` | Category: Esoteric/Joke language
+- **Pyth** | ID: `f474ff74da` | Category: Esoteric/Joke language
+- **RETURN** | ID: `a2bec276a5` | Category: Esoteric/Joke language
+- **Rail** | ID: `569cfa311d` | Category: Esoteric/Joke language
+- **Rockstar** | ID: `9b997d2149` | Category: Esoteric/Joke language
+- **Rule 110** | ID: `c3dd66cf1c` | Category: Esoteric/Joke language
+- **SNUSP** | ID: `a2bd8b9aec` | Category: Esoteric/Joke language
+- **SPL** | ID: `18e6b17f5e` | Category: Esoteric/Joke language
+- **Santa** | ID: `2f621a9cbf` | Category: Esoteric/Joke language
+- **Seed** | ID: `dba005190e` | Category: Esoteric/Joke language
+- **Shakespeare Programming Language** | ID: `4e8ca0d6f2` | Category: Esoteric/Joke language
+- **Stacking** | ID: `59f2f651f4` | Category: Esoteric/Joke language
+- **StarLogo** | ID: `9c0ba29646` | Category: Esoteric/Joke language
+- **Starry** | ID: `0be0192412` | Category: Esoteric/Joke language
+- **Subleq** | ID: `d17eab3215` | Category: Esoteric/Joke language
+- **Taxi** | ID: `0dcfdb3caf` | Category: Esoteric/Joke language
+- **Thue** | ID: `81cd2cb5a4` | Category: Esoteric/Joke language
+- **Toadskin** | ID: `a20f583c19` | Category: Esoteric/Joke language
+- **Trefunge** | ID: `e3e03e6bec` | Category: Esoteric/Joke language
+- **TrumpScript** | ID: `a250d94805` | Category: Esoteric/Joke language
+- **Unefunge** | ID: `9c2c654466` | Category: Esoteric/Joke language
+- **Unlambda** | ID: `b3f67d5cb7` | Category: Esoteric/Joke language
+- **Velato** | ID: `ae3fa8b20a` | Category: Esoteric/Joke language
+- **Vyxal** | ID: `34540bf6b1` | Category: Esoteric/Joke language
+- **Whenever** | ID: `642a7c2e4f` | Category: Esoteric/Joke language
+- **Whitespace** | ID: `ce9a733c2a` | Category: Esoteric/Joke language
+- **Wireworld** | ID: `52c7768879` | Category: Esoteric/Joke language
+- **Wren (esolang)** | ID: `58a263668b` | Category: Esoteric/Joke language
+- **ZOMBIE** | ID: `81596a5a9c` | Category: Esoteric/Joke language
+- **brainfuck++** | ID: `e6659e7f68` | Category: Esoteric/Joke language
+- **i** | ID: `865c0c0b4a` | Category: Esoteric/Joke language
+- **var'aq (Klingon)** | ID: `cc4db57f58` | Category: Esoteric/Joke language
+
+## SECTION: Fortran/Scientific computing (62 entries)
+
+- **Axiom** | ID: `2c5d94dd60` | Category: Fortran/Scientific computing
+- **CUDA Fortran** | ID: `fb81a82785` | Category: Fortran/Scientific computing
+- **Cadabra** | ID: `cf05874a57` | Category: Fortran/Scientific computing
+- **Casio ClassPad** | ID: `da47d9a6c4` | Category: Fortran/Scientific computing
+- **Co-array Fortran** | ID: `2c2c3d31c9` | Category: Fortran/Scientific computing
+- **CoCoA** | ID: `38e05954c4` | Category: Fortran/Scientific computing
+- **Cray Fortran** | ID: `9e5bf5ef4f` | Category: Fortran/Scientific computing
+- **Derive** | ID: `e12b9ab577` | Category: Fortran/Scientific computing
+- **Desmos** | ID: `8381b43e9d` | Category: Fortran/Scientific computing
+- **EFL** | ID: `e8c7772aeb` | Category: Fortran/Scientific computing
+- **F2C** | ID: `edccdee7b9` | Category: Fortran/Scientific computing
+- **FORTRAN 66** | ID: `acb4838175` | Category: Fortran/Scientific computing
+- **FORTRAN 77** | ID: `30ab10838a` | Category: Fortran/Scientific computing
+- **FORTRAN I** | ID: `318261e73a` | Category: Fortran/Scientific computing
+- **FORTRAN II** | ID: `6427c45295` | Category: Fortran/Scientific computing
+- **FORTRAN III** | ID: `3d6dcb154a` | Category: Fortran/Scientific computing
+- **FORTRAN IV** | ID: `0be9f0fbf7` | Category: Fortran/Scientific computing
+- **Fermat** | ID: `8602d8eeb9` | Category: Fortran/Scientific computing
+- **Flang** | ID: `e9742d832e` | Category: Fortran/Scientific computing
+- **Fortran 2003** | ID: `1e8abd6e70` | Category: Fortran/Scientific computing
+- **Fortran 2008** | ID: `c4ce615345` | Category: Fortran/Scientific computing
+- **Fortran 2018** | ID: `e87dd9a4a9` | Category: Fortran/Scientific computing
+- **Fortran 2023** | ID: `a7783e2dbb` | Category: Fortran/Scientific computing
+- **Fortran 90** | ID: `9abb82d698` | Category: Fortran/Scientific computing
+- **Fortran 95** | ID: `1202f19bf4` | Category: Fortran/Scientific computing
+- **FreeMat** | ID: `62f72f5c01` | Category: Fortran/Scientific computing
+- **GAP** | ID: `e80ae93ca3` | Category: Fortran/Scientific computing
+- **GDL (GNU Data Language)** | ID: `de62408d38` | Category: Fortran/Scientific computing
+- **GNU Octave** | ID: `7b3da21332` | Category: Fortran/Scientific computing
+- **GeoGebra** | ID: `2190b1c1eb` | Category: Fortran/Scientific computing
+- **HP Prime** | ID: `38053a0960` | Category: Fortran/Scientific computing
+- **HPF** | ID: `3062fdf5ee` | Category: Fortran/Scientific computing
+- **IDL (Interactive Data)** | ID: `1c5105dcac` | Category: Fortran/Scientific computing
+- **LFortran** | ID: `c550fc30db` | Category: Fortran/Scientific computing
+- **MATLAB** | ID: `8f6823abd3` | Category: Fortran/Scientific computing
+- **Macaulay2** | ID: `2c9725123b` | Category: Fortran/Scientific computing
+- **Magma** | ID: `1b62e99f86` | Category: Fortran/Scientific computing
+- **Maple** | ID: `4004507e32` | Category: Fortran/Scientific computing
+- **MathCAD** | ID: `f119cb7ee9` | Category: Fortran/Scientific computing
+- **Mathematica/Wolfram** | ID: `9da8ea7a6a` | Category: Fortran/Scientific computing
+- **Maxima** | ID: `bc32925675` | Category: Fortran/Scientific computing
+- **NAG Fortran** | ID: `4b06a3c03a` | Category: Fortran/Scientific computing
+- **NumPy** | ID: `3b7f949b23` | Category: Fortran/Scientific computing
+- **OpenACC Fortran** | ID: `a35e8ab1f9` | Category: Fortran/Scientific computing
+- **OpenMP Fortran** | ID: `3176a5808c` | Category: Fortran/Scientific computing
+- **PARI/GP** | ID: `735a2c544e` | Category: Fortran/Scientific computing
+- **PDL (Perl Data Language)** | ID: `ccf20bd398` | Category: Fortran/Scientific computing
+- **PGI/NVIDIA Fortran** | ID: `efdf93d4a7` | Category: Fortran/Scientific computing
+- **Ratfor** | ID: `548c8ce811` | Category: Fortran/Scientific computing
+- **Reduce** | ID: `ec4875f03f` | Category: Fortran/Scientific computing
+- **SMath Studio** | ID: `3e79fd2511` | Category: Fortran/Scientific computing
+- **Sage/SageMath** | ID: `a8d4e53edd` | Category: Fortran/Scientific computing
+- **SciPy** | ID: `1821d8d35c` | Category: Fortran/Scientific computing
+- **Scilab** | ID: `6560a2d2a9` | Category: Fortran/Scientific computing
+- **Singular** | ID: `d8d948ef62` | Category: Fortran/Scientific computing
+- **SymPy** | ID: `3c068ffa62` | Category: Fortran/Scientific computing
+- **TI-Nspire CAS** | ID: `0bbceb3413` | Category: Fortran/Scientific computing
+- **UPC** | ID: `fbd99ad01b` | Category: Fortran/Scientific computing
+- **Yorick** | ID: `910c8ff74a` | Category: Fortran/Scientific computing
+- **gfortran** | ID: `a303edaa4a` | Category: Fortran/Scientific computing
+- **ifort/ifx (Intel)** | ID: `34867568d1` | Category: Fortran/Scientific computing
+- **wxMaxima** | ID: `1ff22e8a96` | Category: Fortran/Scientific computing
+
+## SECTION: Game engine/scripting (95 entries)
+
+- **A-Frame** | ID: `83f573073d` | Category: Game engine/scripting
+- **Adacraft** | ID: `8e2efa8121` | Category: Game engine/scripting
+- **Adalo** | ID: `a9c1543555` | Category: Game engine/scripting
+- **Allegro C/C++** | ID: `38f9f2153d` | Category: Game engine/scripting
+- **Ambient (Rust)** | ID: `d17de551d0` | Category: Game engine/scripting
+- **Amethyst (Rust)** | ID: `fb69b9b1d1` | Category: Game engine/scripting
+- **App Inventor** | ID: `82757f934f` | Category: Game engine/scripting
+- **Arcade (Python)** | ID: `335fd31d9f` | Category: Game engine/scripting
+- **Articy: Draft scripting** | ID: `1c73f708a7` | Category: Game engine/scripting
+- **BabylonJS** | ID: `2f6faf19a6` | Category: Game engine/scripting
+- **Bevy ECS (Rust)** | ID: `26b4c5a658` | Category: Game engine/scripting
+- **Blueprints (UE4/UE5)** | ID: `306d090f40` | Category: Game engine/scripting
+- **Bubble** | ID: `b6230dfc59` | Category: Game engine/scripting
+- **Buildbox** | ID: `166176cdfa` | Category: Game engine/scripting
+- **Clickteam Fusion Events** | ID: `89b1c41798` | Category: Game engine/scripting
+- **Cocos Creator TypeScript** | ID: `5800a9b796` | Category: Game engine/scripting
+- **Cocos2d-x C++** | ID: `4b314eab46` | Category: Game engine/scripting
+- **Construct Event Sheets** | ID: `4df59932cb` | Category: Game engine/scripting
+- **CryEngine C++** | ID: `a887c67318` | Category: Game engine/scripting
+- **CryEngine Lua** | ID: `86ed30ff7e` | Category: Game engine/scripting
+- **CryEngine Schematyc** | ID: `4c2a93ac97` | Category: Game engine/scripting
+- **Defold Lua** | ID: `a204423a60` | Category: Game engine/scripting
+- **Dialogue System (Unity)** | ID: `4765a0f240` | Category: Game engine/scripting
+- **FNA C#** | ID: `c5e6387dd1` | Category: Game engine/scripting
+- **Flax Engine C#/C++** | ID: `2734fca470` | Category: Game engine/scripting
+- **Fungus (Unity)** | ID: `3bebb3ee64` | Category: Game engine/scripting
+- **Fyrox (Rust)** | ID: `f297162475` | Category: Game engine/scripting
+- **GDScript 3.x** | ID: `d72b0f96da` | Category: Game engine/scripting
+- **GDScript 4.x** | ID: `d3e01321ca` | Category: Game engine/scripting
+- **GDevelop Events** | ID: `ad517b71ce` | Category: Game engine/scripting
+- **GameMaker Language (GML)** | ID: `125e7776f6` | Category: Game engine/scripting
+- **GameMaker Visual** | ID: `9378bb0006` | Category: Game engine/scripting
+- **Glide** | ID: `26af1b4c2c` | Category: Game engine/scripting
+- **Godot C# (Mono)** | ID: `b013ae4097` | Category: Game engine/scripting
+- **Godot C++ (GDNative/GDExtension)** | ID: `77c8686952` | Category: Game engine/scripting
+- **Godot Visual Script** | ID: `cf46410a98` | Category: Game engine/scripting
+- **Ink (Inkle)** | ID: `f532f2b954` | Category: Game engine/scripting
+- **Kodular** | ID: `e9fcadb943` | Category: Game engine/scripting
+- **LEGO Mindstorms EV3-G** | ID: `ba1e02afa8` | Category: Game engine/scripting
+- **LEGO Spike** | ID: `9923329068` | Category: Game engine/scripting
+- **LOVE2D Lua** | ID: `d3288c917b` | Category: Game engine/scripting
+- **Lumberyard (O3DE) Lua** | ID: `0349412a8f` | Category: Game engine/scripting
+- **Macroquad (Rust)** | ID: `5753798cd2` | Category: Game engine/scripting
+- **MakeCode Arcade** | ID: `23ace70a92` | Category: Game engine/scripting
+- **MakeCode Minecraft** | ID: `b3232fe4a1` | Category: Game engine/scripting
+- **MakeCode micro:bit** | ID: `c2aa24d591` | Category: Game engine/scripting
+- **MonoGame C#** | ID: `dc77234de7` | Category: Game engine/scripting
+- **Niagara (Unreal VFX)** | ID: `e2633fbf6a` | Category: Game engine/scripting
+- **O3DE Script Canvas** | ID: `2fe193692f` | Category: Game engine/scripting
+- **PICO-8 Lua** | ID: `fec41dac16` | Category: Game engine/scripting
+- **PenguinMod** | ID: `64fd78bd9b` | Category: Game engine/scripting
+- **Phaser JavaScript** | ID: `19fd31f378` | Category: Game engine/scripting
+- **PixiJS** | ID: `ea72ef2e93` | Category: Game engine/scripting
+- **PlayCanvas** | ID: `2928efb3e4` | Category: Game engine/scripting
+- **Pygame Zero** | ID: `1717586c22` | Category: Game engine/scripting
+- **Pyglet** | ID: `9ff8efe7d0` | Category: Game engine/scripting
+- **Pyxel Python** | ID: `56a7a60d69` | Category: Game engine/scripting
+- **RPG Maker Event System** | ID: `732543cc8c` | Category: Game engine/scripting
+- **RPG Maker MV/MZ (JavaScript)** | ID: `000810ae82` | Category: Game engine/scripting
+- **RPG Maker RGSS (Ruby)** | ID: `ddc9a19940` | Category: Game engine/scripting
+- **Raylib C** | ID: `b15853077f` | Category: Game engine/scripting
+- **Raylib bindings (30+ languages)** | ID: `6cdda65970` | Category: Game engine/scripting
+- **Ren'Py** | ID: `e7f1240730` | Category: Game engine/scripting
+- **Roblox Luau** | ID: `04d6717703` | Category: Game engine/scripting
+- **SDL2 C** | ID: `07cfcae497` | Category: Game engine/scripting
+- **SFML C++** | ID: `f7c7c29a31` | Category: Game engine/scripting
+- **Scratch 1.x** | ID: `1ddffb2460` | Category: Game engine/scripting
+- **Scratch 2.x** | ID: `1c65ddc4d9` | Category: Game engine/scripting
+- **Scratch 3.x** | ID: `1a97a03b87` | Category: Game engine/scripting
+- **ScratchJr** | ID: `e07d5d0815` | Category: Game engine/scripting
+- **Snap! (BYOB)** | ID: `53f6c1ac07` | Category: Game engine/scripting
+- **Solar2D (Corona) Lua** | ID: `95afe293d3` | Category: Game engine/scripting
+- **Source Engine (Valve) Squirrel** | ID: `4200d587bf` | Category: Game engine/scripting
+- **Source Engine VScript** | ID: `b366153bc6` | Category: Game engine/scripting
+- **Stencyl Behaviors** | ID: `80da2d8aa5` | Category: Game engine/scripting
+- **Stride C# (Xenko)** | ID: `93447c7825` | Category: Game engine/scripting
+- **TIC-80 Lua** | ID: `d0ab07d8c5` | Category: Game engine/scripting
+- **Three.js** | ID: `fa115d2ffe` | Category: Game engine/scripting
+- **Thunkable** | ID: `1804a013a8` | Category: Game engine/scripting
+- **TurboWarp** | ID: `08197d3bf7` | Category: Game engine/scripting
+- **Twine Chapbook** | ID: `6c30380162` | Category: Game engine/scripting
+- **Twine Harlowe** | ID: `5ee200b78c` | Category: Game engine/scripting
+- **Twine Snowman** | ID: `3fcf936407` | Category: Game engine/scripting
+- **Twine SugarCube** | ID: `45ee238656` | Category: Game engine/scripting
+- **Unity C#** | ID: `bd51763614` | Category: Game engine/scripting
+- **Unity JavaScript (UnityScript, deprecated)** | ID: `472f248f10` | Category: Game engine/scripting
+- **Unity Shader Graph** | ID: `1191a88919` | Category: Game engine/scripting
+- **Unity VFX Graph** | ID: `09d6503aa9` | Category: Game engine/scripting
+- **Unity Visual Scripting** | ID: `5a29024865` | Category: Game engine/scripting
+- **Unreal C++** | ID: `71918a7b92` | Category: Game engine/scripting
+- **Unreal Material Editor** | ID: `c70e9681a6` | Category: Game engine/scripting
+- **UnrealScript (UE3)** | ID: `8010411187` | Category: Game engine/scripting
+- **Verse (UEFN)** | ID: `71503adadf` | Category: Game engine/scripting
+- **Yarn Spinner** | ID: `c401fc3ad1` | Category: Game engine/scripting
+- **ggez (Rust)** | ID: `594a4df69a` | Category: Game engine/scripting
+
+## SECTION: Graphics/Shader/GPU (81 entries)
+
+- **Amplify Shader Editor** | ID: `381264081d` | Category: Graphics/Shader/GPU
+- **CUDA C/C++** | ID: `3733bc3219` | Category: Graphics/Shader/GPU
+- **CUDA PTX** | ID: `4cf920cf86` | Category: Graphics/Shader/GPU
+- **CadQuery** | ID: `584f267589` | Category: Graphics/Shader/GPU
+- **Canvas 2D API** | ID: `0f33d0fd62` | Category: Graphics/Shader/GPU
+- **Cg** | ID: `8ae552d52f` | Category: Graphics/Shader/GPU
+- **DPC++ (Intel oneAPI)** | ID: `e2a9f7358b` | Category: Graphics/Shader/GPU
+- **DXC (DirectX Compiler)** | ID: `3ea8009e03` | Category: Graphics/Shader/GPU
+- **DirectX 11 API** | ID: `99223c1520` | Category: Graphics/Shader/GPU
+- **DirectX 12 API** | ID: `69f1482341` | Category: Graphics/Shader/GPU
+- **FreeCAD Python scripting** | ID: `d123abb84a` | Category: Graphics/Shader/GPU
+- **GLSL 1.10** | ID: `346850b367` | Category: Graphics/Shader/GPU
+- **GLSL 1.20** | ID: `52ff04ee71` | Category: Graphics/Shader/GPU
+- **GLSL 1.30** | ID: `fbb75e619f` | Category: Graphics/Shader/GPU
+- **GLSL 1.40** | ID: `a25490f6c5` | Category: Graphics/Shader/GPU
+- **GLSL 1.50** | ID: `bd1520ad29` | Category: Graphics/Shader/GPU
+- **GLSL 3.30** | ID: `09186d106a` | Category: Graphics/Shader/GPU
+- **GLSL 4.00** | ID: `7f04146e2f` | Category: Graphics/Shader/GPU
+- **GLSL 4.10** | ID: `c1d160f6ad` | Category: Graphics/Shader/GPU
+- **GLSL 4.20** | ID: `5fac06c28b` | Category: Graphics/Shader/GPU
+- **GLSL 4.30** | ID: `e7f7b6e08d` | Category: Graphics/Shader/GPU
+- **GLSL 4.40** | ID: `16fdd6cd8c` | Category: Graphics/Shader/GPU
+- **GLSL 4.50** | ID: `a17ed47d85` | Category: Graphics/Shader/GPU
+- **GLSL 4.60** | ID: `e2861cf1ae` | Category: Graphics/Shader/GPU
+- **GLSL ES 1.00** | ID: `52cc0d4bc9` | Category: Graphics/Shader/GPU
+- **GLSL ES 3.00** | ID: `20b0159145` | Category: Graphics/Shader/GPU
+- **GLSL ES 3.10** | ID: `caa4bfa916` | Category: Graphics/Shader/GPU
+- **GLSL ES 3.20** | ID: `c5993e0beb` | Category: Graphics/Shader/GPU
+- **HIP (AMD)** | ID: `f2421e3ee5` | Category: Graphics/Shader/GPU
+- **HLSL SM 1.0** | ID: `cbb89e8e32` | Category: Graphics/Shader/GPU
+- **HLSL SM 2.0** | ID: `43cf163b60` | Category: Graphics/Shader/GPU
+- **HLSL SM 3.0** | ID: `769b6604ec` | Category: Graphics/Shader/GPU
+- **HLSL SM 4.0** | ID: `3c250ec598` | Category: Graphics/Shader/GPU
+- **HLSL SM 5.0** | ID: `c4b026c592` | Category: Graphics/Shader/GPU
+- **HLSL SM 5.1** | ID: `3ac0b2c31c` | Category: Graphics/Shader/GPU
+- **HLSL SM 6.0** | ID: `134fa027c8` | Category: Graphics/Shader/GPU
+- **HLSL SM 6.1** | ID: `58accb2676` | Category: Graphics/Shader/GPU
+- **HLSL SM 6.2** | ID: `28c68fd03c` | Category: Graphics/Shader/GPU
+- **HLSL SM 6.3** | ID: `5258227f80` | Category: Graphics/Shader/GPU
+- **HLSL SM 6.4** | ID: `366da330f5` | Category: Graphics/Shader/GPU
+- **HLSL SM 6.5** | ID: `25e289ebc4` | Category: Graphics/Shader/GPU
+- **HLSL SM 6.6** | ID: `6d5c0cf327` | Category: Graphics/Shader/GPU
+- **HLSL SM 6.7** | ID: `f06cecdae9` | Category: Graphics/Shader/GPU
+- **HLSL SM 6.8** | ID: `a1c32fd2dd` | Category: Graphics/Shader/GPU
+- **Level Zero (Intel)** | ID: `fa9241b453` | Category: Graphics/Shader/GPU
+- **LibreCAD DXF scripting** | ID: `fc319e8f6e` | Category: Graphics/Shader/GPU
+- **Material Editor (Unreal)** | ID: `f1bf999290` | Category: Graphics/Shader/GPU
+- **Metal API** | ID: `82238f835e` | Category: Graphics/Shader/GPU
+- **Metal Compute** | ID: `36f21af2b2` | Category: Graphics/Shader/GPU
+- **Metal Shading Language 1.0** | ID: `3c99417ab9` | Category: Graphics/Shader/GPU
+- **Metal Shading Language 2.0** | ID: `5ec9d32f54` | Category: Graphics/Shader/GPU
+- **Metal Shading Language 3.0** | ID: `82af1ecd29` | Category: Graphics/Shader/GPU
+- **Metal Shading Language 3.1** | ID: `27108f4116` | Category: Graphics/Shader/GPU
+- **Naga (wgpu shader translator)** | ID: `b4b51496fe` | Category: Graphics/Shader/GPU
+- **Niagara VFX (Unreal)** | ID: `4c481b9b91` | Category: Graphics/Shader/GPU
+- **OSL (Sony)** | ID: `67a61ca461` | Category: Graphics/Shader/GPU
+- **OpenACC** | ID: `5323959582` | Category: Graphics/Shader/GPU
+- **OpenCL C** | ID: `efd5ef9cf2` | Category: Graphics/Shader/GPU
+- **OpenGL API** | ID: `2c6a6421a2` | Category: Graphics/Shader/GPU
+- **OpenMP GPU offloading** | ID: `71f48d8f72` | Category: Graphics/Shader/GPU
+- **OpenSCAD** | ID: `2c0a24bedf` | Category: Graphics/Shader/GPU
+- **POV-Ray SDL** | ID: `8262f2ba0e` | Category: Graphics/Shader/GPU
+- **PythonOCC** | ID: `4449088485` | Category: Graphics/Shader/GPU
+- **ROCm** | ID: `aac90cc22a` | Category: Graphics/Shader/GPU
+- **RSL (RenderMan)** | ID: `a5ad6dc984` | Category: Graphics/Shader/GPU
+- **SPIR-V** | ID: `ef1cba6945` | Category: Graphics/Shader/GPU
+- **SPIR-V Tools** | ID: `8a4737a3f8` | Category: Graphics/Shader/GPU
+- **SPIRV-Cross** | ID: `8b16c25647` | Category: Graphics/Shader/GPU
+- **SVG** | ID: `cd15a75c26` | Category: Graphics/Shader/GPU
+- **SYCL** | ID: `4427481c96` | Category: Graphics/Shader/GPU
+- **Shader Forge** | ID: `9881c3bef5` | Category: Graphics/Shader/GPU
+- **Shader Graph (Unity)** | ID: `d7820bfc96` | Category: Graphics/Shader/GPU
+- **ShaderLab (Unity)** | ID: `be8f0a69e4` | Category: Graphics/Shader/GPU
+- **Slang (NVIDIA shader)** | ID: `68eb4a8f67` | Category: Graphics/Shader/GPU
+- **SolidPython** | ID: `efae8182d8` | Category: Graphics/Shader/GPU
+- **Vulkan API** | ID: `1ee94ba948` | Category: Graphics/Shader/GPU
+- **Vulkan Compute** | ID: `5a66995625` | Category: Graphics/Shader/GPU
+- **WGSL (WebGPU)** | ID: `eaabe7bd39` | Category: Graphics/Shader/GPU
+- **WebGL 1.0** | ID: `ffb220dc00` | Category: Graphics/Shader/GPU
+- **WebGL 2.0** | ID: `70a5e2ccb2` | Category: Graphics/Shader/GPU
+- **WebGPU API** | ID: `9d241b2b22` | Category: Graphics/Shader/GPU
+
+## SECTION: Hardware description/verification (60 entries)
+
+- **ABEL** | ID: `8075327cda` | Category: Hardware description/verification
+- **AHDL (Altera)** | ID: `e69ea48fc3` | Category: Hardware description/verification
+- **Amaranth HDL (Python)** | ID: `a1180e49c1` | Category: Hardware description/verification
+- **BSDL** | ID: `20fce25238` | Category: Hardware description/verification
+- **BSV/Bluespec SystemVerilog** | ID: `94ca79c6c8` | Category: Hardware description/verification
+- **Bambu HLS** | ID: `1d74875ac4` | Category: Hardware description/verification
+- **Bluespec Haskell** | ID: `2949c54275` | Category: Hardware description/verification
+- **CUPL (PLD)** | ID: `ad84c7e54f` | Category: Hardware description/verification
+- **Catapult HLS** | ID: `fb6c818681` | Category: Hardware description/verification
+- **Chisel (Scala HDL)** | ID: `8eb93cf866` | Category: Hardware description/verification
+- **Clash (Haskell HDL)** | ID: `6b3a6eeab5` | Category: Hardware description/verification
+- **Cocotb (Python testbench)** | ID: `fc1c30f91d` | Category: Hardware description/verification
+- **EDIF** | ID: `2174e8d55f` | Category: Hardware description/verification
+- **GHDL** | ID: `4b696e7188` | Category: Hardware description/verification
+- **Icarus Verilog** | ID: `7c856bda50` | Category: Hardware description/verification
+- **Intel HLS Compiler** | ID: `9a0f7813d2` | Category: Hardware description/verification
+- **LEF/DEF** | ID: `36432e3d4f` | Category: Hardware description/verification
+- **Liberty (.lib)** | ID: `0bbb0de7ec` | Category: Hardware description/verification
+- **LiteX (Python SoC builder)** | ID: `8395fd67b2` | Category: Hardware description/verification
+- **Lola (Wirth HDL)** | ID: `a3c06a81f2` | Category: Hardware description/verification
+- **Migen (Python)** | ID: `5b4b79fe30` | Category: Hardware description/verification
+- **MyHDL (Python)** | ID: `135ae4a739` | Category: Hardware description/verification
+- **OVM** | ID: `efbad05508` | Category: Hardware description/verification
+- **OneAPI for FPGA** | ID: `03c8042457` | Category: Hardware description/verification
+- **OpenCL for FPGA** | ID: `84d424316e` | Category: Hardware description/verification
+- **PALASM** | ID: `8525f6f44e` | Category: Hardware description/verification
+- **PSL/Sugar** | ID: `8dc4b4a7ae` | Category: Hardware description/verification
+- **SDC** | ID: `24b237263b` | Category: Hardware description/verification
+- **SVA (SystemVerilog Assertions)** | ID: `288a21dd13` | Category: Hardware description/verification
+- **SWIG** | ID: `cd4b1295ba` | Category: Hardware description/verification
+- **SYCL for FPGA** | ID: `81b62be016` | Category: Hardware description/verification
+- **Specman/e verification** | ID: `e183561c3a` | Category: Hardware description/verification
+- **SpinalHDL (Scala)** | ID: `d7e550af92` | Category: Hardware description/verification
+- **SystemC** | ID: `e4ad854042` | Category: Hardware description/verification
+- **SystemC-AMS** | ID: `f1217b0aca` | Category: Hardware description/verification
+- **SystemVerilog-2005** | ID: `ab1435baa5` | Category: Hardware description/verification
+- **SystemVerilog-2009** | ID: `3e4de4fb73` | Category: Hardware description/verification
+- **SystemVerilog-2012** | ID: `b2e3f2719c` | Category: Hardware description/verification
+- **SystemVerilog-2017** | ID: `68e94cc570` | Category: Hardware description/verification
+- **TLM-2.0 (SystemC)** | ID: `0490ee1bf1` | Category: Hardware description/verification
+- **UCF (Xilinx legacy)** | ID: `e268cb7fd0` | Category: Hardware description/verification
+- **UVM (Universal Verification)** | ID: `b29c15b7bb` | Category: Hardware description/verification
+- **VHDL-1987** | ID: `9e857e9f55` | Category: Hardware description/verification
+- **VHDL-1993** | ID: `b4f9b762ae` | Category: Hardware description/verification
+- **VHDL-2000** | ID: `d839d3bdfa` | Category: Hardware description/verification
+- **VHDL-2002** | ID: `72cb228f22` | Category: Hardware description/verification
+- **VHDL-2008** | ID: `0a376f1d82` | Category: Hardware description/verification
+- **VHDL-2019** | ID: `e5735194c9` | Category: Hardware description/verification
+- **VHDL-AMS** | ID: `7e01c60f84` | Category: Hardware description/verification
+- **VMM** | ID: `a7170792bc` | Category: Hardware description/verification
+- **Verilator (C++ simulation)** | ID: `d3e50c1680` | Category: Hardware description/verification
+- **Verilog-1995** | ID: `614ccdc87a` | Category: Hardware description/verification
+- **Verilog-2001** | ID: `b83531ed79` | Category: Hardware description/verification
+- **Verilog-2005** | ID: `2c01d94901` | Category: Hardware description/verification
+- **Vitis HLS** | ID: `f9392fc2ec` | Category: Hardware description/verification
+- **Vivado HLS** | ID: `9a9a32bced` | Category: Hardware description/verification
+- **XDC** | ID: `9f48771088` | Category: Hardware description/verification
+- **Yosys synthesis** | ID: `9a7582dda9` | Category: Hardware description/verification
+- **nMigen (Python)** | ID: `6699363cd5` | Category: Hardware description/verification
+- **nextpnr** | ID: `1a83ee25ba` | Category: Hardware description/verification
+
+## SECTION: Lisp/Scheme family (83 entries)
+
+- **ABCL (Armed Bear)** | ID: `4ee276b282` | Category: Lisp/Scheme family
+- **Allegro CL** | ID: `bb82e7314e` | Category: Lisp/Scheme family
+- **Arc (Paul Graham)** | ID: `d51f9cc6a8` | Category: Lisp/Scheme family
+- **AutoLisp (AutoCAD)** | ID: `d1f952b815` | Category: Lisp/Scheme family
+- **Babashka** | ID: `dac95fba58` | Category: Lisp/Scheme family
+- **Bigloo Scheme** | ID: `fc6e5b1682` | Category: Lisp/Scheme family
+- **CCL (Clozure)** | ID: `642863181a` | Category: Lisp/Scheme family
+- **CLISP** | ID: `ffbc871962` | Category: Lisp/Scheme family
+- **CMUCL** | ID: `3219ec671d` | Category: Lisp/Scheme family
+- **Carp** | ID: `216c317548` | Category: Lisp/Scheme family
+- **Chez Scheme** | ID: `f3e6a77714` | Category: Lisp/Scheme family
+- **Chibi-Scheme** | ID: `d1984702e7` | Category: Lisp/Scheme family
+- **Chicken Scheme** | ID: `62a2850d09` | Category: Lisp/Scheme family
+- **Clasp (LLVM CL)** | ID: `4c7863969b` | Category: Lisp/Scheme family
+- **Clojerl** | ID: `f5f8e8bff0` | Category: Lisp/Scheme family
+- **Clojure** | ID: `3ce4a9c404` | Category: Lisp/Scheme family
+- **ClojureCLR** | ID: `465a345c94` | Category: Lisp/Scheme family
+- **ClojureDart** | ID: `48e666f2da` | Category: Lisp/Scheme family
+- **ClojureScript** | ID: `4ab6cba7c5` | Category: Lisp/Scheme family
+- **Common Lisp (ANSI)** | ID: `9289490d2a` | Category: Lisp/Scheme family
+- **Corman Lisp** | ID: `4c891b2c13` | Category: Lisp/Scheme family
+- **ECL (Embeddable)** | ID: `ba690693c4` | Category: Lisp/Scheme family
+- **Emacs Lisp** | ID: `398882cf72` | Category: Lisp/Scheme family
+- **EuLisp** | ID: `df4c4e7dda` | Category: Lisp/Scheme family
+- **Fennel (Lua Lisp)** | ID: `99e169e9da` | Category: Lisp/Scheme family
+- **Ferret (Clojure to C++)** | ID: `21f7ea8d56` | Category: Lisp/Scheme family
+- **GCL (GNU CL)** | ID: `c456ad4673` | Category: Lisp/Scheme family
+- **Gambit Scheme** | ID: `9edf3e3c83` | Category: Lisp/Scheme family
+- **Gauche Scheme** | ID: `0d941f888f` | Category: Lisp/Scheme family
+- **Guile Scheme** | ID: `28be58a7d2` | Category: Lisp/Scheme family
+- **Hy (Python Lisp)** | ID: `7cdc7b286b` | Category: Lisp/Scheme family
+- **ISLISP** | ID: `72d3bd1c96` | Category: Lisp/Scheme family
+- **Ikarus Scheme** | ID: `3d1252c847` | Category: Lisp/Scheme family
+- **InterLisp** | ID: `4e73a711df` | Category: Lisp/Scheme family
+- **InterLisp-D** | ID: `2e65ce4654` | Category: Lisp/Scheme family
+- **Janet** | ID: `b3b2a91535` | Category: Lisp/Scheme family
+- **Joker** | ID: `e55318040a` | Category: Lisp/Scheme family
+- **Joxa** | ID: `589b09e64f` | Category: Lisp/Scheme family
+- **Kawa Scheme** | ID: `9a5d2e7486` | Category: Lisp/Scheme family
+- **LFE** | ID: `5e2ec1bb17` | Category: Lisp/Scheme family
+- **LISP 1** | ID: `c621539886` | Category: Lisp/Scheme family
+- **LISP 1.5** | ID: `e7a418b175` | Category: Lisp/Scheme family
+- **LISP 2** | ID: `9d7332e2cc` | Category: Lisp/Scheme family
+- **Larceny Scheme** | ID: `30fb926017` | Category: Lisp/Scheme family
+- **Le Lisp** | ID: `d7b0c8a795` | Category: Lisp/Scheme family
+- **Lisp Machine Lisp** | ID: `2073056c9b` | Category: Lisp/Scheme family
+- **LispWorks** | ID: `9d38d7495c` | Category: Lisp/Scheme family
+- **Lux** | ID: `5a397ddbe4` | Category: Lisp/Scheme family
+- **MACLISP** | ID: `a621f573cd` | Category: Lisp/Scheme family
+- **MIT Scheme** | ID: `23c5261524` | Category: Lisp/Scheme family
+- **Mezzano** | ID: `0de780fc4e` | Category: Lisp/Scheme family
+- **Movitz** | ID: `1be6b08f6b` | Category: Lisp/Scheme family
+- **NIL** | ID: `bc0b1e8b63` | Category: Lisp/Scheme family
+- **OpenLisp** | ID: `fd909b8f7c` | Category: Lisp/Scheme family
+- **Owl Lisp** | ID: `56a8bb0928` | Category: Lisp/Scheme family
+- **PicoLisp** | ID: `b7e2adf757` | Category: Lisp/Scheme family
+- **Pixie** | ID: `e5112e9e3a` | Category: Lisp/Scheme family
+- **Pollen** | ID: `164f5d18ed` | Category: Lisp/Scheme family
+- **Portable Standard Lisp** | ID: `ddadc620ec` | Category: Lisp/Scheme family
+- **RScheme** | ID: `2cae730bf9` | Category: Lisp/Scheme family
+- **Racket** | ID: `e562d6dad5` | Category: Lisp/Scheme family
+- **Rhombus** | ID: `d62e74b4f4` | Category: Lisp/Scheme family
+- **SBCL** | ID: `22a4c89f75` | Category: Lisp/Scheme family
+- **STklos Scheme** | ID: `a0a34fc726` | Category: Lisp/Scheme family
+- **Scheme R5RS** | ID: `440a6e6aaf` | Category: Lisp/Scheme family
+- **Scheme R6RS** | ID: `871ba42fb2` | Category: Lisp/Scheme family
+- **Scheme R7RS** | ID: `e7035a3b35` | Category: Lisp/Scheme family
+- **Scribble** | ID: `4c9e0be167` | Category: Lisp/Scheme family
+- **Shen** | ID: `49f34c7554` | Category: Lisp/Scheme family
+- **Spice Lisp** | ID: `0e0c0b822b` | Category: Lisp/Scheme family
+- **Stanford LISP** | ID: `ba229cdce0` | Category: Lisp/Scheme family
+- **T (Yale Scheme)** | ID: `84110d3bf0` | Category: Lisp/Scheme family
+- **Typed Racket** | ID: `42eacbf5ec` | Category: Lisp/Scheme family
+- **UCI Lisp** | ID: `c7e1c546b9` | Category: Lisp/Scheme family
+- **Vicare Scheme** | ID: `7aff752912` | Category: Lisp/Scheme family
+- **Visual LISP** | ID: `e3422d7369` | Category: Lisp/Scheme family
+- **Waspvm** | ID: `2782295ffc` | Category: Lisp/Scheme family
+- **Wisp** | ID: `52b85d3637` | Category: Lisp/Scheme family
+- **XLISP** | ID: `d3796aa2e4` | Category: Lisp/Scheme family
+- **ZetaLisp** | ID: `af9f4ba1b3` | Category: Lisp/Scheme family
+- **nbb** | ID: `03554e95f7` | Category: Lisp/Scheme family
+- **newLisp** | ID: `9132571008` | Category: Lisp/Scheme family
+- **s7 Scheme** | ID: `7241ec7261` | Category: Lisp/Scheme family
+
+## SECTION: Logic/Constraint programming (58 entries)
+
+- **AMPL (math prog)** | ID: `2f4d1de4ac` | Category: Logic/Constraint programming
+- **Alice (Oz)** | ID: `2a9be78021` | Category: Logic/Constraint programming
+- **Answer Set Programming (ASP)** | ID: `7ff9fa7e1e` | Category: Logic/Constraint programming
+- **B-Prolog** | ID: `0622d3ea2c` | Category: Logic/Constraint programming
+- **BinProlog** | ID: `e9d7249022` | Category: Logic/Constraint programming
+- **CHIP** | ID: `ed8e8497a6` | Category: Logic/Constraint programming
+- **CHR** | ID: `f842e3bace` | Category: Logic/Constraint programming
+- **CLP(FD)** | ID: `3eaba713fd` | Category: Logic/Constraint programming
+- **CLP(Q)** | ID: `015a42d12f` | Category: Logic/Constraint programming
+- **CLP(R)** | ID: `b6af99ac60` | Category: Logic/Constraint programming
+- **CLP(Z)** | ID: `967b14ea79` | Category: Logic/Constraint programming
+- **Choco** | ID: `1b373bed5c` | Category: Logic/Constraint programming
+- **Ciao Prolog** | ID: `81aa84f148` | Category: Logic/Constraint programming
+- **Clingo** | ID: `309d6584a3` | Category: Logic/Constraint programming
+- **Constraint Logic Programming** | ID: `3eb7e866b1` | Category: Logic/Constraint programming
+- **Curry** | ID: `5933baf90d` | Category: Logic/Constraint programming
+- **DLV** | ID: `ede320f610` | Category: Logic/Constraint programming
+- **Datalog** | ID: `b336c4bf5b` | Category: Logic/Constraint programming
+- **Datomic Datalog** | ID: `b03d7cca94` | Category: Logic/Constraint programming
+- **ECLiPSe** | ID: `d255c65bad` | Category: Logic/Constraint programming
+- **FlatZinc** | ID: `d93fa12740` | Category: Logic/Constraint programming
+- **GAMS** | ID: `3b7b6b8265` | Category: Logic/Constraint programming
+- **GNU Prolog** | ID: `17bbaa5111` | Category: Logic/Constraint programming
+- **Gecode** | ID: `bb7f0d5b94` | Category: Logic/Constraint programming
+- **Godel (logic)** | ID: `9c7ba5b0bf` | Category: Logic/Constraint programming
+- **IF Prolog** | ID: `5f1558f93e` | Category: Logic/Constraint programming
+- **ISO Prolog** | ID: `d6c1aaa00f` | Category: Logic/Constraint programming
+- **Lambda Prolog** | ID: `20b60877e4` | Category: Logic/Constraint programming
+- **LogiQL** | ID: `de44ef1ce9` | Category: Logic/Constraint programming
+- **Logtalk** | ID: `c2d1976007` | Category: Logic/Constraint programming
+- **Mercury** | ID: `34dae487e3` | Category: Logic/Constraint programming
+- **MiniKanren** | ID: `193e599c0a` | Category: Logic/Constraint programming
+- **MiniZinc** | ID: `057ece613a` | Category: Logic/Constraint programming
+- **OPL (CPLEX)** | ID: `316113688d` | Category: Logic/Constraint programming
+- **OR-Tools CP-SAT** | ID: `943b431cf1` | Category: Logic/Constraint programming
+- **Oz/Mozart** | ID: `2a77c45f06` | Category: Logic/Constraint programming
+- **Picat** | ID: `5ea4057667` | Category: Logic/Constraint programming
+- **Potassco** | ID: `b9a3129ffc` | Category: Logic/Constraint programming
+- **Prolog (Edinburgh)** | ID: `982131a27d` | Category: Logic/Constraint programming
+- **Quintus Prolog** | ID: `6b6b85d40e` | Category: Logic/Constraint programming
+- **SICStus CLP** | ID: `8b1eb8d06b` | Category: Logic/Constraint programming
+- **SICStus Prolog** | ID: `f0323c46a7` | Category: Logic/Constraint programming
+- **SWI-Prolog** | ID: `264df368c6` | Category: Logic/Constraint programming
+- **Scryer Prolog** | ID: `47ad7c88bb` | Category: Logic/Constraint programming
+- **Souffle Datalog** | ID: `4cffa9dccd` | Category: Logic/Constraint programming
+- **Strawberry Prolog** | ID: `d38c53b05b` | Category: Logic/Constraint programming
+- **Tau Prolog (JavaScript)** | ID: `961215f4b7` | Category: Logic/Constraint programming
+- **Trealla Prolog** | ID: `7f50f7b70e` | Category: Logic/Constraint programming
+- **Turbo Prolog** | ID: `9ce687bcf6` | Category: Logic/Constraint programming
+- **Visual Prolog** | ID: `699fbd2058` | Category: Logic/Constraint programming
+- **XSB Prolog** | ID: `fab9f9e1c8` | Category: Logic/Constraint programming
+- **YAP Prolog** | ID: `84bf1ee4e9` | Category: Logic/Constraint programming
+- **ZIMPL** | ID: `046d15a85d` | Category: Logic/Constraint programming
+- **alphaKanren** | ID: `05c883c384` | Category: Logic/Constraint programming
+- **cKanren** | ID: `cbc03d400f` | Category: Logic/Constraint programming
+- **microKanren** | ID: `449c72e14e` | Category: Logic/Constraint programming
+- **s(CASP)** | ID: `e95a86b461` | Category: Logic/Constraint programming
+- **tuProlog** | ID: `1c0000a91f` | Category: Logic/Constraint programming
+
+## SECTION: ML/Haskell/Dependent-Types family (68 entries)
+
+- **1ML** | ID: `863b24e2cc` | Category: ML/Haskell/Dependent-Types family
+- **ATS** | ID: `600d2c32c4` | Category: ML/Haskell/Dependent-Types family
+- **ATS2** | ID: `2fc6e16b63` | Category: ML/Haskell/Dependent-Types family
+- **Agda** | ID: `c9b660e30d` | Category: ML/Haskell/Dependent-Types family
+- **Alice ML** | ID: `1f79f63264` | Category: ML/Haskell/Dependent-Types family
+- **Beluga** | ID: `af212f8ed0` | Category: ML/Haskell/Dependent-Types family
+- **BuckleScript** | ID: `9f5cb57ac5` | Category: ML/Haskell/Dependent-Types family
+- **CakeML** | ID: `b6061b2b0e` | Category: ML/Haskell/Dependent-Types family
+- **Cayenne** | ID: `2186db2ef1` | Category: ML/Haskell/Dependent-Types family
+- **Cedille** | ID: `225eb6a3cd` | Category: ML/Haskell/Dependent-Types family
+- **Charity** | ID: `de0dc1d39b` | Category: ML/Haskell/Dependent-Types family
+- **Clean** | ID: `37d12e2cfb` | Category: ML/Haskell/Dependent-Types family
+- **Coq** | ID: `e83c9aa7db` | Category: ML/Haskell/Dependent-Types family
+- **DDC** | ID: `34ccd3ae5d` | Category: ML/Haskell/Dependent-Types family
+- **Dependent Haskell** | ID: `281029700f` | Category: ML/Haskell/Dependent-Types family
+- **Disciple** | ID: `63c692191a` | Category: ML/Haskell/Dependent-Types family
+- **Eff** | ID: `282ba36659` | Category: ML/Haskell/Dependent-Types family
+- **Elm 0.19** | ID: `58cf695535` | Category: ML/Haskell/Dependent-Types family
+- **Epigram** | ID: `8b0776ca3e` | Category: ML/Haskell/Dependent-Types family
+- **Eta (JVM Haskell)** | ID: `b9462ae976` | Category: ML/Haskell/Dependent-Types family
+- **F#** | ID: `629b160731` | Category: ML/Haskell/Dependent-Types family
+- **F* (FStar)** | ID: `d23a52327c` | Category: ML/Haskell/Dependent-Types family
+- **Frank** | ID: `f9dc77cece` | Category: ML/Haskell/Dependent-Types family
+- **Frege (JVM Haskell)** | ID: `769e00aba0` | Category: ML/Haskell/Dependent-Types family
+- **Futhark** | ID: `1e7582d9e4` | Category: ML/Haskell/Dependent-Types family
+- **GHC Haskell** | ID: `e50bcb59f7` | Category: ML/Haskell/Dependent-Types family
+- **Gofer** | ID: `146af6ded7` | Category: ML/Haskell/Dependent-Types family
+- **Granule** | ID: `86cb802404` | Category: ML/Haskell/Dependent-Types family
+- **HOL Light** | ID: `add673d34b` | Category: ML/Haskell/Dependent-Types family
+- **HOL4** | ID: `605210f90e` | Category: ML/Haskell/Dependent-Types family
+- **HaMLet** | ID: `021cd3c03a` | Category: ML/Haskell/Dependent-Types family
+- **Haskell 2010** | ID: `26fe6ba3a5` | Category: ML/Haskell/Dependent-Types family
+- **Haskell 98** | ID: `955cbb6a7a` | Category: ML/Haskell/Dependent-Types family
+- **Helium** | ID: `baa8b7cbfd` | Category: ML/Haskell/Dependent-Types family
+- **Hope** | ID: `9942d8472e` | Category: ML/Haskell/Dependent-Types family
+- **Hugs** | ID: `516947eef4` | Category: ML/Haskell/Dependent-Types family
+- **Idris** | ID: `2c2450a61b` | Category: ML/Haskell/Dependent-Types family
+- **Idris 2** | ID: `ad2bd8e697` | Category: ML/Haskell/Dependent-Types family
+- **Isabelle/HOL** | ID: `316dc93112` | Category: ML/Haskell/Dependent-Types family
+- **KRC** | ID: `9c095a2152` | Category: ML/Haskell/Dependent-Types family
+- **Koka** | ID: `893f33ee83` | Category: ML/Haskell/Dependent-Types family
+- **Lean 3** | ID: `d11985a90b` | Category: ML/Haskell/Dependent-Types family
+- **Lean 4** | ID: `1ddacf6c5c` | Category: ML/Haskell/Dependent-Types family
+- **Linear Haskell (GHC)** | ID: `ca9afec441` | Category: ML/Haskell/Dependent-Types family
+- **Links** | ID: `bd908db5cc` | Category: ML/Haskell/Dependent-Types family
+- **ML (Edinburgh)** | ID: `2344c5b807` | Category: ML/Haskell/Dependent-Types family
+- **MLKit** | ID: `47eba5b929` | Category: ML/Haskell/Dependent-Types family
+- **MLton** | ID: `163cb624d1` | Category: ML/Haskell/Dependent-Types family
+- **Manticore** | ID: `cd822b280e` | Category: ML/Haskell/Dependent-Types family
+- **Matita** | ID: `dd8fb08c8e` | Category: ML/Haskell/Dependent-Types family
+- **Miranda** | ID: `f8d3d52f62` | Category: ML/Haskell/Dependent-Types family
+- **Mizar** | ID: `0704abbcac` | Category: ML/Haskell/Dependent-Types family
+- **Moscow ML** | ID: `513d2e73fe` | Category: ML/Haskell/Dependent-Types family
+- **Nuprl** | ID: `22f7c16313` | Category: ML/Haskell/Dependent-Types family
+- **OCaml** | ID: `1d16892941` | Category: ML/Haskell/Dependent-Types family
+- **OCaml Multicore** | ID: `a515fe4177` | Category: ML/Haskell/Dependent-Types family
+- **Orwell** | ID: `d543b87bc1` | Category: ML/Haskell/Dependent-Types family
+- **Poly/ML** | ID: `77df077b5b` | Category: ML/Haskell/Dependent-Types family
+- **PureScript** | ID: `c7873b5ec5` | Category: ML/Haskell/Dependent-Types family
+- **ReScript** | ID: `bef754cb02` | Category: ML/Haskell/Dependent-Types family
+- **Reason (ReasonML)** | ID: `a3db50f25b` | Category: ML/Haskell/Dependent-Types family
+- **SASL** | ID: `b15a902a55` | Category: ML/Haskell/Dependent-Types family
+- **SML/NJ** | ID: `29f93ed733` | Category: ML/Haskell/Dependent-Types family
+- **Standard ML** | ID: `434f87c98d` | Category: ML/Haskell/Dependent-Types family
+- **Twelf** | ID: `e3dcbcca56` | Category: ML/Haskell/Dependent-Types family
+- **UHC** | ID: `d6d1acc2d7` | Category: ML/Haskell/Dependent-Types family
+- **Ur/Web** | ID: `b8f0bfd6ee` | Category: ML/Haskell/Dependent-Types family
+- **nhc98** | ID: `2501d7dc55` | Category: ML/Haskell/Dependent-Types family
+
+## SECTION: Music/Audio programming (49 entries)
+
+- **ABC notation** | ID: `02566b2c47` | Category: Music/Audio programming
+- **Ableton Live scripting (Python)** | ID: `ddebb4fc7a` | Category: Music/Audio programming
+- **Alda** | ID: `53d567e9c7` | Category: Music/Audio programming
+- **Ardour Lua scripting** | ID: `a97a584816` | Category: Music/Audio programming
+- **CLM** | ID: `962d78dafe` | Category: Music/Audio programming
+- **CSound** | ID: `39430defca` | Category: Music/Audio programming
+- **ChucK** | ID: `bbade82202` | Category: Music/Audio programming
+- **Csound** | ID: `5c8f8840bb` | Category: Music/Audio programming
+- **Extempore** | ID: `833e4be73b` | Category: Music/Audio programming
+- **FAUST DSP** | ID: `123f815169` | Category: Music/Audio programming
+- **Faust** | ID: `a46067dde4` | Category: Music/Audio programming
+- **Fluxus** | ID: `0bf78c37c3` | Category: Music/Audio programming
+- **FoxDot** | ID: `35489005d6` | Category: Music/Audio programming
+- **Gibber** | ID: `c97851b49b` | Category: Music/Audio programming
+- **Grace/CM** | ID: `8b407b65d1` | Category: Music/Audio programming
+- **Impromptu** | ID: `fb0d93cba7` | Category: Music/Audio programming
+- **LilyPond** | ID: `aa6601d969` | Category: Music/Audio programming
+- **Logic Pro scripting** | ID: `06a4f2b0ab` | Category: Music/Audio programming
+- **MEI** | ID: `27425df935` | Category: Music/Audio programming
+- **MIDI (protocol)** | ID: `334f737793` | Category: Music/Audio programming
+- **MIDI 2.0** | ID: `1ff0f7c957` | Category: Music/Audio programming
+- **MNX** | ID: `3bc75e7c2c` | Category: Music/Audio programming
+- **MPE (MIDI Polyphonic Expression)** | ID: `e568556f6d` | Category: Music/Audio programming
+- **Max/MSP/Jitter** | ID: `5353f7fd8a` | Category: Music/Audio programming
+- **MaxMSP** | ID: `23801d586c` | Category: Music/Audio programming
+- **Music V** | ID: `1576ac417b` | Category: Music/Audio programming
+- **Music-N** | ID: `8d0456d1a1` | Category: Music/Audio programming
+- **MusicXML** | ID: `18955383e7` | Category: Music/Audio programming
+- **Nyquist** | ID: `a6e35d7291` | Category: Music/Audio programming
+- **OSC (protocol)** | ID: `3a60df2d5f` | Category: Music/Audio programming
+- **OpenMusic (IRCAM)** | ID: `fc43f9c088` | Category: Music/Audio programming
+- **Orca** | ID: `02f36cf6fe` | Category: Music/Audio programming
+- **Overtone (Clojure)** | ID: `dc91a0343a` | Category: Music/Audio programming
+- **PWGL** | ID: `28da7932b7` | Category: Music/Audio programming
+- **Pd-extended** | ID: `4f4e570266` | Category: Music/Audio programming
+- **Pro Tools scripting** | ID: `1ba4a15b9e` | Category: Music/Audio programming
+- **Pure Data** | ID: `7b9b8c3ce6` | Category: Music/Audio programming
+- **Purr Data** | ID: `d3f4f39432` | Category: Music/Audio programming
+- **RNBO** | ID: `98f891f242` | Category: Music/Audio programming
+- **Reaktor Core** | ID: `f6015d735b` | Category: Music/Audio programming
+- **Reaper ReaScript (Lua/EEL/Python)** | ID: `d90ddabb4f` | Category: Music/Audio programming
+- **SOUL** | ID: `d7436ea3a5` | Category: Music/Audio programming
+- **Sonic Pi** | ID: `43ceb0877f` | Category: Music/Audio programming
+- **Sonic Visualiser scripting** | ID: `ab408301e5` | Category: Music/Audio programming
+- **Strudel** | ID: `720292ed8f` | Category: Music/Audio programming
+- **SuperCollider 3** | ID: `8a6e54ccfd` | Category: Music/Audio programming
+- **TidalCycles** | ID: `170a03d54a` | Category: Music/Audio programming
+- **VCV Rack scripting** | ID: `676cff6a7c` | Category: Music/Audio programming
+- **ixi lang** | ID: `30b72801e2` | Category: Music/Audio programming
+
+## SECTION: Pascal/Modula/Ada family (45 entries)
+
+- **Active Oberon** | ID: `fdd51afdff` | Category: Pascal/Modula/Ada family
+- **Ada 2005** | ID: `39b2fb528e` | Category: Pascal/Modula/Ada family
+- **Ada 2012** | ID: `5b715c1cb1` | Category: Pascal/Modula/Ada family
+- **Ada 2022** | ID: `e41b570ae7` | Category: Pascal/Modula/Ada family
+- **Ada 83** | ID: `f71fda410a` | Category: Pascal/Modula/Ada family
+- **Ada 95** | ID: `286b5ad6ae` | Category: Pascal/Modula/Ada family
+- **Borland Pascal** | ID: `a40dc71130` | Category: Pascal/Modula/Ada family
+- **Cedar** | ID: `f263181084` | Category: Pascal/Modula/Ada family
+- **Component Pascal** | ID: `9d47d923b2` | Category: Pascal/Modula/Ada family
+- **Concurrent Euclid** | ID: `8770c4b614` | Category: Pascal/Modula/Ada family
+- **Eiffel** | ID: `58d8c478a7` | Category: Pascal/Modula/Ada family
+- **Euclid** | ID: `4877d64070` | Category: Pascal/Modula/Ada family
+- **Free Pascal** | ID: `d19bdebcc5` | Category: Pascal/Modula/Ada family
+- **GNAT Ada** | ID: `ec2c3d6a40` | Category: Pascal/Modula/Ada family
+- **GNU Pascal** | ID: `375b080c78` | Category: Pascal/Modula/Ada family
+- **IP Pascal** | ID: `378df2961d` | Category: Pascal/Modula/Ada family
+- **ISE Eiffel** | ID: `56857fbbf3` | Category: Pascal/Modula/Ada family
+- **Lazarus** | ID: `b1800a2393` | Category: Pascal/Modula/Ada family
+- **Mesa** | ID: `2260b669d1` | Category: Pascal/Modula/Ada family
+- **Modula** | ID: `f4fb2aff0c` | Category: Pascal/Modula/Ada family
+- **Modula-2** | ID: `18ab7c6a89` | Category: Pascal/Modula/Ada family
+- **Modula-2+** | ID: `331c7cc38c` | Category: Pascal/Modula/Ada family
+- **Modula-3** | ID: `743b657721` | Category: Pascal/Modula/Ada family
+- **Oberon** | ID: `f9d0e88ed2` | Category: Pascal/Modula/Ada family
+- **Oberon-07** | ID: `4f4a35beb8` | Category: Pascal/Modula/Ada family
+- **Oberon-2** | ID: `374118c6ab` | Category: Pascal/Modula/Ada family
+- **Object Pascal (Delphi)** | ID: `72949f6c3d` | Category: Pascal/Modula/Ada family
+- **Object Turing** | ID: `0e33a009da` | Category: Pascal/Modula/Ada family
+- **Oxygene** | ID: `98d5147ee3` | Category: Pascal/Modula/Ada family
+- **Parasail** | ID: `c84e808d98` | Category: Pascal/Modula/Ada family
+- **Pascal (standard)** | ID: `ea2fffcf78` | Category: Pascal/Modula/Ada family
+- **PascalABC.NET** | ID: `068b6d2133` | Category: Pascal/Modula/Ada family
+- **SPARK Ada** | ID: `063f9972e3` | Category: Pascal/Modula/Ada family
+- **Sather** | ID: `8d208674a5` | Category: Pascal/Modula/Ada family
+- **Simula 67** | ID: `e11ece543f` | Category: Pascal/Modula/Ada family
+- **SmartEiffel** | ID: `b781b99b5e` | Category: Pascal/Modula/Ada family
+- **Turbo Pascal 1.0** | ID: `bd6e5f7d8a` | Category: Pascal/Modula/Ada family
+- **Turbo Pascal 3.0** | ID: `fb892e69f4` | Category: Pascal/Modula/Ada family
+- **Turbo Pascal 4.0** | ID: `6a9098badf` | Category: Pascal/Modula/Ada family
+- **Turbo Pascal 5.5** | ID: `c27202cfaa` | Category: Pascal/Modula/Ada family
+- **Turbo Pascal 6.0** | ID: `d4f939c7f5` | Category: Pascal/Modula/Ada family
+- **Turbo Pascal 7.0** | ID: `3250e75b52` | Category: Pascal/Modula/Ada family
+- **Turing** | ID: `bbe51039d0` | Category: Pascal/Modula/Ada family
+- **UCSD Pascal** | ID: `f3ffa15763` | Category: Pascal/Modula/Ada family
+- **Zonnon** | ID: `6388d8f386` | Category: Pascal/Modula/Ada family
+
+## SECTION: Regional/Non-English language (37 entries)
+
+- **1C:Enterprise (Russian business)** | ID: `94296a8441` | Category: Regional/Non-English language
+- **Ballerina (Sri Lanka)** | ID: `3a20d49d47` | Category: Regional/Non-English language
+- **BhaiLang (Hindi)** | ID: `4b802d1484` | Category: Regional/Non-English language
+- **Bosque (Microsoft, multilingual docs)** | ID: `11b54f05bd` | Category: Regional/Non-English language
+- **DRAKON (Russian visual)** | ID: `276e1d90c3` | Category: Regional/Non-English language
+- **Dolittle (Japanese)** | ID: `d757a75c6e` | Category: Regional/Non-English language
+- **Fjolnir (Icelandic)** | ID: `7848334868` | Category: Regional/Non-English language
+- **Hedy (30+ languages)** | ID: `06e608c8b8` | Category: Regional/Non-English language
+- **Kalaam (Hindi)** | ID: `3f38ef79fb` | Category: Regional/Non-English language
+- **KuMir (Russian education)** | ID: `d4da2589e5` | Category: Regional/Non-English language
+- **Lexico (Spanish)** | ID: `6819c232ed` | Category: Regional/Non-English language
+- **Logo (Turkish: Logo TR)** | ID: `00768af6a1` | Category: Regional/Non-English language
+- **Lugha (Swahili)** | ID: `accdad3030` | Category: Regional/Non-English language
+- **Mind (Japanese)** | ID: `c8e43dc335` | Category: Regional/Non-English language
+- **Nadeshiko (Japanese)** | ID: `d40600e8d1` | Category: Regional/Non-English language
+- **PascalABC.NET (Russian Pascal)** | ID: `dd9c41e803` | Category: Regional/Non-English language
+- **Produire (Japanese)** | ID: `db4daca995` | Category: Regional/Non-English language
+- **Pseudocode (Spanish/French/German variants)** | ID: `a387ce1f6e` | Category: Regional/Non-English language
+- **Qalb (Arabic)** | ID: `d276ffcfcf` | Category: Regional/Non-English language
+- **Rapira (Russian)** | ID: `5ce17dee07` | Category: Regional/Non-English language
+- **Robik (Ukrainian/Soviet)** | ID: `467e17c124` | Category: Regional/Non-English language
+- **Scratch (40+ language translations)** | ID: `b5129beff3` | Category: Regional/Non-English language
+- **Thai programming experiments** | ID: `c612a135f6` | Category: Regional/Non-English language
+- **Vietnamese programming experiments** | ID: `0a4de08f01` | Category: Regional/Non-English language
+- **Yorlang (Yoruba)** | ID: `03a2b132d5` | Category: Regional/Non-English language
+- **سراج (Siraj, Arabic)** | ID: `1bb1496a34` | Category: Regional/Non-English language
+- **قلب (Qalb v2, Arabic)** | ID: `68c1099942` | Category: Regional/Non-English language
+- **कलाम (Kalaam v2, Hindi)** | ID: `42b515a4fb` | Category: Regional/Non-English language
+- **தமிழ் நிரலாக்கம் (Tamil programming)** | ID: `1d78908577` | Category: Regional/Non-English language
+- **なでしこ (Nadeshiko v3)** | ID: `dc16358aca` | Category: Regional/Non-English language
+- **ひまわり (Himawari, Japanese)** | ID: `cb82f4a352` | Category: Regional/Non-English language
+- **プロデル (Produire v2)** | ID: `9fcd3d2000` | Category: Regional/Non-English language
+- **接触 (Jiēchù, experimental Chinese)** | ID: `aa0e54c964` | Category: Regional/Non-English language
+- **文言 wenyan (Classical Chinese)** | ID: `415cf12304` | Category: Regional/Non-English language
+- **易语言 EPL (Simplified Chinese)** | ID: `82fc7cd7d4` | Category: Regional/Non-English language
+- **아희 Aheui (Korean esolang)** | ID: `a8c58bbc25` | Category: Regional/Non-English language
+- **한글 프로그래밍 (Korean programming)** | ID: `094d7d383f` | Category: Regional/Non-English language
+
+## SECTION: Shell/REPL/Interactive (74 entries)
+
+- **4DOS** | ID: `d53a5febf8` | Category: Shell/REPL/Interactive
+- **4NT/Take Command** | ID: `349130efc0` | Category: Shell/REPL/Interactive
+- **ARexx (Amiga)** | ID: `abe3a56ef0` | Category: Shell/REPL/Interactive
+- **Almquist shell (ash)** | ID: `ae8ab816b8` | Category: Shell/REPL/Interactive
+- **Ammonite (Scala shell)** | ID: `9cfb6cbc45` | Category: Shell/REPL/Interactive
+- **Ammonite Scala** | ID: `0cb99e079a` | Category: Shell/REPL/Interactive
+- **BRexx** | ID: `b401948ab0` | Category: Shell/REPL/Interactive
+- **Bash 1.x** | ID: `cab0d80823` | Category: Shell/REPL/Interactive
+- **Bash 2.x** | ID: `5f8c61edfd` | Category: Shell/REPL/Interactive
+- **Bash 3.x** | ID: `03c96fbbad` | Category: Shell/REPL/Interactive
+- **Bash 4.x** | ID: `2c187f4380` | Category: Shell/REPL/Interactive
+- **Bash 5.x** | ID: `48933e1a46` | Category: Shell/REPL/Interactive
+- **Bourne shell (sh)** | ID: `eb52a41cbc` | Category: Shell/REPL/Interactive
+- **Bun REPL** | ID: `55ff2ad0a5` | Category: Shell/REPL/Interactive
+- **BusyBox sh** | ID: `81a6a8835c` | Category: Shell/REPL/Interactive
+- **C shell (csh)** | ID: `ee27df779e` | Category: Shell/REPL/Interactive
+- **CLIST** | ID: `f36d5248b4` | Category: Shell/REPL/Interactive
+- **COMMAND.COM** | ID: `975a0b9313` | Category: Shell/REPL/Interactive
+- **Clojure REPL (nREPL)** | ID: `d2a6043501` | Category: Shell/REPL/Interactive
+- **DCL (OpenVMS)** | ID: `e41f8feb7a` | Category: Shell/REPL/Interactive
+- **Dash** | ID: `3663598d5c` | Category: Shell/REPL/Interactive
+- **Deno REPL** | ID: `74eef49faa` | Category: Shell/REPL/Interactive
+- **Elvish** | ID: `ec318153bd` | Category: Shell/REPL/Interactive
+- **Fish shell** | ID: `7944c462c7` | Category: Shell/REPL/Interactive
+- **GHCi** | ID: `2008250fcf` | Category: Shell/REPL/Interactive
+- **Groovy Console** | ID: `ea94d48204` | Category: Shell/REPL/Interactive
+- **Hilbish** | ID: `1e7d066b94` | Category: Shell/REPL/Interactive
+- **IEx (Elixir)** | ID: `dcfaff474c` | Category: Shell/REPL/Interactive
+- **IPython** | ID: `a6e4b6a985` | Category: Shell/REPL/Interactive
+- **Ion** | ID: `e0befa4b73` | Category: Shell/REPL/Interactive
+- **JCL (IBM mainframe)** | ID: `7c25568661` | Category: Shell/REPL/Interactive
+- **JShell (Java 9+)** | ID: `75cfdb446d` | Category: Shell/REPL/Interactive
+- **Julia REPL** | ID: `922fe97db6` | Category: Shell/REPL/Interactive
+- **Jupyter (kernel protocol)** | ID: `2a8f4d9a4b` | Category: Shell/REPL/Interactive
+- **Korn shell (ksh)** | ID: `8a06a112b9` | Category: Shell/REPL/Interactive
+- **Kotlin REPL** | ID: `766850f7ed` | Category: Shell/REPL/Interactive
+- **Lein REPL** | ID: `b50142aea1` | Category: Shell/REPL/Interactive
+- **Lua interactive** | ID: `6c6faa68d0` | Category: Shell/REPL/Interactive
+- **Murex** | ID: `edba4a902b` | Category: Shell/REPL/Interactive
+- **NetRexx** | ID: `ca59ecf12e` | Category: Shell/REPL/Interactive
+- **Nushell** | ID: `172b539a01` | Category: Shell/REPL/Interactive
+- **Oil/Osh/YSH** | ID: `1a6d93884a` | Category: Shell/REPL/Interactive
+- **PHP interactive (-a)** | ID: `443b530ee9` | Category: Shell/REPL/Interactive
+- **PowerShell 5.x** | ID: `ce7d1e6ff2` | Category: Shell/REPL/Interactive
+- **PowerShell 7.x (Core)** | ID: `485786da44` | Category: Shell/REPL/Interactive
+- **Python REPL** | ID: `c893bbe635` | Category: Shell/REPL/Interactive
+- **R console** | ID: `1400460cc9` | Category: Shell/REPL/Interactive
+- **REXX** | ID: `0241ded917` | Category: Shell/REPL/Interactive
+- **RStudio console** | ID: `350a4afc7f` | Category: Shell/REPL/Interactive
+- **Rails console** | ID: `e1139273ce` | Category: Shell/REPL/Interactive
+- **Regina REXX** | ID: `166efe0c20` | Category: Shell/REPL/Interactive
+- **Scala REPL** | ID: `78fb81e831` | Category: Shell/REPL/Interactive
+- **Swift REPL** | ID: `135841ee2f` | Category: Shell/REPL/Interactive
+- **TSO/ISPF** | ID: `ba5412086d` | Category: Shell/REPL/Interactive
+- **Thompson shell** | ID: `4bfabd43e6` | Category: Shell/REPL/Interactive
+- **Utop (OCaml)** | ID: `1c2ca54d03` | Category: Shell/REPL/Interactive
+- **Xonsh** | ID: `a202e045e8` | Category: Shell/REPL/Interactive
+- **Zsh** | ID: `4001dccff5` | Category: Shell/REPL/Interactive
+- **bpython** | ID: `b7eb85e1ac` | Category: Shell/REPL/Interactive
+- **cmd.exe** | ID: `45e0edaca8` | Category: Shell/REPL/Interactive
+- **erl shell** | ID: `a10332b5b9` | Category: Shell/REPL/Interactive
+- **es shell** | ID: `0212ca1f95` | Category: Shell/REPL/Interactive
+- **irb (interactive Ruby)** | ID: `8c196435fd` | Category: Shell/REPL/Interactive
+- **ksh88** | ID: `bc11732006` | Category: Shell/REPL/Interactive
+- **ksh93** | ID: `80e62b2115` | Category: Shell/REPL/Interactive
+- **mksh** | ID: `83c3cef96a` | Category: Shell/REPL/Interactive
+- **node REPL** | ID: `e33c6e862a` | Category: Shell/REPL/Interactive
+- **ooRexx** | ID: `662551cc10` | Category: Shell/REPL/Interactive
+- **pdksh** | ID: `387bf557d6` | Category: Shell/REPL/Interactive
+- **pry (Ruby)** | ID: `f9ae9520ac` | Category: Shell/REPL/Interactive
+- **ptpython** | ID: `dd2085195e` | Category: Shell/REPL/Interactive
+- **rc (Plan 9)** | ID: `a59549e1c7` | Category: Shell/REPL/Interactive
+- **tcsh** | ID: `60dcd3f655` | Category: Shell/REPL/Interactive
+- **ts-node REPL** | ID: `970cb374bf` | Category: Shell/REPL/Interactive
+
+## SECTION: Testing/Specification DSL (66 entries)
+
+- **Alloy (Daniel Jackson)** | ID: `1c97ff0ba3` | Category: Testing/Specification DSL
+- **Appium** | ID: `ee80ff0afc` | Category: Testing/Specification DSL
+- **Artillery YAML** | ID: `8c74bf1eb3` | Category: Testing/Specification DSL
+- **AsyncAPI spec** | ID: `fd43a5b9eb` | Category: Testing/Specification DSL
+- **Avro schema** | ID: `56c8d1371e` | Category: Testing/Specification DSL
+- **Behave (Python BDD)** | ID: `17cfd014d6` | Category: Testing/Specification DSL
+- **CBOR spec** | ID: `d345e1c72a` | Category: Testing/Specification DSL
+- **CCS (Milner)** | ID: `b7dbc371da` | Category: Testing/Specification DSL
+- **CSP (Hoare)** | ID: `f8acb3079e` | Category: Testing/Specification DSL
+- **Cap'n Proto** | ID: `6896f7e999` | Category: Testing/Specification DSL
+- **Chai** | ID: `db22be4525` | Category: Testing/Specification DSL
+- **Cypress commands** | ID: `709908d28e` | Category: Testing/Specification DSL
+- **Detox (React Native)** | ID: `a128ecdda8` | Category: Testing/Specification DSL
+- **Dredd API testing** | ID: `24f62196d9` | Category: Testing/Specification DSL
+- **Earl Grey (iOS)** | ID: `a2b10bed3b` | Category: Testing/Specification DSL
+- **Espresso (Android)** | ID: `96627e4606` | Category: Testing/Specification DSL
+- **Event-B** | ID: `14901e86de` | Category: Testing/Specification DSL
+- **FlatBuffers schema** | ID: `49d8629387` | Category: Testing/Specification DSL
+- **Gatling Scala DSL** | ID: `90aee6b77b` | Category: Testing/Specification DSL
+- **Gauge markdown** | ID: `8c6242ee5b` | Category: Testing/Specification DSL
+- **Gherkin (Cucumber)** | ID: `457f6dbc08` | Category: Testing/Specification DSL
+- **HAL spec** | ID: `51cc756489` | Category: Testing/Specification DSL
+- **HATEOAS** | ID: `2ecce78ecd` | Category: Testing/Specification DSL
+- **JMeter JMX** | ID: `e0f145387f` | Category: Testing/Specification DSL
+- **JSON Schema** | ID: `45b6545de6` | Category: Testing/Specification DSL
+- **JSON-LD** | ID: `2e30b03b43` | Category: Testing/Specification DSL
+- **JSON:API spec** | ID: `9a4cbfbe32` | Category: Testing/Specification DSL
+- **Jasmine** | ID: `96a94edbdb` | Category: Testing/Specification DSL
+- **Jest** | ID: `361a86b41d` | Category: Testing/Specification DSL
+- **Karate DSL** | ID: `cccc82c9f2` | Category: Testing/Specification DSL
+- **LOTOS** | ID: `cf9ed8ae4d` | Category: Testing/Specification DSL
+- **Locust Python** | ID: `9b1264de94` | Category: Testing/Specification DSL
+- **MessagePack spec** | ID: `799fe5144f` | Category: Testing/Specification DSL
+- **Minitest (Ruby)** | ID: `e3a7bb295d` | Category: Testing/Specification DSL
+- **Mocha** | ID: `6d309d764a` | Category: Testing/Specification DSL
+- **Pact contract testing** | ID: `cd0d629b95` | Category: Testing/Specification DSL
+- **Petri nets** | ID: `d6fc5b54c2` | Category: Testing/Specification DSL
+- **Pi calculus** | ID: `a63a4b3598` | Category: Testing/Specification DSL
+- **Playwright API** | ID: `e2b1eecab2` | Category: Testing/Specification DSL
+- **PlusCal** | ID: `f968dcced1` | Category: Testing/Specification DSL
+- **Postman/Newman scripting** | ID: `0baeca886a` | Category: Testing/Specification DSL
+- **Protobuf .proto** | ID: `6bc234f69d` | Category: Testing/Specification DSL
+- **Puppeteer API** | ID: `c8cfcea86c` | Category: Testing/Specification DSL
+- **RAISE RSL** | ID: `c861db0d45` | Category: Testing/Specification DSL
+- **REST Assured** | ID: `d491b28b59` | Category: Testing/Specification DSL
+- **RSpec DSL** | ID: `733f60fac1` | Category: Testing/Specification DSL
+- **Robot Framework** | ID: `79714c791f` | Category: Testing/Specification DSL
+- **Selenium WebDriver** | ID: `1cfb0ad3c8` | Category: Testing/Specification DSL
+- **Sinon** | ID: `3aa2ebb8b6` | Category: Testing/Specification DSL
+- **SpecFlow (C# BDD)** | ID: `0124f2c5e3` | Category: Testing/Specification DSL
+- **Statecharts (Harel)** | ID: `9e49bd688f` | Category: Testing/Specification DSL
+- **Swagger/OpenAPI spec** | ID: `776218df0e` | Category: Testing/Specification DSL
+- **TLA+ (Leslie Lamport)** | ID: `e26974825d` | Category: Testing/Specification DSL
+- **Thrift IDL** | ID: `634f73a8de` | Category: Testing/Specification DSL
+- **VDM-SL** | ID: `ab282c8511` | Category: Testing/Specification DSL
+- **Vegeta (Go)** | ID: `0c8c2a03e7` | Category: Testing/Specification DSL
+- **Vitest** | ID: `285fd95e1a` | Category: Testing/Specification DSL
+- **XCUITest (iOS)** | ID: `1d10a863fe` | Category: Testing/Specification DSL
+- **XState (JavaScript)** | ID: `3ecba36801` | Category: Testing/Specification DSL
+- **Z notation** | ID: `1dc105665f` | Category: Testing/Specification DSL
+- **doctest (Python)** | ID: `8c668f808c` | Category: Testing/Specification DSL
+- **hypothesis (Python property testing)** | ID: `521d9533ef` | Category: Testing/Specification DSL
+- **k6 JavaScript** | ID: `53137c1c7c` | Category: Testing/Specification DSL
+- **pytest** | ID: `5a748c1201` | Category: Testing/Specification DSL
+- **unittest (Python)** | ID: `4332ac1991` | Category: Testing/Specification DSL
+- **wrk Lua** | ID: `82f096f444` | Category: Testing/Specification DSL
+
+## SECTION: Web framework/Template DSL (83 entries)
+
+- **Alpine.js x-directives** | ID: `45bbd8cba7` | Category: Web framework/Template DSL
+- **Angular template syntax** | ID: `15cc565c75` | Category: Web framework/Template DSL
+- **Ant Design** | ID: `abea6ff0b1` | Category: Web framework/Template DSL
+- **Astro components** | ID: `89e61aba7e` | Category: Web framework/Template DSL
+- **Avalonia XAML** | ID: `2b73f7ac5a` | Category: Web framework/Template DSL
+- **Blade (Laravel)** | ID: `16d3aa2bea` | Category: Web framework/Template DSL
+- **Blazor Razor** | ID: `0df07672e4` | Category: Web framework/Template DSL
+- **Bootstrap (CSS framework)** | ID: `934cbeb261` | Category: Web framework/Template DSL
+- **Bulma CSS** | ID: `3226d34777` | Category: Web framework/Template DSL
+- **CEF (Chromium Embedded)** | ID: `5ac10ed296` | Category: Web framework/Template DSL
+- **CSS Modules** | ID: `c31a87b548` | Category: Web framework/Template DSL
+- **Capacitor** | ID: `f2b00b9e4a` | Category: Web framework/Template DSL
+- **Chakra UI** | ID: `0a30765ed7` | Category: Web framework/Template DSL
+- **DaisyUI** | ID: `02bd36e907` | Category: Web framework/Template DSL
+- **Django template** | ID: `7e6d60c833` | Category: Web framework/Template DSL
+- **EJS** | ID: `06bcabab75` | Category: Web framework/Template DSL
+- **Electron (JS)** | ID: `475c67cd43` | Category: Web framework/Template DSL
+- **Emotion (CSS-in-JS)** | ID: `a00269d1d4` | Category: Web framework/Template DSL
+- **Flowbite** | ID: `f10bb99209` | Category: Web framework/Template DSL
+- **Flutter Dart Widget DSL** | ID: `d4de4c4141` | Category: Web framework/Template DSL
+- **Foundation CSS** | ID: `35db6ab445` | Category: Web framework/Template DSL
+- **FreeMarker** | ID: `63927e327c` | Category: Web framework/Template DSL
+- **HTMX attributes** | ID: `261ee745f5` | Category: Web framework/Template DSL
+- **Handlebars** | ID: `ffbd77849c` | Category: Web framework/Template DSL
+- **Headless UI** | ID: `dd7850b43b` | Category: Web framework/Template DSL
+- **Heroicons** | ID: `7afcd52281` | Category: Web framework/Template DSL
+- **Houdini CSS** | ID: `bb8f6e5ee4` | Category: Web framework/Template DSL
+- **Inferno JSX** | ID: `ab9858f05a` | Category: Web framework/Template DSL
+- **Ionic Angular** | ID: `9b7bf3d6fe` | Category: Web framework/Template DSL
+- **Ionic React** | ID: `4a0e8e04fd` | Category: Web framework/Template DSL
+- **JSX (React)** | ID: `cfdcc56444` | Category: Web framework/Template DSL
+- **Jetpack Compose (Kotlin)** | ID: `6520a448bc` | Category: Web framework/Template DSL
+- **Jinja2** | ID: `f3d8cfa34e` | Category: Web framework/Template DSL
+- **Less CSS** | ID: `58d48d61e7` | Category: Web framework/Template DSL
+- **Lightning CSS** | ID: `f7c947e464` | Category: Web framework/Template DSL
+- **Liquid (Shopify)** | ID: `26d3fab8b6` | Category: Web framework/Template DSL
+- **Lit HTML** | ID: `a13d328915` | Category: Web framework/Template DSL
+- **Livewire (Laravel)** | ID: `16277da99e` | Category: Web framework/Template DSL
+- **MAUI XAML** | ID: `20efd25f84` | Category: Web framework/Template DSL
+- **MDX** | ID: `cd49eecab2` | Category: Web framework/Template DSL
+- **MUI (Material UI)** | ID: `ffd21ebfd7` | Category: Web framework/Template DSL
+- **Marko template** | ID: `3837b72b66` | Category: Web framework/Template DSL
+- **Materialize CSS** | ID: `8226332628` | Category: Web framework/Template DSL
+- **Mustache** | ID: `f28e68a47e` | Category: Web framework/Template DSL
+- **NW.js** | ID: `68dc92986a` | Category: Web framework/Template DSL
+- **NativeScript** | ID: `c86d1da284` | Category: Web framework/Template DSL
+- **Nunjucks** | ID: `97139aeba3` | Category: Web framework/Template DSL
+- **Phoenix LiveView (HEEx)** | ID: `d9a58223e9` | Category: Web framework/Template DSL
+- **PostCSS** | ID: `d5b02d5fdb` | Category: Web framework/Template DSL
+- **Preact JSX** | ID: `a0396916da` | Category: Web framework/Template DSL
+- **Pug/Jade** | ID: `1c6f85a642` | Category: Web framework/Template DSL
+- **Qwik JSX** | ID: `27728b4fb3` | Category: Web framework/Template DSL
+- **Radix UI** | ID: `a2f9a43632` | Category: Web framework/Template DSL
+- **Rails ERB** | ID: `9bbab2294e` | Category: Web framework/Template DSL
+- **Rails Haml** | ID: `f16f03d6ba` | Category: Web framework/Template DSL
+- **Rails Slim** | ID: `9b13ec6aab` | Category: Web framework/Template DSL
+- **Razor (ASP.NET)** | ID: `308c8c56d3` | Category: Web framework/Template DSL
+- **React Native JSX** | ID: `b2567d55fe` | Category: Web framework/Template DSL
+- **Riot.js template** | ID: `81d47e5f76` | Category: Web framework/Template DSL
+- **Sass/SCSS** | ID: `5a6a2532a9` | Category: Web framework/Template DSL
+- **Solid JSX** | ID: `4653c161d1` | Category: Web framework/Template DSL
+- **Stencil JSX** | ID: `2add75cd88` | Category: Web framework/Template DSL
+- **Stimulus** | ID: `7c3bebd50e` | Category: Web framework/Template DSL
+- **Styled Components** | ID: `b1420294b7` | Category: Web framework/Template DSL
+- **Stylus CSS** | ID: `1feb914761` | Category: Web framework/Template DSL
+- **Svelte template syntax** | ID: `643d4dd0e3` | Category: Web framework/Template DSL
+- **SwiftUI DSL** | ID: `35e2229456` | Category: Web framework/Template DSL
+- **TSX (React+TS)** | ID: `27d905f53d` | Category: Web framework/Template DSL
+- **Tailwind CSS** | ID: `ecaf86f5e6` | Category: Web framework/Template DSL
+- **Tauri (Rust+Web)** | ID: `2dee329b05` | Category: Web framework/Template DSL
+- **Thymeleaf (Java)** | ID: `991797d6ce` | Category: Web framework/Template DSL
+- **Turbo (Hotwire)** | ID: `697d829b15` | Category: Web framework/Template DSL
+- **Twig (PHP)** | ID: `52d377c385` | Category: Web framework/Template DSL
+- **UIKit (Objective-C)** | ID: `af7524c4a6` | Category: Web framework/Template DSL
+- **UIKit (Swift)** | ID: `693e9ab195` | Category: Web framework/Template DSL
+- **UWP XAML** | ID: `3b9720bf13` | Category: Web framework/Template DSL
+- **UnoCSS** | ID: `a3f3102d2d` | Category: Web framework/Template DSL
+- **Velocity (Apache)** | ID: `38c63fe6af` | Category: Web framework/Template DSL
+- **Vue SFC (.vue)** | ID: `5ee53d9f29` | Category: Web framework/Template DSL
+- **WPF XAML** | ID: `3ea8f7db89` | Category: Web framework/Template DSL
+- **WinUI XAML** | ID: `afa0505335` | Category: Web framework/Template DSL
+- **WindiCSS** | ID: `21df80c44a` | Category: Web framework/Template DSL
+- **shadcn/ui** | ID: `8adbd8edff` | Category: Web framework/Template DSL

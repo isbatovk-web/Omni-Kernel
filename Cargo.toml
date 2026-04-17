@@ -1,0 +1,53 @@
+[package]
+name = "omni-kernel"
+version = "0.1.0"
+edition = "2021"
+description = "A language-agnostic meta-runtime that unifies all programming languages into a single execution fabric via WebAssembly"
+authors = ["Omni-Kernel Team"]
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+# ── Error Handling & Async ────────────────────────────────
+anyhow = "1"
+thiserror = "1"
+tokio = { version = "1", features = ["full"] }
+
+# ── Logging & Diagnostics ────────────────────────────────
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+
+# ── Data & Serialization ─────────────────────────────────
+dashmap = "5"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+toml = "0.8"
+bytes = "1"
+sysinfo = "0.30"
+
+# ── Web Server & Dashboard ────────────────────────────────
+axum = "0.7"
+tower-http = { version = "0.5", features = ["fs", "cors", "trace"] }
+
+# ── OMNI-BRAIN NEURAL AI STACK (OPTIONAL) ──────────────────
+candle-core = { version = "0.3.1", optional = true }
+candle-nn = { version = "0.3.1", optional = true }
+candle-transformers = { version = "0.3.1", optional = true }
+tokenizers = { version = "0.15", optional = true }
+
+[features]
+default = []
+ai = ["dep:candle-core", "dep:candle-nn", "dep:candle-transformers", "dep:tokenizers"]
+
+# ── WASM Runtime ──────────────────────────────────────────
+# wasmtime = { version = "19", features = ["component-model"] }
+# wasmtime-wasi = "19"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+
+[profile.dev]
+opt-level = 0
+debug = true

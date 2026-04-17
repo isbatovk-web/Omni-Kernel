@@ -1,0 +1,115 @@
+/// ═══════════════════════════════════════════════════════════
+/// ⚡ Omni-Kernel Bridge — WIT Interface Definition
+/// ═══════════════════════════════════════════════════════════
+///
+/// This WIT (WebAssembly Interface Type) file defines the contract
+/// between WASM guest modules and the Omni-Kernel host runtime.
+///
+/// Every WASM module that wants to participate in the Omni-Kernel
+/// ecosystem must import the `omni:bridge/runtime` interface and
+/// export the `omni:bridge/guest` interface.
+
+package omni:bridge;
+
+/// Types shared across all interfaces.
+interface types {
+    /// An opaque handle to a memory block in the Universal Memory Pool.
+    /// Handle 0 is reserved as "null" / no-value.
+    type mem-handle = u32;
+
+    /// Identifies a registered module by name.
+    type module-id = string;
+
+    /// Identifies a function within a module.
+    type func-id = string;
+
+    /// Result of a bridge operation.
+    variant bridge-result {
+        /// Operation succeeded, returning a memory handle.
+        ok(mem-handle),
+        /// Operation failed with an error message.
+        err(string),
+    }
+
+    /// Information about a memory block.
+    record block-info {
+        /// Handle to this block.
+        handle: mem-handle,
+        /// Size in bytes.
+        size: u32,
+        /// Owner module name.
+        owner: string,
+        /// Number of references.
+        ref-count: u32,
+    }
+}
+
+/// Interface imported by guest modules — provides access to the host runtime.
+/// Every WASM module running in Omni-Kernel imports these functions.
+interface runtime {
+    use types.{mem-handle, module-id, func-id, bridge-result, block-info};
+
+    /// Allocate a block of memory in the Universal Memory Pool.
+    /// Returns a handle that can be used with read/write operations.
+    alloc: func(size: u32) -> bridge-result;
+
+    /// Free a previously allocated memory block.
+    /// If the block has multiple references, this decrements the ref count.
+    free: func(handle: mem-handle) -> bridge-result;
+
+    /// Write data from the guest's linear memory into the shared pool.
+    /// - handle: target block in the shared pool
+    /// - offset: byte offset within the block
+    /// - data: bytes to write
+    write: func(handle: mem-handle, offset: u32, data: list<u8>) -> bridge-result;
+
+    /// Read data from the shared pool into the guest's linear memory.
+    /// - handle: source block in the shared pool
+    /// - offset: byte offset within the block
+    /// - length: number of bytes to read
+    read: func(handle: mem-handle, offset: u32, length: u32) -> list<u8>;
+
+    /// Call a function in another module through the bridge.
+    /// - target-module: name of the module to call
+    /// - target-func: name of the function to call
+    /// - args-handle: handle to the arguments in shared memory
+    /// Returns a handle to the result in shared memory.
+    call: func(
+        target-module: module-id,
+        target-func: func-id,
+        args-handle: mem-handle,
+    ) -> bridge-result;
+
+    /// Get information about a memory block.
+    get-block-info: func(handle: mem-handle) -> block-info;
+
+    /// Log a message from the guest module (for debugging).
+    log: func(level: string, message: string);
+}
+
+/// Interface exported by guest modules — the host calls these.
+interface guest {
+    use types.{mem-handle};
+
+    /// Called by the host when the module is first loaded.
+    /// The module should register its exported functions here.
+    init: func() -> bool;
+
+    /// Called by the host to invoke a function by name.
+    /// The args-handle points to arguments in the shared memory pool.
+    /// Returns a handle to the result.
+    invoke: func(func-name: string, args-handle: mem-handle) -> mem-handle;
+
+    /// Called by the host when the module is being unloaded.
+    /// The module should clean up any resources here.
+    shutdown: func();
+}
+
+/// The world definition — combines imports and exports.
+world omni-module {
+    /// Every guest module imports the host runtime interface.
+    import runtime;
+
+    /// Every guest module exports the guest interface.
+    export guest;
+}
