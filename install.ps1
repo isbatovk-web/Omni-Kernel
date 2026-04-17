@@ -23,14 +23,20 @@ if (!(Get-Command git -ErrorAction SilentlyContinue)) {
     return
 }
 
-$RELEASE_URL = "https://github.com/isbatovk-web/Omni-Kernel/releases/download/v1.0.0/omni-kernel-v1.zip"
+$RELEASE_URL = "https://github.com/isbatovk-web/Omni-Kernel/releases/download/v1.0.4/omni-kernel-win.zip"
 $INSTALL_PATH = "$HOME\Omni-Kernel-Fast"
 
 if (Test-Path $INSTALL_PATH) { Remove-Item -Recurse -Force $INSTALL_PATH }
 New-Item -ItemType Directory -Path $INSTALL_PATH
 
 Write-Host "> Downloading Pre-compiled Engine (Lightweight)..." -ForegroundColor Cyan
-Invoke-WebRequest -Uri $RELEASE_URL -OutFile "$INSTALL_PATH\omni.zip"
+try {
+    Invoke-WebRequest -Uri $RELEASE_URL -OutFile "$INSTALL_PATH\omni.zip"
+} catch {
+    Write-Host "X Error: Could not download the engine. Please ensure the release exists at Github." -ForegroundColor Red
+    Write-Host "URL: $RELEASE_URL" -ForegroundColor Gray
+    return
+}
 
 Write-Host "> Unpacking Universal Logic Fabric..." -ForegroundColor Cyan
 Expand-Archive -Path "$INSTALL_PATH\omni.zip" -DestinationPath $INSTALL_PATH
@@ -42,4 +48,5 @@ Write-Host "🚀 Launching Dashboard..." -ForegroundColor Yellow
 
 Set-Location $INSTALL_PATH
 Start-Process ".\omni-kernel.exe"
+# Wait for the process to start if needed, or just notify
 Write-Host "🌐 Link: http://localhost:3000" -ForegroundColor Green
